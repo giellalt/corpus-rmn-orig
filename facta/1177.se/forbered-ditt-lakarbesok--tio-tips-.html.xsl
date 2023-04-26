@@ -176,7 +176,7 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="motet-med-varden.html"/>
-    <parallel_text location="forbered-ditt-lakarbesok--tio-tips.html" xml:lang="rmy-rlo"/>
+    <parallel_text xml:lang="rmy-rlo" location="forbered-ditt-lakarbesok--tio-tips.html"/>
 </xsl:variable>
 
     <!--

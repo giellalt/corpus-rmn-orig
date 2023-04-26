@@ -176,7 +176,7 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="remiss.html"/>
-    <parallel_text location="remiss.html" xml:lang="rmy-rlo"/>
+    <parallel_text xml:lang="rmy-rlo" location="remiss.html"/>
 </xsl:variable>
 
     <!--

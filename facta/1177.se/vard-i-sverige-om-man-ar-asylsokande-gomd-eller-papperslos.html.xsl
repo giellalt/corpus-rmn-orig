@@ -176,7 +176,7 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="vard-i-sverige-om-man-ar-asylsokande.html"/>
-    <parallel_text location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html" xml:lang="rmy-rlo"/>
+    <parallel_text xml:lang="rmy-rlo" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
 </xsl:variable>
 
     <!--

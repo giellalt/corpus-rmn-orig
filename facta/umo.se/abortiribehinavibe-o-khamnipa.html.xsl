@@ -176,10 +176,10 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="abort.html"/>
-    <parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/>
-<parallel_text location="abortos.html" xml:lang="rmf"/>
-<parallel_text location="abortsia.html" xml:lang="rmy-rlo"/>
-<parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/>
+    <parallel_text xml:lang="rmu" location="phatra-pari-abort.html"/>
+<parallel_text xml:lang="rmf" location="abortos.html"/>
+<parallel_text xml:lang="rmy-rlo" location="abortsia.html"/>
+<parallel_text xml:lang="rmy-rka" location="kana-e-uvli-udel-pestar.html"/>
 </xsl:variable>
 
     <!--
