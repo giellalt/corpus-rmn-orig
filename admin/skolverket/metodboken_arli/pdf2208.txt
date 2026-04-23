@@ -1,0 +1,2551 @@
+--- Page 1 ---
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
+  <div style="text-align: center;">
+    ![image](image_1.png)
+    <p>Education des enfants roms en Europe<br>Education of Roma children in Europe</p>
+  </div>
+  <div style="text-align: center;">
+    ![image](image_2.png)
+    <p>COUNCIL OF EUROPE<br>CONSEIL DE L'EUROPE</p>
+  </div>
+  <div style="text-align: center;">
+    ![image](image_3.png)
+    <p>Evropakoro Forumo e Romengoro thaj e Phirutnengo<br>European Roma and Travellers Forum<br>Forum européen des Roms et des Gens du voyage</p>
+  </div>
+</div>
+
+# METODLJIL
+## Klaseskerephirnipe
+
+Ko phanlipe e Evropsko ramkursplaneja baši i romani čhib
+
+CFR
+
+---
+
+**VERZIJA – ROMANE ARLI**  
+2009
+
+**SKOLVERKET**  
+*Ministerstvo baši i škola*
+
+--- Page 2 ---
+# NAJANGLAL
+
+**CFR METODESKOROLJIL – Klaseskerephiripa ko phanlipe e Evropsko ramkursplaneja baši i romani čhib**, CFR kergjapes buti e ministerstvoja baši e školakoro bajraribe hem e Školakereministerstvoja bašo bajraribe e sikljojbaskere ljilencar bašo o sikljojbe e nacionalikane minoritetenge.
+
+**CFR METODESKOROLJIL** isi ko pandž verzije soj šaj te len pes taro e Školakorominiserstvoskoro webbthan: www.skolverket/Publikationer
+
+**Romane/Arlisko verzija, Skolverket/Ministerstvo baši Škola, 2009, Best nr. 09:1094**
+
+O javera verzije: Švedikani, 2008, Anglikani,2009, telo avibe Romane/Kalderaš hem Romane/Lovarsko.
+
+**CFR METODESKOROLJIL** avela taro odova Evropikano ramkursplani baši i romani čhib (A CURRICULUM FRAMEWORK FOR ROMANI) so lelja pes anglal taro Evropakorosoveteskoro Čhibjakoro than (Council of Europe Language Policy Division) ki buti keriba barabar e Evropsko Forumeja bašo o roman thaj o phirutne (ERTF).
+
+Iincijativa lelja ki akaja i bajaribaskiributi sine i Miranda Voulasranta. A ogovornost rodutne sine o profesorija David Little hem dr Barbara Lazenby Simpson (Trinity College Dublin, Irland).
+
+Sar godidejbe ked vakeripe taro odova soj tani i čhib hem kulturakirispecifika baši i romani čhib thaj o romanipe lele than i Mihaela Zatreanu (Rumänien), Angelina Dimitri Taikon (Sverige), Liliana Kovatcheva (Bulgarien), Ulli Pawlata (Österrike) Och Helena Sadilkova (Tjeckien).
+
+Odoja anglikani thaj odoja romani verzija taro CFR šaj te lel pes taro Evropakorosoveteskoro Čhibjakoro thaneskoro webbthan: www.coe.int/lang
+
+CFR tano telo "Minorities and Migrants".
+
+A i švedikani verzija taro CFR šaj te len ola taro e Školakoro ministerstvoskoro webbthan: www.modersmal.skolverket.se/romani
+
+Ke Evropakorosoveteskoro Čhibjakoro than telo 2008 berš bajrargjapes jek romani verzija taro odova *Evropsko Čhibjakoroportfolijo (ELF)*.
+
+Odgovornost bašo akava bajrarikeribaskoro buti keriba sine i dr Barbara Lazenby Simpson. O matrijali isi hem nakhavdo ki romani čhib tari Mihaela Zatrenau, Rumanija.
+
+Solduj verzije šaj te len pes akatar: www.coe.int/lang "Minorities and Migrants".
+
+---
+
+Tiknakeriba so avena ko akava matrijali:
+
+**CEFR= Common European Framework of Reference for Languages.** Akava tano odova barabikano Evropsko refencengororami bašo sa o asavke vakerde moderna čhibja.
+
+**CFR = Curriculum Framework for Romani.** Akava tano e kuseskoroplanio baši i romani čhib hem o romanipe. O kusplani avela taro CEFR ama akate poodoribajrargja pes ked i tano odova baši i čhib thaj e kulturakerespecifike baši i romani čhib thaj o omanipe.
+
+**ELF = European Language Portfolio.** evropikano čhibjakoroportfolijo. Akate tani odoja romani verzija taro ELF
+
+**ERTF= European Roma and Travellers Forum**
+
+2
+
+--- Page 3 ---
+# ANGLOVAKERIBE
+
+Akava matrijali tano kerdo taro predlog ko odova kupatno **Evropsko ramkursplani baši i romani čhib (CFR)** so kergjapes 2007 ko Evropakoro sovet ki butikeriba e Evropsko forumeja bašo o roma thaj okola so dživdinena ko drumo. O tikna keribe CFR avela kotar o anglikano titlo - A Curriculum Frame-work for Romani. I Švedia lelja than ko anglojevend 2007 ko probibe e CFR šajda ka lelpes taro but javerada phuvja telo 2008-2009 berš. Ama amen panda akana keraja o čhinavibe, da o CFR tano jek šukar halati so garantirinela amenge jek kvalitetno dajakiroro sikljobe ki romani čhib lelo tari sikljojbaskiri situacija ki Švedia thaj ko jekhakeribe e Švediakere kureskereplaneja baši e dajakiri čhib.
+
+Amen so kergjam buti akale metodmatrijaleja sijam sikavne ke dajakiri čhib ko romane. Ki kupa amen isi amen phirnipe taro sikavibe e čhavenge so kerena lafi arlisko, kalderaško thaj lovarsko. Amare sikle isi olen najekhalo phirnipe ki pli dajakiri čhib, disavo var ola tane beršhemime sikljojbaskere grupe, ama isi amen phinipe hem taro sikavibe siklengere grupencar soj tane hem ko ista berša thaj ko isto čhibjakoro pendžaribe soj tano ko isto nivo. O pobut taro amare sikle isi olen dajakorosikavibe disave sahatija ko kurko. O sikle so džana ko Roma Kulturklass ko Stokholm isi olen jekvaš taro olengoro sikljojbe sa o predmetija ko romane thaj jekvaš ko švedikane. Akaja bari varijacija ked vakeripes taro uslovija bašo o sikavibe ko romane sine amenge amari avgipaskiri nukta ked amen predložingem o javera klaseskere aktivitetija. Isi šajda šajdipe so ka pasuini hem bašo tlo sikavibe.
+
+I romani čhib tani jek čhib soj tani ko jek darakoro than za te našavgjol. Odoleske tano but važno da amen so sijam sikavne te ovel amen asavke metodija ko amaro sikavibe so ka del arka e siklen thaj okole generacijen so avena te ikeren thaj te bajranen ponodori i romani čhib, a ko isto vakti so amen ka da olen bajrardo džandipe baši amari kultura thaj amare tradicije. Ko asavko čhani zorarkeraja olengoro korkori pakjajbe hem ola ka oven kobaripe taro pro koreno.
+
+O CFR mangela buteder jek čhibjakoro sikavibe kote so e pharipaskiri nukta pašljola ko haljojbe thaj džandipe sar šaj jek manuš te istemakerel i čhib ko kontakt javerencar. Odoleske tano kobaro o sikle te šaj te probinel te vakeren ko romane sar ko klasi thaj iso agjehar avrijal tari škola. Odova metodi so CFR istemalkerela tano te mukel o sikljojbe te avel taro najekhale teme. Aluinaja te dža palo jek isto temakoro ulavibe, amen sijam svesna da disave teme pašljona but paše peste sar soj ko misal *Hajbe thaj šeja hem Baredive thaj feste*. Amen dikhaja isto agjehar ko ulavibe e temengerevakeribaja thaj predizvikinaja tumen e sikavnen te len tumenge taro odola najekhale teme odova so pasuini tumare sikavibaskere situacijake.
+
+Keda manuš kerela buti e temaja tano važno te oven o daja/dada informirime soja o sikle kerena buti ki pli dajakiri čhib, da bi o ola te len than hem te oven interesirime te den pestar plo džandipe keda o čhave ka aven khere pučibaja bašo ple javerada školakere bukja.
+
+## Amare teme thaj o romanipe/romani perspektiva
+
+1. Me hem mli familija
+2. Mlo kher thaj o aktivitetija ko kher
+3. Mlo pašeder tikno than thaj mle socialikane kontaktija
+
+3
+
+--- Page 4 ---
+4. Romane zanatija thaj bukja  
+5. Baredive thaj feste  
+6. Ki škola  
+7. Transpotija hem džajbe ko drumo  
+8. Hajbe thaj šeja  
+9. Vakti thaj beršeskorovakti  
+10. I Natura hem o Džanvarija  
+11. Mukhlevaktieskointeres thaj i kultura  
+
+Sa akala teme dena šajdipe te le o sikavibe tari jek romani perspektiva. Othe leljam jek pogodno čhani sar amen ko amaro buti keribe sikavibaja sar te sikava ko varijacije ked kerela pes lafi tari historija, o čhani e dživdipaskoro, hem o tradicije maškar o najekhale romane grupe. Ko akava niče amen mangaja te da amare siklen šajdipe te sikljon o najekhale romane grupengere phirnipa, da bi o sikle te ovel olen jek zoralo hoši kova ka phandel amen sa e romen.
+
+## Klaseskoro aktiviteti
+
+Keda amen kergjam buti e predlogeja taro klaseskere aktivitetija amen lelem misal taro CFR hem leljam odor but kobor so othe predložingja pes. Isto agjehare amen te na ovel sine amen o CFR pobut telo akava berš, amen palem ko javeračhanija kergjam buti asavke temencar ko amaro bukjakoro sikavibe. Ponodori amen kompetiringjam E CFR: skere predlogija taro amaro phirnipe. Amen nadinaja amnen da tumen ka reagirinen ko isto čhani: - Akava meda sine man ko mlo sikavibe! – A akava tano interesno meda mangava te probinav te kerav buti akale temaja!
+
+Amen dingjem amen zori da ki svako tema te dala jek ja pobut aktivitetija so ka pasuinen sa e siklenge lelo taro olengere berša thaj čhibjakoro pendžaribe ke dajakiri čhib. Amen na vakeraja da akava metodmatrijali ka učharel sa o kotora taro sikavibe. Amen mangaja tumen te haljoven amare predlogija samo sar predlogija thaj te osetinen tumen mukhle korkori te bajraren olen tumare aktivitencar!
+
+## Beršengoro grupiribe
+
+Keda predložinaja e klaseskere aktivitetija amen leljem ko obzir o berša e čhavengere ko than te la o klasi olengoro. Nekad pasuini o aktiviteti bašo sa o berša.
+
+Sar sikavne tano odova jasno da amen džaja taro o odova so pasuini amare o čhavege lelo taro olengere berša. O čhave so na siklile panda te hramonen ola šaj te crtinen pes ili te crtinen plo interes bašo o mukhlevakteskere aktivnostija sar jeke slikaja taro plo fudbaleskoro idoli. Amen daja olen arka te sikljon te hramonen plo anav ja pale o anav odole manušeskoro so ola mangena. O čhave šaj isto te dobinen jek khereskiributi kote so ka pučen ple roditelen thaj javere manušen sar ko misal sine ked ola sine tikne soja khelgje peske hem palo odova pučiba te vakeren o čhave odova anglo ple amala hem o sikavne. Ola šaj isto agjehare te sikljon gilja thaj diktija ki godi. O phopure sikle šaj te roden fakta taro lila, Internet thaj javera thana soj ko olengoro phirnipe, te hramonen korkori hramome bukja thaj te agumentirinen odova so ola gndinena.
+
+4
+
+--- Page 5 ---
+- Hem ako čhivela pes baro zahtevibe ko o sikavnengoro planiribe thaj o isibe ideje odoleske amaen pokušinaja te jekhakera e siklengere butikeriba ista klaseskere aktivitencar so pasuinena isto agjehare ko beršeskerehemime grupe.
+
+- Ko grupe kote so isi istoberšengere čhave dela pes olenge ista butikeriba. Ama akate tano but važno o sikavne te oven pažliva bašo e siklengere javerčhane džandipa ko romane thaj ko drabaribaskoro phirnipe.
+
+- Za o čhave te dobinen jek navika bašo o drabariba thaj te mangen o sikavibe, isto odnesini pes oleske/olake o sikavno avgokerel ple butikeriba odoleja so ka drabarel ko hango sarinenge. Ponodori odova so naje šukar ko plo drabaribe ka lel te kerel lafeskiributi ko odova so šungja. Nesave čhave šaj te drabaren ponodori korkori thaj te vakeren ple amalenge bašo so kerela pes lafi poanglal ki paramis.
+
+- Ko jek čhani lena sa o treniriba ko šuniba thaj haljoviba, dejbe raporti thaj argumentirinela bašo odova so ola haljovena da tano važno thaj džiko šaj te trenirinen plo drabaribaskoro šajipe. E čhavenge so šaj te hramonen isi ponodori šajdipe da hem ola te trenirinen plo hramobaskoro phirnipe. Javer var aluinela o sikavno ko odova than jek tikno teksti hem ko odova čhani odova so drabarela slabo šaj te trenirinel plo drabaribakoro phirnipe.
+
+## Štar čhibjakere kopentencije ko štar nivoa
+
+CFR: skoro metodi dela šajdipe džandikane te de arka tle siklen te bajraren ple phirnipa ko hajlojbe, lafikeribe, drabaribe thaj ko hramonibe ki dajakiri čhib.
+
+Da bi akava sikavibaskoro procesi te ovel haljovdo hem e sikavnenge hem e siklenge o CFR ulavgja akala čhibjakere phirnipa ja pale CFR:skoro alunimo lafi kompentencija ko tikne uštavina. Kotar odova so o sikle ka oven džande bašo ple angledžajbe ka oven isto agjehare motivirime te džan ponodori thaj te sikljon panda pobut.
+
+Nivo A1 Nivo A 2 Nivo B 1 Nivo B 2
+
+Akala akate tane odola štar nivoa ki odoja šovstepenengiri čhibjakiri phirnipaskiri skala so Evropakorosovet kergja buti ko sa e sikavibaskere čhibja so naje majoritetna čhibja.
+
+I Švedia cidela taro ple kurseskereplanija so vikinena pes “moderna čhibja” agjehar so o sikljojibe ki germanikani, francuzikani, špansko thaj panda javera čhibja taro ulavibe ko čhibjakere phirnipa ko akala kompentencije thaj palo akaja skala, hem odola švedikane kurseskereplanija vakerena amenge bašo i “uštavin” ko than bašo nivoa.
+
+Tumen so mangena te džanen pobut bašo akava čhibjakoro dikhibe šaj te drabaren ko aver kotor. Othe dela raporti i rodkerni Christina Rodell-Olgac popaše odova so o Evropakoro sovet vakerela čhibjakere kompentence thaj komunikativno čhibjakiro phirnipe hem othe tane postavime odola štar čhibjakere phirnipaskere nivoa.
+
+## Gramatika
+
+O sikavno džanela sar vajlani manuš te kerel korektno romane lafi. Odola čhave so barile ko thana kote so i romani čhib istemalkerdi aktivno sikljona panda taro tiknipe te istemalkeren ko jek korektno čhibjakoro čhani odoleja so šunena thaj imitirinela.
+
+5
+
+--- Page 6 ---
+Akale čhavenge na valjani nisavo specijalikano sikavibe da bi te džanen sar ko misal kerela pes jek pučiba ko romane ili sar manuš vakerela bašo diso so perela disave manušeske thaj panda javer. Ama sar sikavno valjani te dža palo odova hem te dikhe sar i e siklengoro lafikeribaskoro phirnipe.
+
+Odola sikle soj tane bisigurikane sar te vakeren diso, dela pes olenge arka odoleja so potiknineja olen te šaj te formulirinen pes thaj ponodori pale vakeren odova so šunge taro sikle ama akana ko jek korektno čhani. Akate tano panda jek misal, tu sar sikavno šaj te de arka e sikle ko čhibjakoro korektnost bizo te sikave upri leste vasteja:
+
+Anglal o čhave te avgokeren ple hramobaskere butikeriba, šaj ki kupa te formulirinen "tipična lafjorja" ki tabla. Ko misal E tata isi ole jek sigutno vrda. E paposkoro vrda tano posigutno. Kaskoro vrda tano najsigutno?
+
+– Me mangava grasten. Me na mangava džukelen. Ov mangela soldujen hem grasten hem džukelen. Oj namagela ni grasten ni džukelen, ama oj mangela mačken. Ko akava čhani o sikle lena misal taro solduj ked vakerpes taro e dodinengoro kompariribe hem sar manuš negirinela ko romane.
+
+I tema "Me hem mli familja" tani jek šajdipe te dikhe so o sikle džanena ked kerela pes lafi taro personikano pronomi. Mli daj vikini pes Nadja. I teta Sidja tani olakiri phen thaj oj tani prandimi e Larseja. Olengere čhave vikinena pes Kati thaj George hem ola tane mle jerija. Amaro papo vikini pes Michel ama me vikinava ole Papi.
+
+Keda ki jek tema kerela pes lafi taro odova so o roma kerge ko anglutno vakti tano normalno te kontrolirinel pes e siklengoro pendžaribe sar ulavela pes o akanutno thaj anglutno vakti. Ked ko sikavibe kerela pes lafi taro odova so ka ovel ko olengoro anglosuno da te aluinen soja vajlani te keren buti thaj te ovel olen pli familija tano normalno te dža palo odova so kerena o sikle da bi te džanen sar te istemalkeren e kerutneskere vakteskere forme.
+
+Tu sar sikavno isi tut odgovornost te de e siklen jek korektno čhibjakoro sikljojbe thaj odova najšukar ka kere te de e siklen stimulacija da ola ma te daran te probinen te formulirinen pes. Ama tu ka de olen stalno odova korektno formuliribe. Ked kerela pes lafi taro o pobare sikle tegani šaj tu te vakere olenge soske manuš sikavela odova sar manuš so kerela, mangela te vakerel te sikave odola gramatikane kanunija. But tano isto važno o sikle te oven svesna bašo o čhani sar vajlani te izrazinen pes keda ulavela pes maškar o javečhane varitetija tari romani čhib thaj maškar o javera individija. Sar amen keraja lafi ki amari grupa naje "čačutni" (pravilno) romani čhib nego javerengere grupengoro čhani lafikeribaskoro.
+
+Ked vakeri pes taro lafengoro khedibe sarine amen laja lafija taro o majoriteno čhib kotar so avaja taro odova sarinipe. Akava naje unikatno samo e romane čhibjake. Sa o čhibja angledžana thaj bajrona keda tane ko kontakt jek javeraja.
+
+Keda ikljona neve ovibe (pojava) sar ko misal ko komunikativno sovet ked kergja neko o lafi automobil so ko latinikano značini "diso so džala korkori pestar". Ki finikani, germanikani thaj ko javera čhibja lele ponodoti zorale o avgo lafieskoro kotor thaj ulo o lafi auto. Ki švedikani čhib o manuša lele o paluno lafeskoro kotor so vakerena oleske bil. Ki anglikani čhib istemalkerge o manuša o lafi car soj tano jek tiknardo lafi taro carrage = vrda. Ki švedikani vakerutni čhib istemalkerela pes jekhalo lafi kärra = vrda. Thaj sar tu vakereja ko tlo variteti tari romani čhib? Nisavo čhani te konstruirine neve lafija tane bobut prava ja
+
+6
+
+--- Page 7 ---
+pale došale. Akana i švedikani čhib lela but lafija tari anglikani čhib sar ko misal ko kompjutersko than. Odova keraja ki romani čhib da.
+
+Ama odova sijam amen sar sikavne so ka da zoralipe amare siklen ko olengoro džandipe da ma te heminen bizi potreba lafija tari švedikani ja lele lafija taro javera čhibja keda isi amen romane lafija!
+
+## Planiribe e temasikljojbaskoro
+
+So - Amen ka la te prezentirina so o teme astatrena. Amen probingjem te kera odova ko jek tikno čhani. Odola so mangena te len pobut inspiracija šaj te arakhen ko CFR. Disavo var isi ko solduj amare anglovakeriiba thaj ko CFR so referirinela pes ko pašeder teme.
+
+SOSKE - Ko sa o teme amen formuliringem sarinenge cilja so ka oven bašo sa o aktivitetija thaj bašo o sa o berša hem e čhibjakere lafikeribaskere nivoa. Pobut specifična cilja tane phanle odole javer čhanikane klaseskere aktivitetija.
+
+SAR - Amen daja predlog tu sar sikavno šaj te pendžakere jek aktuelno tema tle siklenge. Akava keraja majanglan keribaja lafi e siklencar. O cilj e pendžakeribaja tano o sikle te haljon soske ka keren buti ola odole temaja. O pendžakeriba dela tu sar sikavno šajdipe te dikhe e siklengere angledžandipa thaj o interes. Akate šaj tu isto agjehar te astare odova so trebela tuke te kere ko disavo centralno haljovibe ki jek tema ja te graničine o planiribe taro jek aktiviteti ko asavko disavo, so tu gndineja da o sikle da šukar agorkerena thaj odova so ola gndinena tano interesno. Ulavdo odolestar isi tut sar sikavno šajdipe odoleja so tu ka sikave tlo phirnipe thaj džandipe ka stimulirine e siklen te mangen te džan pohor andre ki tema.
+
+## Klaseskere aktivitetija
+
+Ked kergjam buti e formuleriribaja amare predlogoncar bašo o aktivitetija kergjam buti naj anglal svako peske. Ponodori arakhljem amen sarine hem kergjem lafi jek jekheja thaj kompletiringjem amare predlogija odoleja so ko javera bukjengere grupe gndingje da tano važno te ovel amen ko teme. Odoleske tane o predlogija ko solduj hem korkorutne thaj barabar. Ko sajek čhani avšainaja amen da tumen ka keren: drabar amare predlogija thaj kompletirin olen savilea odoleja so pasuini tle siklenge!
+
+Klidikanolafi thaj de tut godi karta, lafikeriba och barabarikanolafi.
+
+Ker adova sar jek butikeribaskoro džandipe kote so tu ka hramone sa o neve lafija ja pale lafija ki tabla so tu dikheja da o sikle nadžanena olen. Repetirin o lafija thaj olengoro značaj thaj muk e siklen te hramonen olen ko plo lafjako. Ked manuš avgokerela jek nevi tema ka ovel but šukar o sikle te aven ple predlogoncar soj tane phanle odole temaja so keraja buti. Odolenge vakeraja da tane klidikanelafija.
+
+Hramon akala lafija thaj cide jek crta maškar odola lafija soj tane phanle jek jekheja hem ka ovel tut jek detut godi karta. Muk akava te ovel jek huj e siklenge da bi ked kerena akaja detut godikarta ka šaj te planirinen plo butikerba.
+
+Disavo var tano aktuelno da sistematski te barjare e siklengoro lafikhedibe. Odova šaj te oven lafija soj tane phanle maškar peste sar ko misal i keruni te sive.
+
+Akate šungjona o anavjorja sar soj svila, somot, kača, suv, thav, sivbaskiri mašina, mustra thaj panda javera bukja, kerune sar soj sijbe, čhinibe, probibe thaj dodine lolo,parno, kockalija, linijencar thaj panda javera.
+
+7
+
+--- Page 8 ---
+Akala vikinena pes *barabarikanelafija*. Jek javer tipi *lafikeriba* kerena jek khedipe sar ko misal anavipe bašo o emiši sar soj phabaj, ambrol hem panda javera. Jek javer var ka ovel šukar te trenirinen barabarikanolafi odova šaj te ovel lafija so vakerena sprotivnost *lošalo - mazumi*, ja pale lafija so vakerena jek isto *lošalo - bahtalo*, *mazumi - razočarimo*.
+
+## Predlog bašo o matrijali
+
+Odova matrijali so predložinaja ko phanibe e temakoro avela taro isibe matrijali ko amare različna varitetija. Odoleske ulavela pes o metodmatrijali ki akaja nukta.
+
+Disave informacijakere izvorija šaj istemalkerena pes ko sa o čhibjakere verzije thaj akala tane odola soj tane majvažna:
+
+- Ministerstvo baši škola: www.modersmal.skolverket.se - Romani chib
+- Ministerstvo baši škola kote so bikinena pes lila: www.skolverket.se
+- Ministerstvo baši škola za metodi hem materiali: www.multimedia.skolverket.se
+- Edukacijakororadio materiajli ko romane: www.ur.se/sagorivarlden
+- O Švedikano radio paramisa ki romani čhib: www.sr.se
+- O Švedikano radio programa ki romani čhib: www.se.se - Radio Romano
+
+Akate avena disave webbthana kote so isi informacija taro roma, romani čhib, historija thaj tradicija:
+
+- www.rufs.org - Akaja tani e Romane ternengoro khedipaskoro webbthan. Olen isi olen osnovikani informacija taro but thana ki švedikani čhib.
+- www.sprakradet.se - Informacija ki švedikani thaj romani čhib majbut baši i čhib thaj but lenkija ko javera romane webbthana.
+- www.romani.org - Akava webbthan astarela pobut ki anglikani čhib. Isi ole lenkija ko javera thana. Sar soj ki *Patrin* soj tano jek webbpatin (novina) kote so isi but informacija ki anglikani thaj jek kotor ki romani čhib.
+
+O patrina *É Romani Glinda* thaj *Le Romané Nevimata* tane but važna keda kerela pes buti sikajbaja ko romane.
+
+O ministerstvo baši škola kerela buti te ikavel lila so ka ovel olen tekstija, diktija hem slike so ko oven phanle ko akala teme taro CFR. Akava matrijali valjani te ikljol džigte ko anglojevendeskoro vakti 2009 berš.
+
+## E siklengere dokumentija - Bukjakere thaj lafengere khediba
+
+Amen preporučinaja tumenge te mukhen e siklen te kheden plo matrijali so ola istemalkege thaj odova so ola korkori kerge ko A4-mape. Ko akava metodeskoro matrijali vikinaja odola mape sar *Butikedibaskere mape*. Ka ovel but šukar o sikle te kheden thaj te čhiven plo matrijali ko thana kote soj o naslov tari odoja aktuelno tema. Šukar te ovel tut jek *registri* istemalkeribaske - so ka ovel le 15 riga. Tegani ki avgo rig ka čhive sa odova soj tano phanlo e temaja “Me hem mli familia”.
+
+Akate ka čhiven o sikle plo crteži taro plo liko, bukja kote ola dživdinena thaj ko savo klasi ola džana thaj panda javera bukja tari akaja tema. Ponodori svako berš o silke ka pheren neve bukjencar. Sa akava valjani te kerel pes sa okole temencar da. Disave teme šat te len pobut vakti dži te iranenpes. Tegani o sikle thaj o sikavne ka dikhen soja ola kergje buti angleder.
+
+But interesno ka ovel ako tu istemalkergjan e “*kontrolibaskere riga*” (*dikh potele*) ki svako tema. -Ka ovel but šukar te stimulirine e silken te ovel olen kalo ko parno hramomo odoleja ola ka džan ange ple sikljojbaja! Sa o sikle šaj te ovel
+
+8
+
+--- Page 9 ---
+olen jek kotor bašo ple *lafikhediba*. O pobare sikle šaj te ovel olen rig kote so ka arakhen ple *Gramatikakerebukja*.
+
+Jek rig šaj te istemalkerel pes baši informacija so ka džal ko daja/dada bašo e khereskere bukja thaj panda javera haberia. Thaj kote so o sikle ka kheden plo matrijali sar soj-slike, diktija, tekstija, vakeriba soj tane avrijal taro odola teme so kergjem olencar buti.
+
+Ko agor jek opomena! Šaj te ovel but matriali. Šaj valjani manuš te dikhel olen palo disave berša thaj te lel okola soj tane “najšukar” tekstija thaj slike hem te garavel olen.
+
+Akate tu sar sikavno šaj te pazine, da disave sikle te na frden sa ple anglutne bukja so kerge olen, bašo odova so isi jek vakti keda o čhave tane but osetliva bašo odova so mislinena da tano tiknenge naje olenge. Ko asavko vakti zumavin te bajrare olengoro dikhipe odoleja so ka vakere kobor ola ule džande thaj phirne ko plo sikljojbe!
+
+## Kontroliribe taro odova so sikle siklile
+
+Ke CFR:skiri tema isi diso so vikini pes *kontrolibaskere riga*. Amen zumavgjem akala ko amare sikle. Disavo var amen haljilem akala riga sar but bare bašo odova sikavibe so amen sine amen. Ama ko isto vakti akala riga sine funkcionirinena but šukar ked kerela pes lafi taro dikhibe sar amenge sar sikavne agjehare e siklenge so ola džanena ko jek avutno than thaj sikage amenge sar akala teme denge amenge bajrariba so gele angle sar ke čhibjakere phirnipa thaj agjehar ko javera bukja.
+
+Odoleske na kergjam panda buti amen akale kontroliribaskere rigencar, nego mukhaja tumenge te mangena te istemalkeren olen sar soj tane ja pale te keren pobut pučiba so ka aven taro tumaro sikavibe thaj tumare siklengoro čhibjakere nivoendar.
+
+Jek javer čhani tano te džan palo sikljojbe tano te keren *konkretna cilja* bašo odova klaseskoro aktiviteti so manuš aluinela te kerel oleja buti. Tegani šaj direktno te dikhe dali o siklo alo ko odola čhivde cilja. Amen formuliringem disave “resibaskere cilja” bašo odola predložime aktivitetija. Istemalker akala sar jek misal ko tlo sikavibaskoro planiribe. Tu šaj isto agjehare te ulave po konketno o cilja so ka oven lele taro kontroliribaskere kompentencie! Solduj akala čhanija te dža palo e siklengoro čhibjakoro thaj džandibaskoro anglodžajbe dela tut sar sikavno jen podloga bašo o odova *anglodžajbaskoro plani (IUP)* kotar tu so ka kere buti e siklencar thaj olengere dajencar, dadencar.
+
+Amen so kergjam akava metodmatriali sijam:
+
+**Angelina Dimitri Taikon**, klaseskiri sikavni ko Roma Kulturklass ko Stockholm. Sikavi siklen taro angluno dži ko enjato klasi ko raylična čhibjakerenivoa ko kelderaško thaj ko javera romane dijalektija.
+
+**Fatima Miftar**, sikavni ke dajakiri čhib ko Vänersborg. Sikavi ko bare grupe kote so isi ista beršengere sikle so pobut isi olen šukar džandiba taro romano arlisko dijalekti.
+
+**Iren Horvatne**, sikavni ke dajakiri čhib ko romane taro Malmö. Sikavi čhaven ko sa o berša, pobut ko tikne grupe thaj ko različna čhibjakere džandipa ko lovarsko dijalekti.
+
+**Jasminka Demirovska**, sikavni ke dajakiri čhib ko Trollhättan. Sikavi ko bare grupe kote so isi ista beršengere sikle so pobut isi olen šukar džandiba taro romano arlisko dijalekti.
+
+**Kani Miftar** sikavno ke dajakiri čhib ko Vänersborg. Sikavi ko bare grupe kote so isi ista beršengere sikle so pobut isi olen šukar džandiba taro romano arlisko dijalekti.
+
+9
+
+--- Page 10 ---
+Baši i buti keriba taro kotor bašo CEFR:s hem CFR:s dikhibe e čhibjakere sikavibaja thaj e čhibjakiri kompentencija dela dževapi i **Christina Rodell Olgac**.
+
+E projekteskoro šerutno thaj redaktori e matrijaleske sine i **Mai Beijer**.
+
+Amen nadinaja amen da tumen ka diken hairi taro akava metodeskoro matrijali. Akana akava metodeskoro matrijali isi amen ko čhibjakere verzije: arlisko, kalderaško, lovarsko thaj ko švedikano. Ko drumo tano te iranel pes da ki anglikani čhib da bi te del pes ko javera da phuvja. Amen isto agjehar nadinaja amen da akava metodeskoro matrijali ka šaj ponodori te bajrarel pes da bi te pasuini hem javere romane grupenge ki Švedia.
+
+Amen isto sijam interesirime te la kotor tari konstruktivno kritika odoleske len kontakti amencar ke školakoro ministerstvo so taro 1 oktomvri 2008 lelja o odgovornost bašo akaja angložajbaskiributi. Odoleja so akava matrijali tano ki digitalno forma isi šajdipe te menina ja te dodajna bukja ko jek ednostavno čhani nego te ikljol sine o matrijali ki jek ljilali forma. Ama amen trudisalilem te da jek šukar grafikano dikhojbe da tumen so kerena but buti jeke pečatime matrijalea te šaj te printinen ole ko jek A-formati taro amaro pdf-fil.
+
+Štokholm decembar 2008
+
+But bah ko tumaro sikavibe!
+
+Angelina, Fatima, Iren, Jasminka, Kani, Christina thaj i Mai
+
+10
+
+--- Page 11 ---
+# SODRŽINA
+
+<table>
+  <tr>
+    <td>NAJANGLAL</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>ANGLOVAKERIBE</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>SODRŽINA</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>EVROPAKERE SOVETESKORO DIKHIPE KE ČHIBJAKORO SIKLJOIBE CEFR</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>ČHIBJAKERENIVOA PREMALO CEFR HEM CFR</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>ROMANIPE</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>TEMA 1 – ME HEM MLI FAMILIJA</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>TEMA 2 – MLO KHER THAJ O AKTIVITETIJA KO KHER</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>TEMA 3 – MLO PAŠEDER TIKNO THAN THAJ MLE SOCIALIKANE KONTAKTIJA</td>
+    <td>31</td>
+  </tr>
+  <tr>
+    <td>TEMA 4 – ROMANE ZANATIJA HEM BUKJA</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>TEMA 5 – BAREDIVE THAJ FESTE</td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td>TEMA 6 – KI ŠKOLA</td>
+    <td>44</td>
+  </tr>
+  <tr>
+    <td>TEMA 7 – TRANSPORTI HEM DŽAIBE KO DRUMO</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>TEMA 8 – HAJBE THAJ ŠEJA</td>
+    <td>54</td>
+  </tr>
+  <tr>
+    <td>TEMA 9 – VAKTI, BERŠERSKERE VAKTIJA HEM VREME</td>
+    <td>60</td>
+  </tr>
+  <tr>
+    <td>TEMA 10 – I NATURA HEM O DŽANVARIJA</td>
+    <td>65</td>
+  </tr>
+  <tr>
+    <td>TEMA 11 – MUKLE VAKTESKOROINTERES HEM I KULTURA</td>
+    <td>70</td>
+  </tr>
+</table>
+
+11
+
+--- Page 12 ---
+# EVROPAKERE SOVETESKORO DIKHIPE KE ČHIBJAKORO SIKLJOIBE CEFR
+
+Kotar o 1970 berš e Evropakoro soveti kergja buti te bi šaj o sikavne thaj e čhibjakere sudentija te dikhen e čhibjakoro sikljoibe sar jek aktiviteti soj nasmerimo ko sikavibe buti keribe. O cilji ko akava buti keribe ine te ovel pošukar sa e evropikane studentengoro džanibe ki anglikani čhib. Bašo akava cilji hramonkerelape najekhalo čhibjakoro sikljoibaskoro nivo, kaj so sa o studentija barem ka ovel olen šajdipe te resen ko jek tikoro “pragoskoronivo”.
+
+I Švedia ponodori angledžala ko akava čhani hem dikhela e čhibjakoro sikljoibe hem te važinel ko sikljoibe i švedikani čhib okolenge so avena taro avera phuvja.
+
+E Evropakoro soveti gelo ponogori majangler akale dikhibnaja ke čhibjakoro sikljoibe dži te dolel sa o avera čhibja so nane dajakere čhibja. So majanglal akcentirinlape o keribe buti ko sajek maškar e čhibjakereistemalkeribe (haljoibe hem komunikacija) hem e školakoro predmeti so avdive vikinipe “modernikani čhib”. Angleder ko sikljoibe vikinelapes sine “jabandžijengiri čhib” hem odothe ine o akcenti majanglal ko haljoibe e hramoibaskere teksteste hem ko čhibiranibe maškar o čhibja.
+
+Akava dikhipe ko člhibjakoro sikljoibe sikavkerela e Evropakoro soveti ko raporti *The Common European Framework of Reference for Languages, 2001 (CEFR)*. Akava dikhipe tano hem telipe bašo o svedskakere kurseskere planija baši modernikani čhib.
+
+Akate ka dikhen jekh khedibe ko jek o majvažna delija ko CEFR:
+
+1. I Čhib tani jek taro majtelune bara ko manušikano ikeribe. Amen istemalkeraja i čhib ja o čhibja sako vakti te bi šaj te komunicirina hem te kera lafi jek averencar ko javerčhane načinija. Akala načinja baši komunikacija šaj te ulavenpes ko duj tipija, avrijaldan hem socialikane avere manušencar hem andral hem privatno. Amen šaj ko misal te kera lafi e dženencar ki familija, amalencar hem e dženencar so keraja buti te kera lafi sarine te šunen, te hramona privatna thaj oficialna ljila, te vakera paramisa thaj istorije. Sa akava tano jek misar sar šaj te komucirinelpes avere manušencar. Okova aver tipi tari komunikacija ja lafi keribe tane okola so keraja lafi ani amende, amenge korkori. Kana drabaraja, keraja jek lafi keribe e teksteja, o teksti vakerela amenge. Disavo var keraja agjahar hem kana šunaja. Isto panda okola avera čhanija sar so istemalkeraja i čhib te šaj te gndina but bukja, sar ko misal te opravina amen kana inljan docna ja palem kana spreminaja amen te dža ko doktori, amen bešaja ki udžaribaskiri kamra hem udžaraja thaj gndinaja save pučiba ka pučel amen o doktori, hem so amn ka da dževapi.
+
+2. I komunikacija ovela kotar e čhibjakere aktivitetija, so šaj te ulavenpes ko štar tipija:
+
+Okova so lela, produkcirinela, intereakcija (sajekhibe) hem maškarkeribe. Leibe, kerelapes lafi taro haljoibe e avere manušengiri čhib ko keribe lafi hem ko hramoibe. Produkcija kana amen korkore keraja lafi ja hramonaja. Interakcija kana amen keraja lafi thaj hramonaja maškar o duj manuša ja palem pobut. Maškaribe, kana kerelapes lafi taro čhibirinibe maškar o manuša ja grupe so kerena lafi ko avera čhibja. Interakcija hem maškaribe isi hem ko leibe hem ki produkcija.
+
+12
+
+--- Page 13 ---
+3. Te bi šaj te la than ko sa sar soj čhibjakoro aktiviteti ja lafi keribe istemalkeraja amari komunikarivno čhibjakiri kompetencija. Akaja čhibjakiri kompetencija te kera lafi ko but čhanija, haljovelapes kaj isi amen džanibe e lafengoro, hangoskoro hem sar o lafija valjani te aven ki jek lafjori ki okoja čhib so istemalkeraja. Šaj te istemalkera e čhibjakere džaniba te bi šaj te haljova jek ja buteder čhibja hem korkori amen te kera lafi ko pobut čhibja. Akava tano nešto so amen o manuša nadžanaja kaj keraja. But var keraja odova avtomatsko, specialno kana kerelapes lafi tari amari dajakiri čhib.
+
+4. Sar komunicirinaja ja keraja lafi varirinela odoleske soske dikhelapes so keraja lafi hem kaj arakhljovaja. Ako injam khere e familijaja, ki škola ja ko doktori ja pale ako keraja lafi čhavencar ja barencar, sa odova utičinela upro amende hem sar amen keraja lafi. Nesavo drom ni nadaja amen godi ko adava. O CEFR genjela o štar thana kote so istemalkerelapes i čhib: ko pravdothan, privatno ki škola hem sikljoibe hem buti keribe.
+
+5. Sar keraja lafi ja komucirinaja zavisinela ki savi situacija sijam hem kaj sijam. Keraja lafi ko javerčhane način zavisno koj odova. Isto hem kana hramonaja, te neko so penžaraja le ja palem jek organi so kerela buti e phuvjake. Odova vakeripe amare čhibjakiri sociologikani kompentencija. Sar sikle keraja lafi ko misal javerčhane e siklencar a javerčhane e siklengere dadencar ja e dajencar. Amen dikhaja sar pasuinela amaro način e lafi keribnjaskoro, bizo te da amen godi ko odova. Isto hem kana dikhaja ko tradicije ja kanunija so isi ki jek kultura, ki grupa ja ki jek phuv. Dikhaja respekteja o tradicije hem o kanunija kana keraja nekasaja lafi ja hramonaja nekaske. Isi amen hem panda jek kompetencija amari programatikani kompetencija. Šaj te phenel pes da i programatikani komptencija tani te istemalkerelpes i čhib ko čačutno način, sar ko misal, kana pozdravineja nekas, mangeja oleske sa majšukar, ja palem te rese tut nekasaja so ka džal džigde.
+
+6. Ko agor šaj manuš te vakeri kaj o lafikeribe thaj i komunikacija maškar o manuša džala jekhajek e bukjaja. Te bi šaj te keren pes nesave bukja, valjani te istemalkera but strategije ja način te haljovelpes hem te kerelpes lafi, ja te hramoinel pes hem te haljoven pes o tekstija. Na valjani te kera odova ako kerelape lafi taro nešto so keraja ki automatika, kana navaljani but te gndina taro odova.
+
+O CEFR na vakeri sar valjani te dikhjol e čhibjakoro sikljoibe. O sikavkeribe sar istemalkerelapes i čhib, sikavela savi pedagogika hem sikavibe i čhib so valjani te istemalkera. O sikljoibe i čhib mangela te istemalkerel but resuršija, kana ka kera lafi ja kana ka hramona. Odova dela amen arka te dikha soj odova soj važno ko ramkurseskoro plani baši romani čhib, hem da sar amen istemalkeraja i čhib, svako var khelela jek bari uloga ko efekti e sikljoibaske i čhib. Akava dela dumo e ramkurseskere planeske ko akcenti ki buti keribe e temencar so ka funkcionirinel sar jek purt maškar e klaseskiri kamra thaj i romani manušikani grupa.
+
+13
+
+--- Page 14 ---
+# ČHIBJAKERENIVOA PREMALO CEFR HEM CFR
+
+I tabela tani leli tari ROMANIVERZIJA TARO CFR. (Naje arlisko)
+
+Ko CEFR isi panda duj nivoa C1 hem C2 so vakerena bašo pohor čhibjakorophirnipaskoronovo so na učharela o CFR kova soj tano e beršengere-grupenge maškar o 6-16 berš.
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th></th>
+      <th>A1</th>
+      <th>A2</th>
+      <th>B1</th>
+      <th>B2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">H A C A R I P E</td>
+      <td>Ašunipe</td>
+      <td>Me šaj hačarav prinžande vorbe thaj bazični fraze, save si phangle manca, muřa familjasa, thaj save si direktno, konkretno krujal, kana vorbil pe lokhés thaj jasno. ord och mycket</td>
+      <td>Me šaj hačarav fraze thaj le maj but vorbe, save si pe sama kataj direktno personalno relevanca (po eksemplo bazično personalno thaj familjarno informacija, šopingo, lokalno domena, bućaki trjaba). Šaj hačarav o šerutno punkto kata 'k xarni, jasno thaj prosto vjašta thaj informacija.</td>
+      <td>Me šaj hačarav le šerutne punktur kata jek jasno, standardno divano pa familjaké buća, save regularno arakhas ande bući, ande škola, vaj pe hodinimaski vrjama thaj kadja maj dur. Šaj hačarav le šerutne punktur kata diferentni radioské vaj televizijaké programur, save si pa aktualni buća thaj pa aktualni teme, kaj si personalno vaj profesionalno interesantni, te avela e prezentacija jasno thaj na prja sigo.</td>
+      <td>Me šaj hačarav jek maj buhlo divano thaj lekcije thaj maj kompleksni argumentoski linije, te si e tematika prinžandi. Šaj hačarav le maj but nevimata kataj TV thaj le programur pa aktualni pecimata. Šaj hačarav le maj but filmur ande 'k standardno dialekto.</td>
+    </tr>
+    <tr>
+      <td>Ginavipe</td>
+      <td>Me šaj hačarav familjaké anava, svatur thaj but prosti fraze, po eksemplo pe 'l reklame thaj pe 'l plakatur vaj ande 'l katalogur.</td>
+      <td>Me šaj ginavav tekstur, te si von xarne thaj naj prja phare. Šaj arakhav jek specifično informacija ande 'k prosto, svako desesko materialo, sar kaj si anonse, prospektur, menjur thaj trafikoské planur thaj šaj hačarav xarne, prosti personalni lila.</td>
+      <td>Me šaj hačarav tekstur, save si ramome ande 'k svako deseski šib vaj ramome ande 'k šib kaj si phangli muřa bućasa. Me šaj hačarav deskripcije pa pecimata, hačarimata, thaj ambicije ande personalni lila.</td>
+      <td>Šaj ginavav artiklur thaj raportur pa amara vrjamaké problemur, ande save le autorur ankéren partikularni dispozicije vaj opinije. Šaj hačarav e moderno literaturaki proza.</td>
+    </tr>
+    <tr>
+      <td rowspan="2">V A K E R I P E</td>
+      <td>Vorbaki Interakcija</td>
+      <td>Me šaj kérav komunikacija pe prosto sama avere manušësa, te si vov getime te del anglal vaj te formuliril buća maj lokhés, te vorbil maj lokhés thaj te ažutil ma vov, te formuliriv kodja so kamav te phenav. Me šaj thav pušimata thaj šaj dav anglal pe lokhë pušimata pa buća kaj si but potrebni vaj kaj si e tematika but prinžandi.</td>
+      <td>Jag kan kommunicera inom ramen för enkla rutinuppgifter som kräver ett enkelt och direkt informationsutbyte om välbekanta ämnen och aktiviteter. Jag klarar av mycket korta sociala replikskiften, trots att jag vanligen inte förstår tillräckligt mycket för att själv hålla samtalet igång.</td>
+      <td>Me šaj ankljav po gor la situacijasam kana tradav ande 'k regiono kaj vorbil pe kaća šib thaj kak bajo pecil pe. Me šaj dav ande 'k konverzacija bigetime te si e tematika pa familjarni buća vaj pa buća, kaj si katapersonalno interesa vaj pa permanentno svako desesko trajo (po eksemplo familija, hobi, bući, dromeski trjaba thaj aktualni pecimata).</td>
+      <td>Šaj kérav komunikacija vi xanci maj spontano thaj xanci maj fugo, kodja kërel e interakcija le manušëna, kaj vorbin pe peska daki šib, sa maj but realno. Šaj participiriv aktivno pe diskusija, pa prinžande kontekstur thaj šaj anzerav vi eksplikacija pa muře opinije thaj muře motivacije.</td>
+    </tr>
+    <tr>
+      <td>Vorbaki Produkcija</td>
+      <td>. Me šaj hasniv prosti fraze thaj šaj dav duma pa kodja kaj trajiv thaj šaj vorbiv pa 'l manuša, saven žanav.</td>
+      <td>Me šaj hasniv jek serija kata diferentni fraze te mothav xarnes pa muři familija thaj pa aver manuša, pa trajoské kondicije, pa muři edukacijaki situacija thaj pa muři akanutni bući vaj pa muři bući, kaj sas ma maj anglal..</td>
+      <td>Me šaj phandav fraze ande 'k prosto drom, te dav duma pa personalni hačarimata thaj pecimata thaj te vorbiv pa muře sune, esperiances, nade thaj ambicije. Xarnes šaj dav eksplanacije pa muře opinije thaj planur. Šaj mothav jek paramiči vaj šaj sikavav le šerutne punktur kata jek knjiga vaj kata 'k filmo thaj šaj dav duma pa muře reakcije.</td>
+      <td>Šaj prezentiriv jasni, detajlinime deskripcije pa jek buhlo subjektongo findo, save si phangle kodolasa, so si mangë interesantno. Šaj dav eksplikacija pa 'k aktualno tema, thaj šaj sikavav o pro thaj o kontra kata diferentni opcije.</td>
+    </tr>
+  </tbody>
+</table>
+
+14
+
+--- Page 15 ---
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>I S K I R I P E</th>
+      <th>Iskiripe</th>
+      <th>Me šaj ramov jekh xarni thaj prosto postaki karta, kaj bišalav, po eksemplo, varekaskë but sastipe palaj slava. Šaj pherav formularur, kaj pušen personalni detajlur, po eksemplo, muřo anav, muřo nacionaliteto, thaj šaj pherav jek hotelosko registracijako formularo.</th>
+      <th>Me žanav te ramov xarne prosti notice thaj informacije. Me žanav te ramov jek desja prosto, personalno lilořo, po eksemplo te naisarav varekaskë anda vareso.</th>
+      <th>Me šaj ramov prosti, phangle tekstur pa teme, save si kataj familjarno vaj personalno interesa. Šaj ramov personalni lila pa kodja, so pecisajlem vaj pa muře impresije.</th>
+      <th>Šaj ramov jek jasno, detajlirime teksto pa 'k buhlo subjektongo řindo, te si lo phanglo muře interesenca. Me šaj ramov jek esejo vaj jek raporto, šaj dav informacije maj dur, šaj dav eksplikacija so si pro thaj so si kontra jek partikularno pozicija. Šaj ramov lila, save sikaven e personalno signifikanca kata pecimata thaj eksperianse.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>![image](image_1.png)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+15
+
+--- Page 16 ---
+# ROMANIPE
+
+I tabela tani leli tari ROMANIVERZIJA TARO CFR. (Naje arlisko)
+
+Amen leljam thaj o romanipe keda dengjam predlogija bašo e klaseskere aktivitetija. Ama ka ovel šukar o sikavno disavo var te kontrolirinel ko savo nivo e siklengoro čhibjakorophirnipe tano keda kerela pes lafi taro o romanipe..
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th colspan="1">A1</th>
+      <th colspan="1">A2</th>
+      <th colspan="1">B1</th>
+      <th colspan="1">B2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">H A C A R I P E</td>
+      <td>A Š U N I P E</td>
+      <td>Šaj haćarel le vorbe pa familjakê membrur, khèreske aktivitetur, hurjavimaskê taj xamaskê buća, familjakê zakonur, le maj importantni paćiva thaj komemorije, gilja khêlipe, paramiča, hodinimaskê thaj sportoskê aktivitetur.</td>
+      <td>Šaj haćarel prosti instrukcije paj performacija ando khêr/ nde komuna.<br>Šaj haćarel jek prosto eksplikacija kata ‘l ,zakonur’, kaj si phangle le svako deseske trajosa.<br>Šaj haćarel le šërutne punktur thaj intenzije kata ‘k prosto paramiči.</td>
+      <td>Šaj haćarel jek paramiči vaj jekh anekdota pa peski familija vaj komuna.<br>Šaj ašunel jek divano paj Řomengi historija, Řomengê tradicije vaj pa drom lengê trajosko thaj kam haćarel le šërutne punktur.</td>
+      <td>Šaj haćarel ando detajlo jek buhljardo divano pa Řomengo trajo, paj Řomengi historija vaj Řomengi kultura kaj kêrel vi komparacija maškar kodja so nakhlo thaj so si ades thaj prezentiril le trjabe save anel e nevi ljuma.</td>
+    </tr>
+    <tr>
+      <td>G I N A V I P E</td>
+      <td>Šaj haćarel thaj prinžanel le bazakê vorbe pa familjakê thaj komunakê membrur thaj aktivitetur, pa buća ando khêr, xabe thaj hurjavipe, le anava kata familjakê anekdote thaj gilja thaj kadja maj dur, te line len sama pe ‘k plakato, pe ‘k ,flash card’ vaj pe ‘k lil.</td>
+      <td>Šaj ginavel thaj šaj haćarel jek prosto teksto, po eksemplo jek familjaki anekdota, savi hasnil prinžande thaj but frekventirime svatur.<br>Šaj ginavel thaj šaj haćarel prosti tekstur pa le Řomengo trajo, paj Řomengi historija thaj Řomengê tradicije, talaj kondicija, le vorbe ando teksto si prinžande taj but frekventirime.</td>
+      <td>Šaj ginavel thaj šaj haćarel jek pe ‘l bêrš apropriatno anekdota pa ‘l Řom thaj lengi eksperiansa ande nakhli vrjama thaj ande akanutni vrjama.</td>
+      <td>Šaj ginavel thaj haćarel jek detajlirime deskripcija pa kodja, savo efekto le Řomengo trajosko modo sikadol ande svako desesko trajo.<br>Šaj ginavel thaj haćarel jek anekdota pa ‘l eksperianse kata ‘k Řom vaj kata ‘k grupa.<br>Šaj ginavel thaj haćarel e biografija kata ‘k ašundo Řom.</td>
+    </tr>
+  </tbody>
+</table>
+
+16
+
+--- Page 17 ---
+# ŘOMANIPE
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>A1</th>
+      <th>A2</th>
+      <th>B1</th>
+      <th>B2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">V A K E R I P E</td>
+      <td>V O R B A K I I N T E R A K C I J A</td>
+      <td>Šaj pušel pa bazakê buća ando khêr.<br>Šaj del anglal bivorbako vaj numa jekha vorbasa vaj šaj del desja xarnes anglal pe pušimata pa peski familija, pa pesko khêr, pa pesko hobi pa peskê aktivitetur thaj eksperianse thaj pa kodja, so si leskê/lakê drago thaj so na.<br>Šaj del apropriatno jek lašo des thaj šaj del anglal.</td>
+      <td>Šaj pušel thaj šaj te del anglal pe prosti pušimata pa Řomengo societeto pa le Řomengi historija, le zanatur thaj okupacije, o modo le trajosko thaj pa tipični pecimata thaj aktivitetur.</td>
+      <td>Šaj pušel thaj te del anglal pe pušimata fjal de fjal pa aspektur kata Řomengo trajo thaj le Řomengi kultura.<br>Šaj diskutuil pa importantni ‘zakonur’ ando trajo le Řomengo.<br>Šaj del anglal pe pušimata pa pesko trajo thaj pa kodja, sar dikhêl le tradicije kata le Řomengê familije.<br>Šaj pušel thaj šaj te del angle pe pušimata paj importanca kataj edukacija pala ‘l Řom ađes.</td>
+      <td>Šaj diskutuil detajlirime pa tradicije kata Řomengê komune thaj o efekto pe svakone desesko trajo.<br>Šaj diskutuil detajlirime pa importantni performacije thaj pa le paćamata kata řomane familije thaj řomane komune.<br>Šaj diskutuil thaj šaj sikavel la edukacijaki importanca thaj le têrnimatangê šanse kataj edukacija.</td>
+    </tr>
+    <tr>
+      <td>V O R B A K I P R O D U K C I J A</td>
+      <td>Šaj hasnil kijakê svatur vaj bazakê fraze, te vorbil paj familija, pa khêr, pa aktivitetur, pa kodja so kamel thaj so či kamel.</td>
+      <td>Šaj hasnil jek frazaki serija te sikavel jek aspekto kata Řomengo trajo vaj kataj Řomengi tradicija.<br>Šaj hasnil papuše vaj plakatur, te del jek prosto eksplikacija pa partikularni teme, save su phangle le Řomenga historijasa vaj tradicijasa (po eksemplo o drom andaj Indija, zanatur ande partikularni regionur etc.).<br>Šaj mothol jek prinžandi paramiči, so ašundja, prostone frazenca.</td>
+      <td>Šaj del, apropriatno pe peskê bêrš, svato pa trajosko drom thaj le responsibilitetur kata ‘l têrnimata ande ‘k řomani familija.<br>Šaj del svato xarnes pa ‘k aspekto ando trajo le Řomengo, ande historija vaj ande kultura.</td>
+      <td>Šaj anzarel jek detajlirime prezentacija paj Řomengi historija thaj kultura thaj šaj sikavel le esencialni punktur pa kodja.<br>Šaj del duma detajlirime pa sićuvipe kataj řomani šib thaj šaj sikavel eksemplur kata diferentni řomana šibakê varijacije.</td>
+    </tr>
+    <tr>
+      <td>I S K I R I P E</td>
+      <td></td>
+      <td>Šaj kêrel kopije vaj šaj ramol svatur vaj liste phangle la familjakê membronca, šaj ramol pa svako deseskê aktivitetur, pa khêreskê buća, pa xabe thaj hurjavipe thaj pa importantni pecimata.</td>
+      <td>Šaj ramol xarne tekstur kodolasa, te hasnil prinžande svatur, pa ‘k aspekto kataj Řomengi historija vaj pa ‘k aspekto kataj Řomengi tradicija vaj te del jekh xarni deskripcija kata ‘k prinžandi paramiči.</td>
+      <td>Šaj ramol jek xarno teksto pa jek des ando trajo jekha řomana familjako; pa importantni aktivitetur ande ‘k Řomengi familija; paj historija le Řomengi ande ‘k lokalno distrikto kata regiono.</td>
+      <td>Šaj ramol jek jasno detajlirime teksto paj Řomengi historija thaj kultura thaj vi paj importanca kata kodja ađes pe sama kata lokalno distrikto vaj regiono.<br>Šaj ramol jek jasno detajlirime teksto pa kodja, sostar sićol e řomani šib thaj paj importanca kata diferentni karakteristike ande šib kata aver regionur.</td>
+    </tr>
+  </tbody>
+</table>
+
+17
+
+--- Page 18 ---
+# TEMA 1 – ME HEM MLI FAMILIJA
+
+Me hem mli familija tani jek centralno tema ko sikavibe e romane čhaven. I familija tani but važno sa e romenge, hem ki romani familija na lela than samo daj, dat hem čhave nego hem papo, mami, dajakere phenja, dajo, dadesere phenja, kakoja hem dajakere phenjakere čhave, hem kakosere čhave. O sikle šaj akate te keren jekharibe ple familija jekhe avere familijaja so nane romani familija, ki Švedia ko lafi familija but puti hajlolapese daj, dat, čhave. I romani familija formirinela jek specialno identiteti hem korkori zoralipe upro peste ko ple romane čhave. E familijakoro užipe tano but zoralo maškar o roma.
+
+**Dikh thaj:** Tema 2 - Mlo kher thaj o aktivitetija ko kher, Tema 3 - Mlo pašedersarinibe (društvo) thaj mle socialikane kontaktija, Tema 4 - Romane zanatija hem bukja hem Tema 5 - Baredive hem feste.
+
+## Cilj sarinenge
+
+- O sikle džanena te anavkeren e dženen ki familija hem džanena te vakeren olen ko šukar čhane.
+- E siklengoro identiteti hem o korkori zoralipe upro peste ulo zoralo odoleja so ola ljele pobaro sikljoibe korkori pestar hem tari pli rola (plo than) ki pli romani familija.
+- O sikle hošinena hem sikavena respekti e phurederenge.
+- O sikle bajrage plo džanibe tari ple familijakoro kotaribe hem pli romani grupa.
+- O sikle dobingje haljoibe ko avere manušengere gndiba hem o način e dživdipaskoro, odoleja bajrargje plo šaibe te haljon hem te hošinen te sikaven respekti e menušenge so dživdinena telal ko javera uslovija.
+
+## Penžarkeribe
+
+O sikavno/sikavni prezentirinela i tema "Me hem mli familija", odoleja so sikavela e familijakiri centralno rola maškar o roma. Angleder o sikle te dobinen te keren buti, šaj te prezntirine tu korkori tle familija hem te vakere pobut tutar. Ka ovel šukar ako tu konkretno sikaveja save rezultatija, tu udžareja o sikle te keren ki pli buti keribe, ko misal: kana rodeja olendar te keren jekh anaveskiri tabla - sikav sar tli anaveskiri tabla dikhjola!
+
+De zori te de ko džanibe e siklenge so valjani te sikjon hem soske šukar te sikljolpes odova so ola dikhena te sikljon, hem ov šukarvogjalo ko deibe zoralipe.
+
+Ko hemime grupe but važno te počmine informacijaja hem te kere buti okole buti keribnaja so pasuinela sa e siklenge ko javer čhane berša hem ko javer čhane čhibjakere nivoa. O matrijali - slike, tekstija, rečnikija, kontrolibaskoro ljil - so o sikle producirinena khedena len ki jekh butikeribaskiri mapa. Odola tane A4 mape registriribaja. O sikle šaj te kheden neve lafija ja ki jekh džepa ki mapa ja ki jekh ulavdo hramobaskoro ljil. (Pobut kotar akava šaj te arakhe ko Anglovakeribe.)
+
+Važno te kere buti te bi šaj te pasuinen e siklenge ko sa o berša, kana tano ko pučibe o formalno dikhibe ko čačipe e čhibjakoro hem ki gramatika. Ko misal tu šaj te dikhe sar dikhelape jekh tema sar ko misal: istemalkeribe dženutne pronomja ki jekh tema.
+
+## Klaseskoro aktiviteti 1:1 – Me
+
+**Berša:** 7-14 berš  
+**Čibjakoronivo:** A1
+
+18
+
+--- Page 19 ---
+# Cilji akale aktiviteske
+
+- O sikle bajrarena plo džanibe korkori pestar hem olengoro sigurnost upro peste ovela pozoralo.
+- O sikle šaj te dikhen pes korkori ki situacija e trujal sumnaleja.
+
+# Metodi thaj butikeribe
+
+Palo ko anglo vakeribe tari tema, i buti keribe ki akaja lekcija ka koncentririnelpes upro o siklo. O lafi keribe ki grupa ka vakerlpes so amen o manuša injam jekhajek thaj javerčhane. Palo odova aktuelno lafi keribe tano taro amare anava, so značinena, soske dobingjam odola anava hem sar identifirinaja amen amare anavencar. But var o roma isilen jekh oficionalno thaj jekh romano anav. - O sikavno/sikavni vakerela so oj ja ov dzanena taro plo anav.
+
+O jekto buti keribe ka ovel, o sikle te keren jekh anaveskiri tabla. O sikavno ka del arka, okole siklenge so panda nadžanena te hramonen plo anav, odoleja so o sikavno ka hramonel o anava ki tabla, palo odova o sikle ka hramonkeren tari tabla ko ljil. Palo odova svako siklo ka dekoririnel pli anaveskiri tabla. O pobare sikle so džanena te keren buti ko kompijuteri šaj hramonen pli anaveskiri tabla ko kompijuteri.
+
+Palo odova o sikle ka cidkeren plo portreti. O čhave korkori dikhena so ola mangena te cidkeren hem sar odova ka dikhjol.
+
+Tu šaj te sikave jekh cidkeribe, tutar kote tu cidkergjan odothe so ka šaj te dikhelpes e jakhengiri renki, balengiri renki, mujeskoro dikhipe, baripe, hem panda. Tu šaj te de arka e siklen te hramonen o renkija, odoleja so ka hramone o lafi ki tabla, hem i renki so krelape lafi olatar o bala tane **kale**, o jakha tane **modra**. Ka akava nivo šaj ka valjani te de arka e siklen, ako mangena te dobinen informacija taro plo učipe. Muk olen te dikhen kobor tane uče-te merinenenpes maškar peste! Palo odova khede sa e siklendar olengoro cidkeribe.
+
+Svako siklo ka sikavel plo cidkeribe hem o sikavno ka del zoralipe e siklenge te šaj te vakeren soj hembut važno olenge ko olengoro cidkeribe. E anaveskiri tabla hem o portreti ka čhivelpes, hem te arakhelpeki buti keribnjaskiri mapa.
+
+# Kherutni buti
+
+Ki kherutni buti ka de e siklenge, avere puteske te len peja fotografije pestar kana ine tikne. Ola ka pučen da pe daden ja pe dajen sar ola gndinena ine, kana ine tikne, Ko misal. Dali ola ine šukar ja rovavne.
+
+# Gramatika
+
+Akava aktiviteti dela tut naturlikano šajdipe te dikhe dali o sikle džanena te istemalkeren e dženengere pronomija (me, tu, oj, ov, amen, tumen, ola). Akava ka kere kana ka kere lafi olencar, hem ka dikhe dali o sikle haljona pes korkori sar kerena lafi averencar. Ako nesavo siklo nan e sigurno ko akava, notirin tuke, ponodori irintut palal ko odova. Okola sikle so džanena te hramonen šaj da te keren jek lista e dženengere pronomencar.
+
+# Klaseskoro aktiviteti 1:2 – Me
+
+**Berša:** 7-14 berš  
+**Čhibjakoronivo:** A2
+
+19
+
+--- Page 20 ---
+# Cilji akale aktiviteske
+
+- O sikle barjarena plo džanibe korkori pestar hem olengoro sigurnost upro peste ovela pozoralo.
+- O sikle šaj te dikhen pes korkori ki situacija e trujal sumnaleja.
+
+# Metodi thaj butikeribe
+
+Tu anglokereja ko sajek čhane sar upreder hem akala sikle saj te keren anaveskiri tabla hem te vakern olatar hem pestar. O sikle ko akava nivo ka valjani te džanen hem te agorkeren vakerina sar: Me vikinava man... Mli adresa tani... Mo telefoneskoro numero tano....
+
+Jekh aver buti keribe so šaj tu te kere e siklencar tano te cidkeren efta krugija jekh ko maškar hem šov trujal oleste. Ko maškarutno krugo o siklo ka hramonel plo anav, a ko okola krugija ka hramonel ko misal. plo majšukar haibe,- renki,- muzika, - džanvarija, - manuša, - butikeribe.
+
+Ola šaj isto te hramonen nešto pozitivno pestar, so avgokerela okole šabdjaja so avdokerela olengoro anav.
+
+Palo odova šaj te keren buti duj po duj hem te arakhen te hramonen nešto pozitivno ple amalestar odole šabjaja so avgokerela oleskoro ja olakoro anav.
+
+Ko misal. **godjaver - ganija**. Tu khedeja sa akava hem hramoneja ki tabla o pozitivna lafija so o sikle vakergje. Palo odova odoreder dzana e lafencar so isilen sa jek haljoibe, sar ko misal. **godjaver - šukar**, premalo lafi **godjaver - dilino**.
+
+O sikle hramonena akala lafija ki pli lafengiri riga sar sinonimija hem premale lafija. Adaleja čhivenape o lafija ko sa jek hem šaj lokheder te sikljonpes o neve lafija.
+
+# Gramatika
+
+Ko akava nivo o sikle šaj te džanen e dženengere pronomija. Te ove sigurno ko odova šaj te puče olen ja te muke e siklen te hramonen vakernja, hem te pheren čačikano pronomi, sar ko misal. Kaj dživdinela i Alisa? - ... dživdinela ko Barodrumo. Tu šaj te vakere palem e genjibaskere lafija so valjanena te vakerenpe, sar soj adrese hem telefoneskere numerija.
+
+# Kherutni buti
+
+Sajek sar upreder. O sikle šaj te agorkeren/te džan ponodori ple buti keribnaja sinonimencar hem e premale lafencar, so avgokergje ki škola.
+
+# Klaseskoro aktiviteti 1:3 – Me
+
+**Berša:** 7-14 berš  
+**Čhibjakoronivo:** B2
+
+## Cilji akale aktiviteske
+
+- O sikle barjarena plo džanibe korkori pestar hem olengoro sigurnost upro peste ovela pozoralo.
+- O sikle šaj te dikhen pes korkori ki situacija e trujal sumnaleja.
+
+## Metodi thaj butikeribe
+
+O sikle ko akava nivo šaj te hramonen pli anaveskiri tabla ja te keren ola ko kompijuteri. Ola šaj te istemalkeren o kompijuteri te šaj te arakhen pobut informacija taro plo anav hem ple anaveskoro haljoibe.
+
+20
+
+--- Page 21 ---
+Akala sikle šaj te hramonen tikoro texti korkori pestar. Tu šaj te delen arka sar te avgokeren, odoleja so ka vakere olenge so te hramonen, sar ko misal. So kerela tut te ove lošalo? Kana injan lošalo? So kerela tut te ove holjamo?
+
+So kerela tut interesimo? Važno ko akaja buti keribe o sikle te koncentririnen pes upro peste. Aver uštavin tani o sikle te prezentirinen peske maškar peste okova so hramonkergje.
+
+## Gramatika
+
+Tu šaj te kontrolirine e siklen sar džanena te istemalkeren e dženengere pronomija tari čačikani forma ko tekstija so hramonge. Šaj te kompletirine odoleja so ka puče olen pučiba ola te den dževapi okole pronomencar so valjani te istemalkeren, Ko misal. Kana holjanela i Alisa?... holjanela kana neko zadinela ola. O sikle šaj te hramonen jek ljil akale pronomencar ki pli Butikeribaskiri papka/Lafengoro ljil.
+
+## Kherutni buti
+
+Hem ko akava nivo o sikle ka anen peja aver drom fotografije pestar kana ine tikne, soske aver drom ka kerelpes lafi tari tema “Kana injum ine tikno”. O sikle šaj te kompletirinen o texti so hramonkergje korkori pestar hem te čhiven le ki pli Buti keribaskiri papka.
+
+## Klaseskoro aktiviteti 2:1 – Kana injum ine tikno
+
+**Berša:** 7-14 berš  
+**Čhibjakoronivo:** A1, A2
+
+### Cilji akale aktiviteske
+
+- E siklengoro sigurnost upro peste ulo pozoralo odoleja so barilo olengoro džanibe korori pestar hem o džanibe pli rola ki pli romani familija.
+- E siklengoro jekhaljoipe ple romane grupaja barilo odoleja so siklile pobut tari ple familijakoro kotaribe.
+
+### Metodi thaj butikeribe
+
+O cilji akale klaseskereaktiviteske te delpe ko džanibe e siklenge o mangibe so ola dobingje ple dadestar thaj ple dajatar, hem sa e familijatar, hem te bajrarlpes o džanipe e familijakere istorijatar.
+
+Tu avgokereja akaja buti keribe odoleja so vakereja tutar sar tu injan ine sar tiko/tikni. Vaker e siklenge soske šukar te džanen pli familijakiri istorija hem delen zoralipe te oven ko baro odoleja. Ker lafi e siklencar sar ola ine kana ine tikne hem delen ko džanibe kaj sarine amen injam posebna manuš, hem odova tano nešto pozitivno.
+
+O buti keribe akava drom tano o sikle te prezentirinen pes korkori sari ine ola tikne, ki arka e lafencar hem slikencar. Ola ka lepinen o fografije ja ka kopirinen ko jek lil hem ka čhiven ki pli Butikeribaskiri mapa. Majanglal ka keren lafi okolestar so o sikle šungje ple dajatar ja ple dadestar thaj tu ka hramone ki tabla okola neve lafija.
+
+Okola sikle so džanena te hramonen, hramonena jek tikno teksti uzal pli slika. Ko uprohrami ka ovel e sikleskoro anav hem eventualno o berša. Tu deja arka okolen so nadžanena korkore te hramonen odoleja so hramoneja nesave važna lafija, sar ko misal. Alisa 1 berš-tikni, lošali čhaj ja palem Alisa 1 berš-asala.
+
+21
+
+--- Page 22 ---
+# Gramatika
+
+Akate džaja ponodori hem dikheja sar džanena o siklete bangjaren e dženengere pronomija ko akuzativ (man, tut, ole, ola, amen, tumen, olen).
+
+---
+
+## Klaseskoro aktiviteti 2:2 – Kana injum ine tikno
+
+**Berša:** 7-14 berš  
+**Čhibjakoronivo:** B1, B2
+
+### Cilji akale aktiviteske
+
+- E siklengoro sigurnost upro peste ulo pozoralo odoleja so barilo olengoro džanibe korori pestar hem o džanibe pli rola ki pli romani familija.
+- E siklengoro jekhaljoipe ple romane grupaja barilo odoleja so siklile pobut tari ple familjakoro kotaribe.
+
+### Metodi thaj butikeribe
+
+O sikle ko akava nivo šaj šukar haljoibaja te vakeren korkori pestar hem sar ola inte kana ine tikne, olengoro šajdipe te hramonen nane sa jek dikhindor kobor berš isilen.
+
+I tema kerelape sa jek sar so kerelape ine e siklencar ko A1-A2 nivo hem kana ka vakeren o sikle so olengere dada thaj daja vakergje sar ola ine sar tikore čhave, tegani ka hramonen odola neve lafija, hem akala sikle da ka hramonen tekstija ple slikenge. Akava drom o sikle šaj te den ple tekstija tuke hem but važno sar tu ka komentirine olengere tekstija. De olen zoralipe ko olengoro hramoibe, vazde olen ko odova soj šukar kerdo, hem pokušin te na arakhe but soj čačikano hramoibe ko čačikano nivo.
+
+### Gramatika
+
+Dža ponodori hem ko akala nivoa, dikh sar o sikle ka istemalkeren akala dženengere pronomija ko na jek bangjaribaskere lafengere forme. Te dikheja kaj o sikle ko duj godja šaj te dikhen palem sabene ki grupa hem muk e siklen te pheren o bangjaribaskere laferngere forme ko ple lafengere ljila.
+
+### Kherutni buti
+
+Sar kherutni buti ka dobinen o sikle, te dikhen ki savi grupa roma perela olengiri familija, hem da ola ka pučen ple dade ja daja soj but važno ki olengiri familija.
+
+---
+
+## Klaseskoro aktiviteti 3:1 – Mli familija
+
+**Berša:** 7-14 berš  
+**Nivo:** A1, A2
+
+### Cilji akale aktiviteske
+
+- O sikle džanena te anavkeren e dženen ki familija.
+- O sikle džanena te sikaven respekti e phurederenge.
+- O sikle barjarge plo džanibe tari pli familija hem pli romani grupa.
+- O sikle dobingje pošukar haljoibe ko avere manušengoro dživdipe odoleja bajrarge plo džanibe hem haljoibe hem odoleja sikavena respekti e manušenge so dživdinena telal ko na javavera uslovija.
+
+22
+
+--- Page 23 ---
+# Metodi thaj butikeribe
+
+I Familija tani važno sarinenge thaj odoleske akaja tani jekh centralno tema. E familijakere relacije nane sa jek ko manuša, odoleske kana ka keren buti akale temaja važno te delpe ko džanibe e siklenge kaj sa o familije nane jek.
+
+Avgoker o lafikeribe tari familija hem olakoro kučibe thaj de e siklen ko džanipe kaj sa o familije dikjona javerčhane.
+
+Sikav okova soj specifikano e romane familijencar hem sikav o socialno gruppakoro jekhipe Ko misal. Ako o sikle tane arlije, kelderašija ja lovajra ja palem javer grupa.
+
+Vaker tari tli familija hem o jekhajekhipe avere familijencar. Keren lafi, sar o sikle vikina pe daja pe dade pe dadesere daja hem dade, hem pe dajakere daja hem dade, hem avere dženen ki familija.
+
+Tu šaj hem te kere lafi olencar, soj odova “paše familija” hem koj ola gndinena, lela than ki olengiri familija. - Dalo samo daj, dad hem phenja, phralja ja papo, mami ja palem panda familija so ola dikhena olen sar pli “paše familija”?
+
+Sa džikote kerena lafi hramon tu ki tabla sa o lafija so lena than e familijakere dženenge (daj, dad, phen, ohral, papo, mami, dadeskiri phen thaj javera).
+
+Akana i buti keribe e siklenge ka ovel, te cidkeren ple familijen, hem te hramonen sar o manuša so cidkergje, tane familija e siklencar. Palo odova o sikle ka prezentirinen ple familijen hem ka komentirinen save manuša olenge tane but važna, Ko misal. - Mi mami mange but važno odoleske soske oj šaj te vakerel but intesna bukja.
+
+## Gramatika
+
+Akava planiribe dela prirodno soskipe te dikhelpe dali o sikle ka džanen te bangjaren e dženengere pronomija ko genitiv (mlo, mle, tlo, tle, amare, tumare, olengere). O phureder sikle hramonena akala forme ko ple hramobaskere lila.
+
+# Klaseskoro aktiviteti 3:2 – Mli familja
+
+**Berša:** 7-14 berš  
+**Čhibjakoronivo:** B1
+
+## Cilji akale aktiviteske
+
+- O sikle džanena te anavkeren e dženen ki familija ko čačikano način (čhani).
+- O sikle džanena te sikaven respekti e phurederenge.
+- O sikle barjarge plo džanibe tari pli familija hem pli romani grupa.
+- O sikle dobingje pošukar haljoibe ko avere manušengoro dživdipe odoleja bajrarge plo džanibe hem haljoibe hem odoleja sikavena respekti e manušenge so dživdinena telal ko najavera uslovija.
+
+## Metodi thaj butikeribe
+
+Akala sikle šaj te keren buti, odoleja so palo ki akaja ki kupa diskusija, hem dikhibe o neve lafija, te keren ko parija o najekhajekh familijakere džene, ko misal. O džuvlja ki familija, te hramonen ki bajanali rig, a o murša ki familija ki dahinali rig, Ko misal. daj-dad, papo-mami.
+
+Palo odova o sikle dena pe godi hem vakerena soj but šukar, taro o džene ki pli familija, ko misal. O Memeti bašali kemana, i mami džanela te dikhel ko karte.
+
+Jekh aver buti keribe šaj te ovel, te hramonen o sikle o anav nesave dženeskoro ki familija hem te šaj te akakhel soj karakteristikano odole manušeste so avgokerela ko okola šabdja so isi ole ko oleskoro anav. Ko misal o anav Gani.
+
+23
+
+--- Page 24 ---
+G-gogjaver  
+A-arakhlo  
+N-neutralno  
+I- intelegentikano  
+
+Palo odova šaj te deline e siklen ko grupe hem te keren buti odoleja sar te arakhen trin jekhipe, hem trin najekhipe, maškar o džene ki familija. Akaleja sikavgjovela hem kerelape diskusija kaj hem o romane familije nane sa jek.  
+Akaja tema agorkerela pes odoleja so o sikle kerena afišija (korkore ja ki grupa), tekstencar hem slikencar kote so prezentirinena “pli” romani familija.
+
+## Gramatika
+
+Akale mujale hem hramoibaskere, buti keribnjaja šaj te dikhelpes kobor o sikle džanena te istemalkeren e dženengere pronomija hem bangjaribaskere forme. O sikle ko akava nivo hem hramongje ko ple hramoibaskere lila o na sajek bangjaribaskere forme, hem šaj korkore te džan palal hem te arakhen len ako nane sigurna.
+
+## Klaseskoro aktiviteti 3:3 – Mli familija
+
+**Berša:** 13-16 berš  
+**Čhibjakoronivo:** B2
+
+### Cilji akale aktiviteske
+
+- E siklengoro identiteti hem o sigurnost upro peske ulo pozoralo prekal odova so bajrargje plo džanibe, korkori pestar hem tari pli rola ki romani familija.
+- O sikle džanena te sikaven respekti e phurederenge.
+- O sikle barjarge plo džanibe tari pli familija hem pli romani grupa.
+- O sikle dobingje pošukar haljoibe ko avere manušengoro dživdipe odoleja bajrarge plo džanibe hem haljoibe hem odoleja sikavena respekti e manušenge so dživdinena telal ko najavera uslovija.
+
+### Metodi thaj butikeribe
+
+Palo ko lafi keribe o sikle ka ka intervjuinen ple dadeskere dade ja daja, ja ple dajakere dade ja daja, hem ka pučen olen sar dikhjola ine olengiri familija kana ola ine terne. Kotar akaja informacija ka hramonen jekh hramoibe, so ka ovel ilustririmo slikencar. O sikle ko akava nivo šaj hem te hramonen ja te vakeren tari pli grupa hem soleja ola dikhjona javerčhane taro avera grupe. O sikle šaj te keren buti hem ko pari, hem te intervjuinen pes maškar peste taro olengere familije, palo odova šaj te prezentirinen e celo grupake.
+
+Tu šaj te de arka e siklen te avgokeren o hramoibe odoleja so sikavja olnenge šukar pučibe, Ko misal. Vaker diso so tu gndineja si šukar ki tli familija! Vaker disavo kanuni ki tli familija so tu gndineja kaj šukar, ja nane šukar! Vaker diso taro okova dženo ki familija so tu ole but mangeja!
+
+## Grammatika
+
+Akale mujale hem hramoibaskere, buti keribnjaja šaj te dikhelpes kobor o sikle džanena te istemalkeren e dženengere pronomija hem bangjaribaskere forme. O sikle ko akava nivo hem hramongje ko ple hramoibaskere lila o na sajek bangjaribaskere forme, hem šaj korkore te džan palal hem te arakhen len ako nane sigurna.
+
+24
+
+--- Page 25 ---
+# TEMA 2 – MLO KHER THAJ O AKTIVITETIJA KO KHER
+
+O kher tano jek but kuč nukta thaj sigurnost sarinenge. O kher nišankerela o centar kotar manuš te orentirinelpes, odova tano o than so sikavkerela o sumnal e čavenge. Prekal o kher buvljarenapes o granice avrijaldan ko bipendžarutno sumnal. Ko kher sikljona o čhave soj lačhe hem soj bilačhe. Ko kher sikljona o čhave pli tradicija, kultura, identiteti hem kaskere tane.
+
+## Cilji sarinenge
+
+- O sikle džanena o lafija taro okola bikja so isi ko kher, hem ko konkretna bikja hem ko aktivitetija ko kher hem sa okola lafija so džana jekhajek e hošibaja (osetibaja).
+- O sikle džanena so isilen buti te keren sar članija ki familija tari tradicija ki romani familija.
+- O sikle džanena sar o roma dživdingje angleder te dživdinen ki Švedska hem džanena soj odova so kergja o roma but vakti, zorlja te dživdinen sar nomadija.
+- O sikle isilen džanibe kotar o uslovija e dživdipaskere e romane čhavenge hem e ternenge ko avera phuvja.
+- O sikle isilen džanibe kotar o ulaibaskere role ko romane familije.
+
+## Penžarkeribe
+
+O sikavno/sikavni prezentirinela akaja tema odoleja so dela godi e siklen, soj odova soj but važno, hem so sikavela e romane familijakere dženen, sar ulavena i buti ko kher. Ko akava način. Ko akava lafi keribe prirodno te dikha palal hem te jekhara o ulaibe i buti akana hem angleder kana o roma dživdingje ko šatorija ja palem ko vrdalokher hem zorleja selingjepes butvar, odoleske soske namukle olen te dživninen pobut ko jekh than.
+
+Ponodori šaj te kheden e grupa hem te keren lafi ko so isile te kerel butik ke siklengiri familija sar ko misal haibekeribe, thoibe, kinibe haibe thaj šeja, kontakti e školaja, hem panda.
+
+Akate tu sar sikavno/sikavni ka haljovkere kaj isi maškar o roma javerčhane status hem kaj o aktivitetija ko kher isilen javerčhane status. Agjahar akava šukar vakti te vakeripe o faktum maškar amende e romende kaj but važno o respekti e phurenge, hem kaj o čhave odoleske našti te vikinen e phundere manušen ko olengoro anav, odova šaj te ovel ko okola so nane roma.
+
+## Klaseskoro aktiviteti 1:1 – Ko kher – džanibe lafija
+
+**Berša:** 7-14 berš  
+**Čhibjakoro nivo:** A1, A2
+
+### Cilji akale aktiviteske
+
+- O sikle džanena o lafija taro majobična bukja ko kher hem o aktivitetija so džana akale bukjencar.
+
+### Metodi thaj butikeribe
+
+Avgoker odoleja so te de e siklen šajdipe te denpes godi o lafija e bukjengere so isi, so haljonapes ko kher. Tu hramoneja akala lafija ki tabla. Te bi šaj te haljoven okola lafija so o sikle nahaljona, bi ovela ine šukar te ovel tumen slike. Slike taro bukja ko kher šaj te len pes kotar o lila, slike, novine hem
+
+25
+
+--- Page 26 ---
+reklamakere brožure. O siklo šaj te khedel but fotografije ko jek than, hem te garavl olen. Asavke fotografije majšukar istemalkerenape kana kerelape lafi taro bukja soj kare pašeder e romane kulturaja.
+
+Palo ko akala khreskere bukja valjani o siklo/sikli te kompletirini e siklengoro džanibe. O siklo/sikli dikhela ko savo nivo, kana i ko lafi keribe e lafengoro džanibe tano šukar ko akava aktuelno sikljoibe ki grupa. Panda hem isi ko šajdipe kaj ponoori te bajrarelpes e siklengoro džanibe o lafija!
+
+Da bi šaj te ikerenpes ki godi o lafija o tiknder čhave šaj te keren ko pari o slike/lafija so džana jekhajek ki "čačikani kamra"! - O šporeti ki hajbaskiri kamra, hem isto o mikseri, i sofa thaj patozeskiri lampa valjani te ovel ke bešibaskiri kamra. O slike taro javera kamre hem o bukja olende o sikle khedena ki pli Butikeribnjaskiri mapa. (Pobut kotar odova ka akakhe ko Anglovakeribe.)
+
+### Kherutni buti
+
+Jek šukar buti keribe, tano o sikle te cidkeren pli kamra (ja palem nesavi aver kamra ko kher) hem te šaj te cidkeren so pobut bukja ki odoja kamra so šaj te vakeren len ki romani čhib. Hem te ule nesave neve bukja ko lila so cidkergje o sikle, šaj o sikavno/sikavni te del e sikleske jek keribnjaskiri buti, te kompletirinel akala slike e lafencar.
+
+### Gramatika
+
+Akate šaj te kontrolirine dali o siklo džanela te bangjarel o lafija so istemalkerenapes bašo bukja (anavjora) kojekhutnipe hem ko butipe. O sikljoibe e neve lafengoro funkcirinela majšukar kana akala lafija čhivenape ko lafjora, o anavjora kompletirinena pes e krutnencar.
+
+I mami bešela ki sofa, i lampa rošinela, i supa kergjola, i daj mešini i supa.
+
+## Klaseskoro aktiviteti 1:2 – Ko kher- bukja hem aktivitetija akana hem angleder
+
+**Berša:** 7-14 berš  
+**Čhibjakoro nivo:** B1
+
+### Cilji akale aktiviteske
+
+- O siklo/sikli bajrargja o džanibe e lafengoro kana si ko pučiba o bukja hem o aktivitetija ko kher.
+- O siklo džanela pobut te vakerel kotar o romane familije sar ola dživdingje angleder hem te dikhel o javrčhanipe ki avdisutni situacija sar i tani ko plo kher, hem angleder.
+
+### Metodi thaj butikeribe
+
+Ko akava čhibjakoro nivo o sikle džanena okola lafija soj tane po obična lafija hem o po obična aktiviterija ko kher, hem akana o sikavno/sikavni thaj o sikle ka keren lafi ko pobaro kompleksno čhibjakoro nivo.
+
+O sikavno angokerela o lafikeribe taro okova so promenisailo maškar o roma ko poharimo vakti. Ko misal o sikavno/sikavni šaj te vakerel kaj angleder kana e siklengere papoja thaj mamija ine terne dživdingje o terne ki kupa ple dadencar hem ple dajencar, hem palo odova kana ine olen čhave. O sikavno pučela e siklen sar si olende khere, sar dživdinena ola, hem dali dživdinena pe mamijaja hem pe papoja. Palo odova šaj te kerelpes lafi hem soske akana averčhane odova ovela ko put romane familije.
+
+Kana si ko lafi o bajraribe e lafengoro o sikavno rodelo o neve lafija hem hramonela olen ki tabla. O terneder sikle šaj te dobinen jek buti keribe, te
+
+26
+
+--- Page 27 ---
+hramonen čačikano lafi ko misal jek slika kotar o khera jek uzo jek, učokher, harno kher hem vila. O phureder sikle hramonena o neve lafija ko ple hramoibaskere lafengere lila.
+
+O sikavno/sikavni kontrolirinela dali o sikle hramonkergje korektno o podatke ko pučiba kaj ola dživdinena hem kaj džanena o genja so valjani olenge te džanen plo telefoneskoro numero.
+
+### Kherutni buti
+
+Akava var i kherutni buti tani o sikle te len kheraldan nešto soj olenge specialno hem olengere khereske hem o avera sikle te pogodinen soj adava. Ako o sikle napogodinena okova siklo so angja kheraldan nešto, ka vakerel soj odova hem ka vakerel soske istemalkerelapes odova. Hem ko akava nivo šaj te ovel aktuelno te bajrarelpes e lafengoro džanibe taro bukja hem o aktivitetija ko kher. Hem akala sikle šaj te cidkeren plo kher hem te vakeren so isi odothe. Pohor buti keribe šaj te olel te vakeren o sikle savo than ko kher tano maj važno hem te motivirinen soske gndinena agjahar.
+
+### Gramatika
+
+Isto akate bi ovela ine šukar te kontrolirinenpes o sikle sar o neve anavjora bangjarenapes ko jekhipe hem butipe. Agjahar o sikle valjani te džanen kaj lokheder te de tut godi o neve lafija kana džanelapes sar te istemalkerenpes ko lafjora. -Amen dživdinaja ko khera soj jekh uzo jekh. Mi mami thaj mo papo dživdinena ko jek stani. Amare kakoskere/tetkakere čhave dživdinena ki jek vila. Ko nilaj dživdinaja ko amaro vrdalokher.
+
+Te bi šaj te objasninelpes soske istemalkerenapes o bukja valjani o sikle te bajraren plo džanipe kerutne so džana jekhajek sa e aktivitetencar.
+
+## Klaseskoro aktiviteti 1:3 – Ko kher – jekharibe maškar akana hem angleder hem gadžikane khera
+
+**Berša:** 7-berš  
+**Čhibjakoro nivo:** B2
+
+### Cilji akale aktiviteske
+
+- O sikle džanena te hramonkeren soj tipično ko jek romano kher, hem te jekhakeren akava jekhe gadžikane khereja.
+- O sikle džanena te argumentirinen plo gndipe kana si ko pučibe o ulavibe o rolija ko romane familije.
+
+### Metodi thaj butikeribe
+
+Akala sikle šaj te keren buti odoleja sar soj te hramonkeren so ola gndinena tano tipično ko jek romano kher. Ola ka jekhakren akava okoleja so ola džanena taro jek gadžikano kher.
+
+Jekh aver buti keribe šaj te ovel o sikle te keren buti ko parija, hem te roden informacija ko Internet, ko lila te keren intrju phuredere manušen, sar o roma dživdingje tela ko javerčhane vakteskiri epoha. Ola šaj te vakeren odova so siklile odoleja so ka šaj te hramonen hem te cidkeren afišija kana ka vakeren ki grupa. Palo odova o afišija šaj te ulavenpes ki klaseskiri kamra.
+
+### Gramatika
+
+O treniribe e čačikane čhibjakoro akava var šaj te dikhelpes ko hramoibaskoro način, (sikavibe). Te hramonelpes sar o roma angleder valjani o sikle te džanen sar hramonelapes hem vakerelapes ko akanutno džindingje - hem ko nakhno
+
+27
+
+--- Page 28 ---
+vakti, odoleja so ka bangjaripe i kerutni ko javerčhane tempus. Mek te ovel navika e pobare siklen te kompletirinen pli keribnjaskiri lista sa e tempus formencar!
+
+## Klaseskoro aktiviteti 2:3 – Aktivitetija ko kher
+
+**Berša:** 7-14 berš  
+**Čhibjakoro nivo:** A1, A2
+
+### Cilji akale aktiviteske
+
+- O sikle džanena o tradicionalno ulavibe ki buti keribe ko romane familije.
+- O sikle haljona o angledžaibe ko romane familije kana kerelapes lafi o ulavibe i buti keribe ko kher
+
+### Metodi thaj butikeribe
+
+O sikavno/sikavni vakerela kaj panda avdive i buti keribe ko romane khera panda tani ulavdi sar ko misal: O romnja thovena čare hem thovena šeja. Angleder o romane romnja na kerena in buti avrijal taro kher, iako hem ola dikhle te parvaren ple familija.
+
+Odoleja so but pobut romane džuvja akana sikljona hem kerena buti avrijal taro kher, o tradicionalno ikeribe koj ka dikhel o kher, ovela javerčhane hem maškar o roma. Odoleske akava tano jek than so amen valjani te dikhljara ko amaro sikavibe.
+
+Tu šaj te vakere taro tle dživdipaskoro nakhibe. Šaj te vakere ako tu akana injan daj/dat sar injan ine, ko misal majbaro čhavoro taro tle phenja hem phrala.
+
+Tu šaj te vakere kaj o maj phureder phen ja phral vakeri sar valjani te ovel, nego okola avera phenja ja phrala. Isto kaj šukar te ovelpe hem tikneder phen, soske olake but var delape arka kana valjani olake. Tu šaj te vakere sar i buti kereibe ko kher tani ulavdi ki tli familija.
+
+Palo ko akava pendžakeribe kerela lafi o sikavno ja i sikavni e siklencar hem vakeri olenge olengiri pozicija ki familija, ko misal akala tane o majphureder čhave ki familija, o majtikneder, o maškarutne čhave ki familija.
+
+O sikavno, ki arka e siklengiri hramonela o neve lafija ki tabla. Te bi šaj te haljobelpes pošukar šaj o sikavno te sikavel hem slike e siklenge.
+
+Ponodori šaj o sikavno/sikavni te sikavi slike, buti keribnjaja: užaribe, thoibe, keribe habe, kinibe šeja, thoibe vrda hem panda.
+
+O sikle ka vakeren so dikhena ki slika hem te pendžarkerel ko kerela ja agorkerela odoja buti e sikleske ja e sikljake ko kher.
+
+### Kherutni buti
+
+O sikle ka valjani te cidkeren okova so o džene ki familija kerena buti ko olengoro kher. Aver puti ka kerelpes lafi ko klasi soske baš odola manuša kerena odoja buti ko kher.
+
+### Gramatika
+
+Ko akava aktiviteti sikavela o sikavno e siklen sar istamalkrenapes o kerutne ko ananutno vakti (užarela, thovela, kerela haibe, kinela šeja). Dikhelapes te istemalkeren o sikle so pobut lafija soj kerurnete bi šaj te hramonkeren so kerelape ko jek kher.
+
+28
+
+--- Page 29 ---
+# Klaseskoro aktiviteti 2:2 – Aktivitetija ko kher
+
+**Berša:** 7-14 berš  
+**Čhibjakoro nivo:** B1
+
+## Cilji akale aktiviteske
+
+- O sikle džanena o tradicionalno ulavibe e buti keribnjaskoro ko romane familije hem džanena te jekhakeren e gadžikane dživdipaskere stilencar.
+- O sikle haljona o angledžaibe ko romane familije kana kerelapes lafi o ulavibe i buti keribe ko kher.
+
+## Metodi thaj butikeribe
+
+Hem ko akava hramoibaskoro nivo važno o sikanvo/sikavni te notirinn okola lafija so o sikle istemalkerena, a sar sikavno džaneja kaj nesave sikle ki grupa nadžanena odola lafija.
+
+O sikavno hramonela akala lafija ki tabla hem vakerela e siklenge te hramonen len ki plo lafengoro hramoibaskoro lilj.
+
+Akava drom o sikle ka keren akava buti keribe ki grupa. I grupa ka kerelpes tari pozicija e sikleskiri ki familija ko misal ako tane majphureder ja majtikneder čhave ki familija. O sikle ka vakeren soj tipično baš ki olengiri familija, kana kerelapes lafi taro so udžarelapes olendar te keren, hem so valjani ola te del arka ko keribe buti ko kher. Ola ka hramonen hem soj javerčhane hem sajek ko akala familije.
+
+Angleder te džan ponodori akale diskusijaja soj javerčhane a soj sa jek, o ulavibe i buti keribe ko kher, šaj te ovel šukar te kerelpes jekh lista taro sa o buti keribe hem so valjani te kerelpes ko jek kher.
+
+Te bi šaj pošukar te zorakerelpes o džanibe šaj o sikle ko akava čhibjakoro nivo, te konstruirinen plo čhindovarkrija (krstozbor), ko misal e lafencar so isi amen ko kher.
+
+O sikle šaj te keren jek hramoibaskoro prezentiribe taro jek fakta teksti so o sikavno/sikavni prezentirinela, ka hramonel o siklo plo gndipa soj tipično romano dživdipaskoro stili hem te jekhakerele e gadžikane dživdipaskere stileja.
+
+## Gramatika
+
+E gramatikakoro treniribe akava puti tano te istemalkerenpes o javerčhane tempus forme.
+
+Angleder siklile o sikle sar vakeripe hem hramoipe o akanutno vakti hem o nakhlo vakti ki romani čhib. Akana šaj te ovel aktuelno te sikaven pes o sikle sar hramoipe hem vakeripe ko avutno vakti.
+
+---
+
+# Klaseskoro aktiviteti 2:3 – Aktivitetija ko kher- jekharibe maškar o uslovija e romengere ko javerčhane situacije hem phuvja.
+
+**Berša:** 13-16 berš  
+**Čhibjakoro nivo:** B 2
+
+## Cilji akale aktiviteske
+
+- O sikle džanena te keren jekharibe maškar pli dživdipaskiri situacija hem o uslovija e terne romengere ko avera phuvja.
+- O sikle džanena te den argumentija taro soj romano dživdipaskoro stili, hem džanena sar valjani te sikavenpe (vospitinenpes) o romane čhave.
+
+29
+
+--- Page 30 ---
+## Metodi thaj butikeribe
+
+O sikle ka keren buti odoleja so ka roden fakta, taro dživdipaskere situacije e ternengere soj olenge vrsnikija ko avera phuvja. Akaja buti keribe ka kerelpe ko parija. Ka sikaven so džanena vakerindor palo odova ka hramonen jek hramoibaskoro raporti
+
+Jek aver buti keribe so akala sikle šaj te keren tano te jekhakeren e romengere dživdipaskere stilija e gadžengere dživdipaskere stilencar.
+
+O sikle ka dikhen soj tipično e romenge hem te haljovel ko šaj te genjelpes sar rom. O sikle ka diskutirinen soske o roma mora te dživdinen telo nesave kanunija.
+
+Ko klasi ka diskutirinelpes hem soj javerčhane maškar e čhajengoro hem e čhavengoro vospitipe hem so rodlape maškar o roma.
+
+## Gramatika
+
+Akate džana o sikle ponodori hem dikhena sar bangjarenapes o kerutne ko na sajek tempus forme.
+
+30
+
+--- Page 31 ---
+# TEMA 3 – MLO PAŠEDER TIKNO THAN THAJ MLE SOCIALIKANE KONTAKTIJA
+
+Ki akaja tema vakerela pes bašo foro, than hem gav kote so dživdinena o sikle thaj bašo sarinipaskere institucije thaj butikeribaskere thana so isi odothe sar soj banka, posta, policija, biblioteka hem panda but javera so sikle valjani te džanen ko odova sarinipaskoro than kote ola so dživdinena.
+
+E školaja ka kera buti ki tema šov. Odola specifična romane siklojbaskere buti keriba dolena ki odoja romani grupa kotar so o sikle avena thaj dživdinena late, bizo javerčhane dali ola dživdinena ko jek than ili palem selinena pes.
+
+O fokus pašljola pobuter ko dživdipaskere forme thaj o ponasibe ki jek romani grupa nego ko institucije thaj fizička bukja so astarena aktivitetija so o romano sistemi bašo ponašibe čačipe, gostluko thaj o dikibe ko dživdipaskere pučiba thaj pakhajbe (romanipe).
+
+O jekhajekipe hem javeripe maškar o razna romane grupe lena pes po obzir. Akava važinela majbut ki akanutni lokalno situacija thaj aktivnost so dolela e familijen thaj e grupen hem odole manusen ki odoja lokalno romani grupa.
+
+O jekha jekhipe maškar i lokalno situacija thaj i romani grupakiri situacija ko akanutno sarinibe ki Švedia hem e romengiri situacija ko javera phuvja dela šajdipe ki jek ponodori perspektiva. Akaja ponodori perspektiva dela isto agjehar jek vakti te arakhel pes sar o roma džvdinge angleder thaj sar i situacija ko sarinipe thaj o šajdipe e romengoro te izdržinen pes menisalilo.
+
+Telo akaja tema valjani te da majbut baripe baši amari nacijakiri gili “Gelem Gelem” thaj amare romano bajrakoske. Soske tergjola amaro bajrako thaj sar glasini amari nacijakiri gil?
+
+## Dik isto agjare i tema 4 - Romane zanatija thaj bukja hem i tema 11 - Mukhlevakteskere aktivnostija thaj kultura.
+
+### Cilj bašo sa o sikle
+
+- O sikle valjani te džanen lafija soj tane phanle e sarinipaja thaj o aktivnostija so kerena pes ko odola sarinipaskere thana.
+- O sikle vajani te džanen e romengeri rolja hem aktivitetija ki odoja grupa kotar ola so avena hem so ola džanena bašo sar valjani te ponašinen pes ki jek romani situacija.
+- O sikle valjani te jekha keren maškar pli situacija hem e romengoro dživdipaskoro čhani ko anglutno vakti thaj akana hem ko javera phuvja.
+- O sikle valjani te pendžaren disave pendžarde manusen ki pli grupa ko tar so ola avena hem te ovel len pendžaribe baši romani internacionikani gili “Gelem Gelem” thaj te džanen sar o romano bajrako izgledini.
+
+### Pendžarkeribe
+
+Tu sar sikavno valjani te džane kobor tu ka le tari akaja tema te vakere ko tlo sikavibe. Isto vakteske tani akaja jek tema koja saj te iranel pes pobut puti thaj te bajrarela telo celo školakoro vakti.
+
+Telo avgo anglo vakeribe saj tu ko jek tikno prezentiribe te vakere baši akala institucije sar soj banka, pošta, policija, ambulanta thaj panda javera soj tane ko amaro popaše sarinipe. Posle šaj tu te puče e siklen kola institucije ola mangena popaše te sikljon thaj o sikle šaj te birinen peske razna institucije hem te sikljon olen. Ponodori delen informacije so pasuinena olengere beršenge (teksti thaj slike) baši akala institucije.
+
+31
+
+--- Page 32 ---
+I avgo buti keribe e siklenge neka ovel te crtinen jek slika hem te hramonen disave klučna lafija ili te hramonen jek tikno teksti baši “pli” institucija. Posle khede tu e siklengere slike thaj tekstija hem puč olen so ola gndinena da sa akala slike vakerena amenge thaj so ola sikavena amenge.
+
+Ule li o slike sar jek tikno foro?
+
+Ko disave grupe hari siklencar šukar ka ovel te ovel tut gotova slike, tekstija kolende o sikle samo ka hramonen peske!
+
+Odova paluno lafikeribe ka astarel lejbe pučiba so vakerena kola manuša kerena ko asavke institucije, thaj ako o sikle pendžarena nesave romen so kerena buti akale instituciejnde thaj soja o sikle bi mangena sine te keren buti ponodori ko plo dživdipe. Šaj nekas so o sikle pendžarena te viknen olen ko plo klasi thaj ov/oj te vakerel tumenge baši ple bukjakoro than thaj i buti so kerela pes odothe?
+
+Tu sar sikavno/sikavni isi tut but bari buti te de vojla e siklen za ola te pakjan da keda ka bajron šaj ola te keren buti odoleja so ola mislinena da tano interesantno!
+
+Ko hemime grupe tano važno te avgonela asavke informaciaja thaj asavke buti keribaskere bukjaja so pasujnena siklenge ko turlije berša thaj čhibjakoro nivo. Odola matrialija, slike, tekstija, lafija, kontroliribaskere riga, testija so o sikle kerena khede len ko ple bukjakere mape. (Po but bašo akava ko anglo vakeribaskoro kotor.)
+
+## Klaseskoro aktiviteti 1 – Ko paše sarinipa (društvo)
+
+**Berša:** 6-12 berš  
+**Čhibjakoro nivo:** A1, A2
+
+### Cilj akale aktiviteteske
+
+- O sikle valjani te džanen e bukjengere anava thaj javera lafija soj tane phanle e lokalno društvoskere instituciejncar thaj šaj te istemalkeren sastikeribe thaj te čhiven jekhčanutno pučiba e manušenge so kerena odoleja buti.
+- O sikle vajlani te džanen lafija bašo e romengere rojle thaj aktivitetija ki olengiri grupa thaj te džanen sar te ikeren pes ki jek romani situacija.
+
+### Metodi thaj butikeribe
+
+Avgoker odoleja so ka mukhe e siklen te kheden lafija thaj haljovibe soj tane phanle odolaja ili odole sarinipaskere institucija so o sikle biringe te sikljon popaše sar ko misal pošta: Poštakoro lil, paketi, česticka, markica, poštalegradžia, poštakoro sanduko, hramojbe poštakoro lil, bičalibe poštakoro ja pale dobibe poštakoro lil.
+
+Pa ovel šukar da tu sar sikavno isi tut slike so kerena polokheder e siklenge te haljoven.
+
+Hramon o lafija ki tabla thaj puč kola lafija o sikle džanena thaj haljovena.
+
+Keri lafi taro odola lafija so o sikle na pendžarena thaj čhiv olen ko jek redo (niče). Ki bibliotena lela manuš lila. Ki jek ambulanta kerena buti medicinska phenja thaj doktorija.
+
+Isi li tut šajdipe te džan jek holta ko foro? Ako šaj tegani šaj tu te sikave e siklenge kote akala institucije tane. Tu šaj isto agjehar te sikave sar manuš valjani te ponašini pes ko asavke institucije thaj sar manuš ko jek šukar ikerutno pušiba ki pošta ki biblioteka hem panda javera.
+
+32
+
+--- Page 33 ---
+Tu šaj isto te phande od ova so astarela odola sarinipaskere institucije e romanipaja. Sar ko misal: - Ki jek pošta isi lila, paketija so bičhavena pes ko celo sumnal.
+
+E siklen šaj isi olen jeri ko javera phuvja kaske so ola bičhavena ja palem kastar so dobinena lila ja pale paketija? Ki pošta isi manuša so redinena o lila hem paketija. Odola so aven aki tute khere hem anena amenge lila ja paketija čhingarena pes lilalegardžie. Ked kerela pes lafi taro pobare paketija otegani o lillegardžia anela amenge jek hramomo haberi kote soj hramomo kote hem sar te le tlo paketi.
+
+E sikljojbaskoro vakti ke dajakiri čhib tano ograničimo. Odoleske valjani amen o sikavne te aluina e siklengoro asavke sarinipaskere institucijencar soj tane pobut aktuelna (a ponodori šaj te irin amen ko panda pobut ko okola so na kergjem olencar buti).
+
+E siklen ka ovel olen plo vakti kote ola ka šaj te sikavenso siklile baši "pli" institucija odoleja so ka sikaven ple slike thaj lafija ko jek plakata.
+
+Sar sikavno tu ka pratine olengoro sikavibe odoleja so ka hramone ki tabla sa lafija soj neve lafija disave siklenge. Disave siklenge tano but pošukar te ovel lafija ko solduj čhibja romane thaj švedikane. O sikle so džanena te hramone ka hramonen ko ple lafengere notarina.
+
+O sikle šaj isto te khelen jek rolja sar manuš valjani te ponašini pes ko jek sarikano than. Tu šaj te de e siklen arka odoleja so ka de olen tekstija so dela olen arka te avgokeren.
+
+Ko misal šaj odova te ovel jek dijalog:
+
+- Afi ker mange šaj li te kinav jek markica?
+- Kerela pes lafi bašo lil ki Švedia ili ka bičave ole avri tari Švedia?
+- Odova lil ka bičhavi pes ki Švedia! Kobor koštini odova lil ?
+
+**Materijali**
+
+Memorja thaj javera slike so sikavena o bukja thaj e sarinipaskere institucije. Ker ednostavna dijalogija kola ka šaj o sikle te keren ponodori korkori.
+
+**Klaseskoro aktiviteti: 2 – O sarinipe thaj e romengiri dživdipaskiri situacija**
+
+**Berša : 13-16 berš**
+
+**Čhibjakoronivo: B1, B2**
+
+**Cilj akale aktiviteteske**
+
+- O sikle barjarge plo lafengorokhedipe so astarela paše sarinipaskere thana thaj odoja lokalno romani grupa.
+- O sikle haljovena prezentacije ko radio/tv soj tane ki phanle ko jek pendžardo odnos so astarela o lokalno sarinpe, i buti, pendžarde manuša ili aktivitetija andre ki odoja romani grupa.
+- O sikle haljona o šerutnopoeni ko jek tikno teksti so astarela nevipa ja pale lokalno historija hem kerela pes lafi taro e romengoro dživdipe.
+- O sikle šaj te keren lafi bašo o bukja thaj aktivitetija ki pli socialikani grupa hem keda tano odova aktuelno te jekhakeren e gadžengere dživdipaskere čhaneja.
+- O sikle šaj vakeribaja thaj hramobaja te sikaven bašo disavo važno aspekti sar tano jek romano sarinipaskoro dživdipe.
+
+33
+
+--- Page 34 ---
+# Metodi thaj buti keribe
+
+Ker lafi e siklencar bašo o razna bukjakere thana. Čhiv asavke pučiba: Save butikeriba kerena o manuša ki jek banka? Savo sikljojbe valjani jeke manušeske za te šaj te kerel buti ki jek banka? Muk e siklen te keren jekhakerbe maškar o bukjakeriba ko javera sarinipaskere institucije thaj ko bukjakere thana. Ker lafi taro odova save džandipa valjani te ovel jeke manuše da bi te kerel buti ko jek bikinutnokher, ki jek biblioteka ili ko jek hospitali?
+
+Save uslovija sar manuš valjani te ponašini pes isi odolen so kerena buti ko odola različna thana? Muk e siklen te argumentirinen soske ola gndinena da disave bukjakere thana tane pobut interesna. Muk olen te vakeren tuke ko jek šukar čhani.
+
+Svako siklo ka kerel jek tikno hramomo mothovibe taro jeke bukjakoro than so oj/ov gndinena da tano interesno. O siklo ka valjani te motivirinel plo aluibe thaj te šaj anglo pli grupa te argumentirini bašo odova aluibe.
+
+Ker lafi sar amen o roma sijam keda džaja džikaste ko gostluko thaj sikav save razlike isi maškar o roma thaj odola so naje roma (gadže) sar ko misal sar amen smatrinaja e jerijen, e dosten thaj e komšijen ked amen javinaja amen olenge ili ked džaja ki olende thaj sar manuš valjani te respektirinel e pophuren. But ka ovel šukar o sikle te čhiven pes ko than javere manušengere thanende.
+
+O sikle šaj te sikaven sar hem ko save situacije o roma arakhena pes ko olengiri grupa thaj o barabikane aktivitetija soj tane aktuelna thaj save kontaktija isi olen e romencar taro javera thana ki Švedia thaj taro javera phuvja.
+
+## Khereskiributi
+
+O sikle šaj te pučen ple dat-thaj dajakere dajen, daden thaj pophure romen bašo o šajdipe te izdržinen ple familia menisalilo.
+
+## Materijali
+
+Taro sikavno hazrikerde dialogija kote so kerela pes lafi sar manuš valjani te ponašini pes ko sarinipaskere institucije hem maškar o roma.
+
+34
+
+--- Page 35 ---
+# TEMA 4 – ROMANE ZANATIJA HEM BUKJA
+
+Ki akaja tema kerelapes lafi kotar o romane tradicionalna zanatija hem bukja, Akaja tani centralno tema soske džala ko jek e familijakere dživdipaja thaj parvaribaja. Okola bukja ja zanatija so ine angleder thaj panda avdive, tane but važna e romenge: muzičarija, grastadžije, treniribe e džanvaren (riči), keribe buti e bakarea, keribe buti metaleja, rupi thaj sumnakaj keribe, sastrin keribe, sepetdžije, bikinutne lulugja, dikhipe ko fali, vakeribe paramisa hem panda but.
+
+But važno te da ko džanibe kaj roma isi ko but phuvja, thaj kaj o tradicionalna bukja thaj zanatija nane sa jek maškar o roma, odova zavisinela taro ki savi phuv dživdinelape.
+
+## Dikh panda: Tema 3 - Mlo pašedersarinibe (društvo) thaj mle socialikane kontaktija, Tema 11 - Mukhlevaktieskointeres thaj i kultura.
+
+### Cilji sarinenge
+
+- O sikle džanena o romane zanatija thaj bukja so ine obična ki olengiri familija, thaj ko odova than kote so dživdinena, thaj olengoro kučipe.
+- O sikle haljona soj sajek thaj soj nane sajek maškar okola zanatija thaj bukja so inelen baro kučipe angleder thaj panda avdive.
+- O sikle haljovena o kučibe e zanateskoro te bi šaj te parvaren ple familija.
+
+### Penžarkeribe
+
+Tu šaj te avgokere i jekto lekcija odoleja so ka prezentirine nesave tradicionalna romane zanatija, hem ker lafi e siklencar save bukja kerena ine o roma angleder, a save avdive.
+
+Važno te sikavipe e siklenge kaj panda avdive kerena nesave roma buti odoleja so amen vakeraja tradicionalno purani buti sar soj: kinibe-bikinibe grasta, sepetdžije, kovačija, men panda but bukja. Tu valjani te vakere kobor tano kuč o zanati te ovel tut, hem o sikle valjani te džanen sar te keren te bi šaj te parvaren ple familija, te arakhen ple familija, hem plo kher, odova tano but vazno delo ko romano dživdipe.
+
+Tu valjani te dikhe te pasuinel o sikavibe premal e siklengoro ponodoridžaibe hem šajdipe te sikljon neve bukja, te ovel o sikljoibe pherdo inspiracijaja.
+
+Ko hemime grupe važno te avgokere informacijaja hem buti keribe te bi šaj te pasuinel sa e siklenge ko najek berša hem najek čhibjakere nivoja.
+
+O matrijali sar soj - slike, tekstija, lafengere riga, hramoibaskere riga, sa so o sikle produciringje korkore khedena ki pli Butikeribnjaskiri mapa (dikh ko Anglovakeribe) O sikle šaj te kheden o neve lafija ki Butikeribnjaskiri mapa ja palen ko nesavo hramoibaskoro ljil.
+
+## Klaseskoro aktiviteti 1 – Agjahar šaj te keren buti
+
+**Berša:** 6-9 berš  
+**Čhibjakoro nivo:** A1
+
+### Cilji akale aktiviteske
+
+- O sikle haljona o lafija soj zanatija thaj bukja.
+- O sikle džanena te pučen thaj te den dževapi ko lokheder pučiba kana pučenape kotar o zanatija thaj o bukja.
+
+35
+
+--- Page 36 ---
+# Metodi thaj butikeribe
+
+I jekto lekcija šaj te avgokere pučibaja e siklen: - So tu mangeja te kere buti kana ka ove baro/bari? Soja kerena buti to dad hem ti daj? Džaneja li panda bukja so šaj te kerel pes? Akala pučiba but var pravena jek šukar lafi keribe, so o sikle mangena. Ponodori šaj o sikle te birinen jek ja buteder bukja ja zanatija so ola gndinena kaj tane interesantna. O sikle so džanena te hramonen, hramonena tikne tekstija. O sikle so nadžanena panda te hramonen šaj te cidkeren ja te vakeren taro "pli butikeribe" dikhindor ko plo crteži.
+
+Palo ko akava aktiviteti džala ponodori o sikavno/sikavni majanglal lokhe, pa ponodori pobut avansirime pučiba, so kerena o sikle te bajraren pobut po džanibe taro akala bukja hem zanatija, ko jek bajrarelapes olengoro haljoibe. Tu šaj te avgokere lokhe pučibnjaja te šaj o sikle te den lokho dževapi: Tu cidkergjan jek tover? - Ja! Taro savo matrijali si kerdo o tover? - Sastrn! Soj tano odova manuš so džanela te kerel tover? - Kovači! O tover kerdo taro sastrn, save panda metalija džanena? - Sumnakaj, rupi bakri... O tover tano jek halati, oleja šaj te čhine kaš. Save panda halatija džaneja so šaj olencar te čhinelpes jek kaš? Motoreskiri bičkija!
+
+Akate šaj te bajrari o sikavno e siklengoro vakeribaskoro šajdipe, odoleja so ka vakeren palo oleste o dževapi, ki pherdi lafjori.- Ja, tu cidkerdžan jek šukar tover! – Ja o tover kerdo kotar o sastrn, oova tano jek zoralo metali! - Ja o kovačija kerena o tovera! Ko avdisutno vakti krenapes o tovera ki fabrika da...
+
+## Klaseskoro aktiviteti 2 – Me suneskiri buti
+
+**Berša:** 6-9 berš  
+**Čhibjakoro nivo:** A1, A 2
+
+### Cilj akale aktiviteske
+
+- sikle džanena te hramonkren jek butikeribe so interesinela olen, hem te motivirinen soske baš odoja buti keribe biringje.
+
+### Metodi thaj butikeribe
+
+Jek šukar pherdo inspiracijaja aktiviteti šaj te ovel o sikle te cidkeren pes korkori, sar ola gndinena ka dikhjon kana ka ovel olen 30 berš, hem sar kerena buti okoleja so ola mangena, "suneskiri buti"! Palo odova ka hramonkeren nesave lafjorencar taro pli suneskiri buti hem ka motivirinen soske biringje baš odoja buti. Akava ka ovel jek lokho treniribe ki argumentacijakiri tehnika.
+
+## Klaseskoroaktiviteti 3 – Jek tradicionalno romano zanati
+
+**Berša:** 9-12 berš  
+**Čhibjakoro nivo:** A 2, B2
+
+### Cilji akale aktiviteske
+
+- O siklo haljola o teksti so kerelapes lafi kotar o romane zanatija thaj bukja, ako o teksti isile nahtarutne lafija so o siklo pendžarkerela olen.
+- O siklo džanela te pučel hem te del dževapi ko lokheder pučiba taro tipično romane tradicionalna bukja thaj zanatija.
+- O siklo šaj korkori te prezentirinel, anglal ki jek grupa jek romano zanati, kolestar so arakhlja informacija taro manuša, ja palem taro lila ja filmija.
+- O siklo šaj te kerel buti ki grupa ja palem jekhajek averencar hem te kerel jek prezentacija taro romane bukja ja zanatija.
+
+36
+
+--- Page 37 ---
+# Metodi thaj buti keribe
+
+I lekcija avgokerela odoleja so o sikavno/sikavni pučela e siklen: Soleja kerena buti ti daj hem to dad? Soleja kerela in eka kerela buti to papo hem ti mami? Taro akala pučibe sikljona o sikle te gndinen popalal, sar ine ko naklo vakti. Palo odova šaj o sikle te diskutirinen hem te dikhen soj sajek a so nane sajek maškar o bukja hem o zanatija angledr hem akana. O sikavno/sikavni informirinela e siklen taro panda bukja hem zanatija so o sikle nadžanena olen. Palo odova o sikle šaj te keren buti ko parija hem te kheden pobut informacija taro “ple” zanatija hem bukja.
+
+Te bi šaj te khedelpes pobaro džanibe, šaj o sikle te pučen e phurederen ki familija, hem te hramonkeren soj sajek hem so nane sajek sar ine angleder hem sar i avdive.
+
+O sikle šaj te roden informacija ko Internet hem ko romane novine. O rezultati taro aka rodibe prezentirinela pes e amalenge ki forma sar afišija so šaj te ulavenpes ke klaseskiri kamra. Prekal akava ka ovel hem i familija aktivno ke ple čhavengoro školakoro buti keribe.
+
+---
+
+## Klaseskoro aktiviteti 4 – Muzikakiri rola maškar o roma
+
+**Berša:** 13-16 berš  
+**Čhibjakoro nivo:** B1, B2
+
+### Cilji akale aktiviteske
+
+- O siklo džanela e muzikakiri rola maškar o roma.
+- O siklo šaj te lel informacija ko Internet hem te rodel averthar informacija kotar i romani muzika ki pli grupa hem ko avera grupe roma.
+- O sikle džanena te keren jek inspirimi prezentacija taro jek romano muzičari ja muzikakiri grupa.
+
+### Metodi thaj butikeribe
+
+I muzika tani jek interesno tema maškar o roma. Te ovel o sikavibe pherdo inspiracijaja, šaj o sikl te keren lavi taro jek giljavutno/giljavutni, muzičari, muzikakiri grupa so ola mangena hem ako isile šajdipe te šunen hem romani muzika taro avera grupe roma. O sikle palo odova ka roden informacija ko Internet ja aver thanende sar ko misal tari giljavutni Esma Redžepova ja palem neko aver manuš so o sikle mangena leskiri muzika. O sikle šaj te keren gndibaskiri karta, te šunen nesavi gili hem te analizirinen o teksti, hem ko agor te keren prezentacija taro odova rezultati, pe amalenge ko klasi. Akava šaj te vakeribnjaja ja hramoibaja.
+
+### Matrijali sarinenge
+
+Romani muzika hem aver muzika so o sikle mangena.
+
+---
+
+## Klaseskoro aktiviteti 5 – Jek intervju jekhe phure romeja taro dživdipe ko nakhlo vakti
+
+**Berša:** 13-16 berš  
+**Čhibjakoro nivo:** B1, B2
+
+37
+
+--- Page 38 ---
+# Metodi thaj buti keribe
+
+O sikle ka keren intervju jekhe phureder manušeja, so ka šaj te vakerel sar ine e romenge ko nakhlo vakti. Važno o sikle te planirinen ki klaseskiri kamra, sar kerelapes jek intervju. Hem da važno te vakera panda jek buti sar ki romani kultura sikavipe respekti e phurenge.
+
+Jek šukar kerdo hem agorkerdo intervju dela e siklen šajdipe ko pohor haljovibe sar o roma kergje buti hem dživdingje angleder. O manušikano kontakti dela pošukar than te pučelpe pobut pučiba hem o sikle te dobinen dževapi direktno, pošukar agjahar nego te hramonen okova so ola drabargje ja šungje angleder.
+
+*O džanibe te kere jek šukar interju, ka ovel olenge korisno but berša!*
+
+38
+
+
+Note: The page number "38" is included at the bottom as it appears in the original document.
+
+--- Page 39 ---
+# TEMA 5 – BAREDIVE THAJ FESTE
+
+O baredive tane specijalna prilike hem sar sa o manuša so isi olen ple baredive thaj odova isi hem ki amende da ko roma isto agjehare. Ama odoleske so amen o roma avaja taro but javera phuvja laja amen olengere baredive thaj keraja olen. Jek kotor taro akala baredive tane odola religiozna hem odoleske o roma soj tane muslimanija kerena o baredive soj tane phanle e islamea, a dži kote o roma soj tane kristijanija kerena odola baredive kola tane phanle e kristianlukoja. But var o roma lena peske odola baredive so kerena pes ki odoja phuv kote ola so dživdinena sar ko misal o “ekvašnilaj” kova kerela pes ki Švedija. A sa o roma avdive kerena o 8: to april kova tano o internacionalno romano dive.
+
+Ki akaja tema taro prirodno te rodikere odoja vakerdi tradicija ked odova kerela pes bašo o gilja, diktija thaj paramisa soj tane ko jekhipe odole javere isibaja ko dživdipe.
+
+Akaja tema astarela isto agjehar:
+
+- Baredive so nišankerena o dživdipaskoro ciklusi: Romane tardicije soj tane ko jek phanlipe sar ko misal bijandipe, krstibe, sunetluko, veridba thaj bijav, meribe hem setibaskoro vakti.
+- Religijakere baredive thaj romane tradicije soj tane ko jekhibe akalencar.
+- Ko vakti keda o roma khedena pes ki kupa: O Internacionalno romano dive, romane kulturakere festivalija, e Samudaribaskoro godidejbe, o hadzi ki Les Saintes-Maries de la Mer.
+
+## Dikh i Tema 1 – Me hem mli familija
+
+### Cilj bašo sa o sikle
+
+- O sikle pendžarena keda, sar hem soske o roma ki olengiri grupa ikerena različno o baredive hem feste.
+- O sikle pendžarena odola barabar romane baredive thaj soske ola kerena pes.
+- O sikle šaj te jekhakeren sar o roma kergje akala baredive angleder thaj sar kerena pes akana.
+- E siklen isi olen šukar džandipe bašo o samudaribe e romengoro.
+
+### Penžarkeribe
+
+Keda tu anglovakereja tari akaja tema ka ovel but šukar te vakere e siklenge te pučen ple familijen save baredive hem feste kerena ola ki pli familija. Akate tano but važno da o sikavno te ove dikhšunardo, da isi javera tradicije ko olengoro kher ko odova so isi isto agjehar javera religije hem taro kola phuvja avena o sikle thaj olengere familije. Isto tano odova šajdipe da sa o sikle ki odoja grupa na ikerena sa odola baredive so avena ko romano niče (redo).
+
+Hem isto agjehare džanena o čhani te ikerel o dive sar ko misal savo hajbe manuš hala ko odola baredive, koj so avela te slavini ki kupa, so manuš lela ja dela padako (poklon) tjp.
+
+Jek čhani te kerel pe jek niče ko odola grupe kote so o aktuelna baredive thaj feste tano te čhive olen ko jek kalendari, thaj ako palem tano hari komplicirimo asavke baredivencar so na perena ko sajek datum kmi.odova kristianikano veligdani thaj o muslimansko ikeribe trujal o ramazani.
+
+Odova šaj da te ovel šukar te kerel pes jek lista taro odola slavibe thaj tradicije soj arakhljola barabar e dživdipaskere cikluseja bijandipe, krstibe, konfirmacia, avgolafikeribe sunetluko, veridba thaj bijav tha.
+
+39
+
+--- Page 40 ---
+Odoja tani tli buti sar sikavno te graničine akaja tema thaj te de angloniče odova soj tano but važno ki tle siklengiri grupa. Akaja akate tani da jek tema koja so isi la soskipe te irane tut but var telo školakoroberš.
+
+## Klaseskoro aktiviteti 1 – Amare romane baredive hem feste
+
+**Berša:** 6-12 berš  
+**Čhibjakoro nivo:** A1, A2
+
+### Cilj akale aktiviteteske
+
+- O sikle džanena odola važna baredive so ikerela pes ki olengiri grupa.
+- O sikle haljona lafija hem haljoviba soj tane barabar akale baredivencar.
+- O sikle džanena keda hem soske ikerela pes odova internacionalno romano dive.
+- O sikle buvjarge plo džanibe bašo o tardicie ko phandibe akale ikeribaja taro javerčhane oviba ki familija.
+
+### Metodi thaj butikeribe
+
+O sikavno pendžarkerela i tema odoleja so ka čhivel pučiba e siklenge: – Kola bare divesa keraja amen o roma? Sar keraja olen amen? Hasa li disavo specialno hajbe? Soske ikeraja akala baredivesa? – Akala pučiba dena bari dživdi diskusija, specialno bašo o sikle so valjani te jek keren pes trujal kola baredive tane odola so ola gndinena da tane najvažna.
+
+O sikle ka len khereskiributi kote so ka pučen ple dajen/daden kola baredive so ola gndinena da tane but bare. Ola isi te mangen te roden ple dajendar/dadendar te vakeren olenge sar ola ikergje akala baredive keda ola sine tikne. O sikle palo odova ka den raporti angli pli grupa baši sar ola kergje lafi khere taro o baredive.
+
+I javer uštavin tani o sikle te horkeren pe ko jek barodive hem te roden soske manuš ikerela akava dive hem sar ikerela ole. O dejbe raporti ovela odoleja so ka sikaven slike thaj jekčhanutne tekstija.
+
+Odova tano but baro da manuš ko anglovakutuno sikavibe te vakerel pes taro odova amaro internacionalno romano dive. Akate šaj manuš te bajrarel pli tradicija ki sikavibaskiri grupa, ki škola thaj barabar odole lokalno romane grupaja. Ki akaja tena šaj manuš hem te le upre o tradicije ko phandipe javere ovibaja ki familija. Akate važinela odova te aluinela asavko diso soj tano majbut aktuelno ki grupa.
+
+Šajda tano džiko so pherela berš, džiko so dobingja jeke phrale, phenja džikas so isi disavo jeri so ka prandinel pe tha? Šukar metodi ka ovel te kerel pe lafi bašo odova ki grupa thaj te jekhakerel pes plo korkori phirnipe hem javerengoro hem ko jek vakti te kheden neve lafija. Akate tano hem odova aktuelno te mukhe e siklen te ilustririnen solduj asavke bukja so ovena thaj o hošija soj tane ko phanlipe akale ikeribaja o feste.
+
+Sar hem keda manuš kerela lafi taro meribe thaj kalipe so astarela jek situacija ki grupa. Akate šaj manuš soj sikavni/sikavno te keren lafi e dajencar/dadencar sar ola te kerel lafi ple siklencar soske akaja tema meribaskiri tani hošali maškar o sikle.
+
+### Matrijali kova šaj te istemalkeren sarine:
+
+Slike (mujale) thaj snimke taro javerčhane slaviba ko familije.
+
+40
+
+--- Page 41 ---
+# Klaseskoro aktiviteti 2 – Agjehar ikeraja amen o baredive akana hem agjehar ikergje o manuša angleder
+
+**Berša**: 9-12 berš  
+**Čhibjakoro nivo**: A2, B1
+
+## Cilj akale aktiviteteske
+
+- O sikle pendžarena hem haljona o cilji akale baredivengoro hem festengoro so ikerena pes ki odoja grupa kotar soj o sikle.
+- O sikle džanena o tradicije hem o ikeribaskoro čhani ko phandibe e romane baredivencar.
+
+## Metodi thaj butikeribe
+
+Tu ka mukhe e siklen te drabaren tekstija bašo sar manuš ikerela akala različna baredive.
+
+O drabaribe ka keren ki peste ja pale o sikle ka drabaren ko avazi. Palo odova keren lafi ki grupa bašo odova so o sikle drabargje hem odova so o sikle pendžarena taro odova angleder so sine.
+
+O drabaribe ko avazi dela jek šukar treniribe ama šaj te haljovel pes popharo ko odola sikle so slabo drabarena. Tu sar sikavni/sikavno šaj isto agjehare te drabare ko avasi.
+
+**Aktivno šunibe tano jek šukar čhibjakoro treniribe!**
+
+I javer uštavin tani da tumen te džan ko jek pobut sistematsko čhani kola baredive soj tane but bare e romenge, ked ola perena hem soske o roma kerena olen.
+
+Ko jekhalo čhani šaj tumen te džan maškar o feste thaj o tradicia soj phanle e ovibaja ki familia. Akate šaj i buti te ovel te mukhe sakole sikle te vakeri bašo disavi asavki tradicia sar ko misal agjehar tane amare tradicie keda keraja krstibe, suneti, bijando diveskoro keribe thaj agjehar odoreder.
+
+Ko okava akate nivo tano aktuelno te keren pes jekhakeribe maškar sar manuš ikerela ple bare dive ki Švedia hem sar manuš ikerela ko javera phuvja.
+
+Jek kotor taro sikle isi olen plo korkori phirnipe taro akava, javera lena peske buti te rodikeren odoleja so ka pučen javere siklen, familijakere džene ja pale rodela informacija ko lila hem ko Internet.
+
+Jek agorphandimi buti ka ovel da tumen te jekhkeren tumen bašo jek barodive hem sa o sikle de len butikeriba te drabaren jek tikno teksti. - Akate isi tumen šukaripa taro odova so ka keren jek detut godi karta thaj ka drabare jek klidikanolafi ki tabla.
+
+O sikavno dela arka e siklen te aven ko odova so ka šaj te keren disave pučiba: So gndineja tu da tano najšukar akale baredivea? Kola avena stalno hem ki kupa kerena o barodive?
+
+Jek javer čhani te den raporti tano odova so o sikle ka keren buti duj po duj hem te keren plakate kote so ka čhiven teksti thaj slike so prezentirinena odova barodive so ola aluinge.
+
+## Matriali kova šaj te istemalkeren sarine
+
+Slike (mujale) thaj snimke taro javera keriba ko familie.
+
+41
+
+--- Page 42 ---
+# Klaseskoro aktiviteti 3 – Romane baredive hem godianibe dive
+
+**Berša:** 13-16 berš  
+**Čhibjakoro nivo:** B1, B2
+
+## Cilj akale aktiviteteske
+
+- O sikle pendžarena keda, sar hem soske o roma ki olengiri grupa ikerena ple baredive.
+- O sikle šaj te jekhakeren sar o ikeribe sine angleder hem sar tane o tradicie akana.
+- E siklen isi olen džanibe bašo o samudaribe e romengoro.
+
+## Metodi thaj butikeribe
+
+Akaja tema pašljola but paše sa e romenge soske o ikeribe e baredivengoro tano but baro ko romano dživdipe. Amen keraja lafi but taro odola različna baredive hem o romane čhave lena than panda taro tikne berša ko ikeribe. Hem but pendžardo e siklenge tano odova sa dži o šukrikerutno dikhšunardipe o baredive ko sikavibe. Tu sar sikavno isi tut jek bari buti te ane e siklen ko odova nivo da te šaj te haljoven, da odova tano ola so ka legaren ponodori amari tradicia hem kultura ko okola javera generacije so avena.
+
+Ko sa o sikavutne grupe valjani manuš te dikhšunarel o Internacionalno romano dive so kerela pes ko 8:to april maškar sa o roma ko sasto sumnal. Tumen šaj ko misal te speminen jek programa kote so o sikle anglo ple daja/dada hem o manuša tari škola ka ikljon. Jek asavko ikljojbe dela šajdibe te sikavi pe anglal amari kultura odoleja so ka sikava amare šeja, gilja, kheliba diktija thaj agjehar odoreder. Hem odova zorjarela o šelo maškar i škola hem o sikle hem o daja/dada!
+
+Jek javer šajdipe te sikava amari romani kultura tani da o sikle te khelen drame so ola arakhena barabar ple sikavnencar hem ko te so ka vakerel pes bašo ko misal sar i tradicija mangljaribaske, veridba, bijav. Akate e siklengiri fantazija thavdela but!
+
+Amen valjani isto te kera buti e samudaribaja e romengoro so sine ko dujto sumnaleskoro mariba. Fakta bašo akava isi ko Internet thaj ko lil Zofia Z-4515. O sikle šaj te len buti keriba odoleja so ka drabaren jek džanikano hramojbe ki akaja tema.
+
+Sar manuš valjani te kerel lafi bašo akantno paldibe e romengoro umlala ke siklengoro phirnipe. But sikle so avena taro Balkan isi olen olengere dživdaripe taro akava a nane olen lafija kola ka vakeren bašo ple hem familiakere phirnipa. Akale siklenge isi ko ljil „Amaro Ljil“ šukar tekstija kote so kerela pes lafi bašo e Balkaneskoro maribe hem Samudaribe. O sikavno šaj te hramonel pučiba ko akala tekstija kote so o sikle ka den po dževapi. Akava čhani te avel pes dži ko pophare pučiba tano but cenimo taro sikle. Ola šaj te aluinen korkori kobor but mangena te vakeren taro odova so ola dživdingje sine but pharo. A javere siklenge važinela da ola mora te roden informacije ko lila hem ko Internet ja pale ako ola šaj te pučen džikas so isi ole phiriba taro odova.
+
+But sikle dikhena odova so ovela e romencar ki Italija hem javera phuvja ki televizija, hem ko patra hem isi olen but pučiba. Sar manuš ka lel odola akanutne paldiba ko plo sikavibe zavisini tari situacija ki grupa. Te sijan tu sar sikavno ko duj gogja, odova tano sakova var šukar te godi detut pučljar tut e dajencar/dadencar!
+
+42
+
+--- Page 43 ---
+# Matrijali kova šaj te istemalkeren sarine
+
+Isi but javera alternative da te dikhel pes sar jek romano barodive ikerela pes sar ko misal o filmi “Herdelezi” (jek anglonilajekoro avibe so kerela pes ko Balkani) ja pale ov šaj te arakhljol ki Švedia sar “Zigenarnas Tid” taro Emir Kusturica. Ki patrin É Romani Glinda šaj manuš te drabarel bašo sar o roma ko javera thana ki Švedia ikerena ple baredive. Disavo var tergjola bašo romano ikeribe sar ko misal o Internacionalno romano dive ko lokalna patra. Le odova sar jek huj (navika) te čhine asavke artiklija hem slike hem khede olen ki jek mapa!
+
+43
+
+--- Page 44 ---
+# TEMA 6 – KI ŠKOLA
+
+Akale temakoro cilj tano sar pobut te zorjara thaj te bajrara o haljojbe e školakere aktivitetija ko roma. O sikle thaj o daja,dada te ovel olen pobaro džandipe bašo rutine e školakere ko kontakti e khereja, za te haljoven keda e čhave isilen samukibe (odmor), vakti ko doktori, sar i šema e čhavengiri ki škola, avrilajeskere dive, thaj džajbe ko javera thana kote so ka dikhen bukja soj tane phanle e školaja thaj panda javera bukja soj tane važna ki škola.
+
+O daja/dada valjani te oven svesna ko savo čhani udžarela pes olendar te den ple čhaven arka ko olengeri khereskiributi ked kerela pes lafi taro čhibjakoro angledžajbe ko romane thaj o džandipe soj phanlo e romengere kulturaja thaj historiaja.
+
+O sikle bajrarena pli sikljojbaskiri teknika odoleja so kerena buti soisibe so dela olen džandipe baši romani historia thaj e romengiri situacija ko javera phuvja thaj bašo o butipe e romane čhibjakere varitetetia (dijalektia) hem isto agjehare o angledžajbe taro jek šerutni vakerutni čhib dži ki jek hramomi romani čhib.
+
+O pobare sikle thaj olengerae daja/dada ka len than ko džandipe bašo e školakoro sikljojbaskoro thaj butikeribaskoro drumo soj tano phanlo e sikljojbaja thaj e bukjakere alunibaja.
+
+## Cilj bašo sa o sikle
+
+- O sikle valjani te džanen lafija thaj haljojba soj tane phanle školaja thaj sikljojbaja.
+- O silke valjani te džanen sar manuš ponašini pes ki škola thaj sar arakhela ple khereskere bukjencar.
+- E siklen te ovel olen džandipe taro e romengiri historija, čhib thaj e romengiri situacija ko javera phuvja.
+- O sikle te džanen so značini (soj odova) te ovel jek šukar amal.
+- O sikle te džan angle ple sikljojbaskere tehnikaja.
+- O sikle te haljoven o phandipe maškar o sikljojbe thaj e bukjakorobiribe.
+
+## Pendžarkeriba
+
+Tu sar sikavno ka de ko džandipe te siklenge thaj olengere dajenge/dadenge sar e školakiri biti tani čhivdi thaj so tu udžareja taro o silke thaj taro o kontakti e khereskere manušencar.
+
+Akaja tani jek tema koja isi ola šajsarin te irane tut palem ki olate telo celo berš.
+
+E najtikne čhavenge tano odova so ola valjani te sikljon lafia thaj haljojba odoleja soj phanlo e školakere aktivitencar thaj e klaseskere kamraja ko solduj čhibja romane thaj švedikane.
+
+Ola isto agjehare valjani te džanen sar te ovel pes ki škola hem soj tano odova te ove šukar amal. A e pobare siklenge akaja tema dela šajdipe te trenirinen pli sikljojbaskiri tehnika thaj ko okola pouče klasija i buti šaj te iranel pes ko odova so ka del pes anglohaljojbe bašo odoja švedikano čhibjakoro sikljojbaskoro thaj butikeribaskoro drumosikavibe.
+
+## Klaseskoro aktiviteti 1 – Mli klaseskiri kamra thaj mi šema
+
+**Berša:** 6-9 berš  
+**Čhibjakoro nivo:** A1
+
+44
+
+--- Page 45 ---
+# Cilj akale aktiviteteske
+
+- O sikle valjani te džanen lafija soj tane phanle disave predmeteja so isi ki jek klaseskiri kamra thaj o aktivitetija soj ki škola.
+- O sikle haljona soj tani šema thaj džanena o lafija bašo e sikljojbaskere aktivitetija ko romane thaj ko švedikane.
+- O sikle haljona o značenje soj tano phanlo e divea, školakeredivea thaj kurkea.
+
+# Metodi thaj butikeribe
+
+Avgoker odoleja so ka puče e siklen bašo o dova so isi ke klaseskriri kamra thaj hramon ki tabla so o sikle dena pes godi. (O sikle istemalkerena romane thaj/ili švedikane). Ker jek gogjakiri karta taro akala pučiba: So isi ki jek klaseskiri kamra? Hramon sa o lafija so o sikle ka denpes godi – thaj dopher eventuelno tu da tle lafencar! Ker i lista ko suj čhibja thaj drabar ola hem vaker panda jek puti e siklencar sa o lafija.
+
+Čhiv o romane lafija ko jekhale lafjorja sar ko misal: I tabla tani zeleno, o lil tano pharo, mli bešutni tani zorali thaj panda javer.
+
+Ko akava osnovikano nivo tano važno tu sar sikavno te anglekere strategije kola ka den e siklenge pošukar sikljojbe pobut lafija kobor so šaj. Ked kerela pes lafi taro asavke bukja so manuš šaj te sikavi vasteja tegani šaj tu te istemalkere odova šajdipe. Jek javer čhani tano te istemalkere slike taro sar misal jek memorijakoro kheliba ili lila. O sikle šaj isto te crtinen ple klaseskiri kamra sa odole šejencar thaj bukjencar so isi ki late so ola ka den pes godi - klupa, bešutni, tabla, karta, lil, notarin kalemi thaj panda javera.
+
+Ponodoriganikani butikeriba tani o sikle te haljoven sar jek školsko dive thaj kurko tano planirimo. Tu ka de olen i šema olengiri jeke kurkeske vaktencar predmetencar/ temaja pherde.
+
+Akaja tema ka ovel ko dujčhibja odole siklenge soj tane ko A1- nivo.
+
+Tu ka objasnine so vakerela pes tari tema thaj ka dikhe palo o sikle te haljoven o vaktidejbe. I bitikerba e siklenge tani te keren buti ko pari (duj po duj) thaj te pučen jek jeke baši i šema sar ko misal: Ked isi amen o avgo časi ko trintodi? Kova predmeti isi amen ko dujtodi ko 10.00? Kola dive isi amen romane? Ked isi amen hajbaskorovakti ko palo kurko?
+
+E čhaven so isi olen ograničime džandipa ko romane tano šukar akava pučiba duj po duj avgo te ovel ko švedikane (ili javer majoritetno čhib so o sikle vakerena) ponodori o pučiba šaj te džal ki romani čhib. O dejbe raporti ka astarel odova so o sikle valjani te vakeren kola predmetija/teme jek školakorodive thaj jek školakoro kurko astarena.
+
+Sar sikavno tu ka informirine tle siklen save ponašibaskere kanunija soj tane ki tli klaseskiri kamra. O čhave ka vazden plo vast upre ked ka den dževapi ja pučena bašo diso? Sar i tano odova ko švedikanočhibjakoro sikavibe? Isili disave specialna pravilija ki tumari škola sar o čhave valjani te tegjon anglo pli klaseskiri kamra ja pale sar valjani te tergjon ko redo angli e hajbaskirisala?
+
+# Khereskiributi
+
+O sikle ka sikaven ple kurkeskiri šema ple dajenge/dadenge thaj ka keren lafi olencar bašo odola redoskere kanunija soj tane odothe.
+
+# Gramatika
+
+O nakhavibe e šemakoro dela tut šajdipe te dža palo o sikle thaj te dikhe dali ola džanena e gejnbaskere lafija ko ple solduj čhibja.
+
+45
+
+--- Page 46 ---
+# Matrijali sarinenge
+
+Kurkeskiri šema ko solduj čhibja romane thaj švedikane (ili ko javer čhib so o sikle džanena).
+
+## Klaseskoro aktiviteti: 2 – Jek šukar amal
+
+**Berša**: 10-12 berš  
+**Čhibjakoro nivo**: A2, B1
+
+### Cilj akale aktiviteteske
+
+- O sikle džanena sar ola valjani te ponašinen pes ki škola, školakiri avlin thaj sar jek šukar amal tano.
+
+### Metodi thaj butikeribe
+
+Muk e siklen te vakeren plo školakorodive ja pale školakoro kurko. Akava šaj ola te keren hrarmobaja ja vakeribaja. De ole instrukcije da akava opišibe valjani te astarel asavke bukja so ovena ko pauze thaj avrijal tari škola, soj odova soj tano šukar a soj odova soj tano bilačhe. Keren lafi ko grupe bašo e siklengoro vakeribe. Drabar jek teksti bašo odova sar i e siklenge ki škola thaj muk tle siklen te keren jekhakeribe ple phrinipa.
+
+Ko disave grupe tano aktuelno te kerel pes buti ko sar valjani jek manuš te ponašini pes ki škola thaj so o sikle gndinena odoleja te ovel pes jek šukar amal. O sikle valjani te oven svesna sar manuš sikavela respekti jek jekheske sar ki škola agjehare da avrijal tari škola. Sar roma amen sijam sikle te sikava respekti khere.
+
+### Gramatika
+
+Akaja tema dela šajdipe ko jek sistematikano čhani te bajrarel e siklengoro lafikhedibe ked kerela pes lafi taro razna hošija ko misal: lošalipe (anavjori) - lošalo (dodini) - lošala disoske, asala (kerutni).
+
+## Klaseskoro aktiviteti 3:1 –Te ikere tut ko instrukcije thaj te rode informacije
+
+**Berša**: 10-12 berš  
+**Čhibjakoro nivo**: A2, B1
+
+### Cilj akale aktiviteteske
+
+- O sikle valjani te ikeren pes ko instrukcije so o sikavno dela.
+- O sikle ka šaj vakeribaja thaj hramojbaja te sikaven ple školakere bukja.
+- O sikle valjani te roden fakta da bi te sikljon kote o javera romane grupe dživdinena thaj save čhibjakere dijalektija istemalkerena ola.
+
+### Metodi thaj butikeribe
+
+I buti keribe tani ko odova so o sikle lelo taro e sikavneskere instrukcije ka roden fakta bašo kote o roma dživdinena ko javera phuvja. O sikavno ka spremini bukja kola so ka del e siklen sar soj Evropakiri karta thaj jek lista taro statistična podatke bašo o numero roma ko javera phuvja. O sikle ka pheren ki karta ko kola phuvja dživdinena pobuut roma. (Zavisno ko e siklengere berša šaj akaja karta te ovel ola e phuvjengere anava ja te ovel jek “korolikarta” mangaja te vakera jek karta kola so najela o anava e phuvjengiri.
+
+46
+
+--- Page 47 ---
+Ponodori aluinena o sikle jek phuv thaj rodena fakta tari phuv ko lila ili ko Internet. Akate šaj o sikle te keren buti duj po duj. Odola silke so isi olen phirnipa taro javera phuvja ka den arka odoleja. E siklen so isi olen jeri so dživdinge ko javera phuvja šaj te pučen olen baši i situacija e romengiri ki odoja phuv thaj soske ola mukhle odoja phuv thaj ale ki Švedia.
+
+O sikle isto agjehare šaj te len than ko rodibe kobor dialektija romane so isi e romen ki akaja phuv thaj dali isi lila, filmija, radioprograme, muzika ko akala dijalektija. O sikle ka hramonen jek tikno teksti so ola ka sikaven vakeribaja angli grupa. O sikle ka sikaven ki karta kote odoja aktuelno phuv tani thaj ka vakeren diso bašo e romengoro dživdipe odori.
+
+Akale butikeribaja o sikle lena treniribe te pratinen instrukcije, iskustvo te keren buti ki grupa kote so o členija tari grupa isi olen različno iskustvo so dela jek barabikano rezultati.
+
+Ola isto agjehare trenirinena te keren hramome barabarikanehaljojba thaj vakeribaskere prezentacije. I sodržina ko butikeribe tano taro jek specijalno interes e romane siklengoro džikote o iskustvo taro bukjakoročhani ka ovel e siklenge ko korist ko javerada predmetija!
+
+**Matrijali sarinenge**
+
+Statistika taro kote thaj kobor but roma so dživdinena ko javera phuvja ki Evropa.
+
+Evropakirikarta
+
+## Klaseskoro aktiviteti 3 – Amen khedaja fakta baši i romani situacija ko olika javera phuvja
+
+**Berša:** 13-16 berš  
+**Čhibjakoro nivo:** B1, B2
+
+### Cilj akale aktiviteteske
+
+- O sikle pendžarena o šerutnovakeriba bašo e romengoro avibe tari Indija ki Evropa.
+- O sikle pendžarena kote o roma dživdinena avdive thaj isi olen džandipe sar e romengiri situacija ko javera phuvja.
+- O sikle zorjarge plo romano identiteti.
+
+### Metodi thaj butikeribe
+
+O sikle ko akava nivo isi olen osnovikano džandipe tari romani historija thaj isto agjehar disavo džandipe tari e romengiri situacija ko javera phuvja.
+
+Za o sikljojbe ki akaja tema te ovel ko čačutno nivo šaj o sikavno te anglovakerel pučiba e siklen so ola dćanena bašo o roma ko javera phuvja thaj so ola džanena baši i “historija” avrijale thaj sar manuš rodela fakta bašo odova so ulo butangleder.
+
+Ponodori prezentirinela o sikavno o hajljojbe romani historija thaj sikavela baši o javera hainga baši i fakta so amen akana džanaja e romane avibaskoro tari Indija ki Evropa. Sa o sikle ko akala nivoja valjani te ovel olen džandipe bašo o različna teorija soske o roma mukhle i Indija thaj kola odola javera drumija lele o roma za te aven ko javera phuvja. Sar sikavno tu ka pratine so tle sikle akana džanena thaj ka dophere tle džandipaja nevi fakta.
+
+47
+
+--- Page 48 ---
+Panda ponodori šaj manuš te aluinel peske maškar o pobut metodija thaj te mukhe e siklen te roden peske ponodori. Jek čhani tano o sikle te roden fakta bašo o roma thaj olengiri situacija ki jek specijalno phuv sar ko misal: Makedonija, Polska, Finska thaj panda javera. Disave sikle šaj te aluinen odoja situacija kolatar so isi olen phirnipe thaj pendžaribe a palem disave gndinena da tano but pošukar te roden fakta baši "nevi" phuv.
+
+E siklengoro khedimo džandipe bajrola naravno ako o sikle ki sikavnigrupa aluinena različna phuvja, a ko isto vakti odova tano šukar te šaj te kerel pes jejkhakeribe maškar i fakta so o različna sikle isi olen baši jek isto phuv.
+
+Za o sikle te ovel olen bah ko lengoro rodikeriba valjani o sikavno te del arka sikavibaja tekstija ko šukar sikljojbaskere lila. Nane asavke lila tegani o sikle valjani te len arka taro Internet thaj javera hramome thana hem šaj te len arka odoleja so ka iranen informacije sar ko misal: tari anglikani ili javer čhib ki romani čhib ako samo agjehar isi fakta.
+
+O izveštaj ka ovel ko jek hramomo raporti teksteja šukar ka ovel te oven slike thaj karte.
+
+Ka ovel but baro o sikle te prezentirinen plo rezultati javere grupenge tha odova te anel jek lafiikeriba baši odoja fakta so ola lele. I situacija e romengiri tani but phari ko but phuvja. Tu sar sikavno valjani te ove spremno ko odova so o sikle šaj te oven mazumi ili holjame telo i buti keribe "ple" phuvjencar.
+
+Jek čhani te kerel pes buti asavke čustvencar tano ki grupa te kerel pes lafi bašo e manušengere pravija thaj te mukhe e siklen te aven predlogencar so valjani te kerel pes bašo odova. Tu isto agjehar šaj te vakere odola pozitivna incijative so o roma lele.
+
+I sodržina ki akaja buti tani specijalno interesno e romane siklenge džikote o iskustvo taro bukjakoročhani te rodel pes thaj te ocenini pes informacija ka ovel e siklenge ko korist ko javerada predmetija!
+
+**Matrijali sarinenge**
+
+But informacija bašo o roma thaj amari historija isi akana ko Internet.
+
+Dikh o lenkija ko avgo kotor taro anglovakeribe!
+
+## Klaseskoro aktiviteti 4 –Edukacija thaj butialuibe
+
+**Berša:** 13-16 berš
+
+**Čhibjakoro nivo:** A1, A2, B1, B2
+
+### Cilj akale aktiviteteske
+
+- E siklen isi olen džandipe bašo e školakere sikljojbaskere-thaj butisikajbaskoro-drumo.
+- O sikle haljovena o phanlipe maškar i edukacija thaj e bukjakorobiriba.
+
+### Metodi thaj butikeribe
+
+Tu sar sikavno isi tut buti te spremine tle siklen thaj olengere dajen/daden anglo odova sikljojbaskoro thaj butisikajbaskoro drumo so i škola dela. Keda tu ka planirine akaja tema tano but baro tu te ovel tut džandipe bašo sar hem keda tle sikle ka len than tari asavki informacija.
+
+48
+
+--- Page 49 ---
+Naje tlo odgovornost te de tlo dževapi baši e školakoro - thaj butisikajbaskorodrumo ali tu šaj te de arka tle siklenge za te haljoven i informacija thaj te spremine olen te šaj ola te čhiven pučiba bašo praktikakerethana, sikljojbaskorobiribe thaj panda ponodori.
+
+49
+
+--- Page 50 ---
+# TEMA 7 – TRANSPORTI HEM DŽAIBE KO DRUMO
+
+Akaja tema tani jek kotar okola teme so šaj te džan jek ko jek e romane istorijaja. Kana keraja lafi taro džaibe ko drumo, daja amen godi ko vakti kana o roma zorleja chidingje te džan taro than ko than, hem tari phuv ki phuv.
+
+Ki akaja tema šaj te sikljon o sikle o iklijoibe tari Indija hem panda soske but roma, panda avdive rodena te džan ko javera phuvja.
+
+I važno nukta tani o džaibe ko drumo hem ko savo način džana o roma ko drumo avdive.
+
+## Dikh thaj: Tema 3 - Mlo pašedersarinibe (društvo) thaj mle socialikane kontaktija, Tema 4 - Romane zanatija thaj bukja hem Tema 6 - Ki školan
+
+### Cilj sarinenge
+
+- O sikle džanena sa o javera transportija.
+- O sikle džanena te vakeren hem te hramonen taro jekh olengoro džaibe ko drumo so ola kergje.
+- O sikle džanena kotar avena o roma hem sar e romengiri situacija kergja zorleja o roma te džan taro phuvja ko phuvja, odoleske soske ine paldime, ine maribe hem odoleske so naštine te parvaren ple familija.
+
+### Penžakeribe
+
+Tu šaj te avgokere o lafikeribe odoleja so ka de godi e siklen so isi roma ko sa o phuvja hem so sa o roma mane sajek ko misal, javera dijalektija, tradicije hem o način e dživdipaskoro. Tu šaj te sikave ko misar sar ko nesave thana o gras hem o pajtoni panda genjakerenapes sar transportija, hem kaj istemalkerelapes o pajtoni ko nesave thana, ko specijalno vakti. Ko misal ki Makedonija panda avdive istemalkerelapes o pajtoni, kana džalapes te lel pes e bojra.
+
+Palo odova šaj te puče e siklen save transportija ola džanena hem te denpes godi sa taro vorda hem avtobuzija sa džo ko aeroplanija hem helikoperija! Palo odova šaj te dikhen o slike hem te kheden panda neve lafija.
+
+Ako osetineja kaj aktuelno šaj te de e siklen ko džanibe sar o roma ikile tari Indija thaj sar ine o roma zorleja terime te len plo drumo hem te džan ko avera thana hem phuvja. Akaja perspektiva tani but aktuelno ko grupe, kote so o sikle ale sar našutne ki Švedia.
+
+## Klaseskoro aktiviteti 1- But javera transportija
+
+**Berša:** 6-9 berš  
+**Čhibjakoro nivo:** A1
+
+### Cilji akale aktiviteske
+
+- O sikle džanena o lokheder lafija ko transportija.
+- O sikle džanena te hramonkeren (tari tabla) ja te hramonen tikore vakerina taro transportija.
+- O sikle džanena te den dževapi, thaj te pučen sa so lela than ko džaibe ko drumo.
+- O sikle džanena te vakeren soleja džalape ko drumo.
+
+50
+
+--- Page 51 ---
+# Metodi thaj butikeribe
+
+Te šaj te ovel i lekcija interesno šaj te avgokera jekhe khelibnjaja.  
+O sikavno/sikavni vakeri e siklenge te cidkeren ja te makhen jek pampuri. Palo odova o sikle ka den plo gndipe hem ka vakeren kaj džala o papmuri.  
+O sikavno/sikavni ka dikhen te denpes godi o sikle, ko so pobut thana hem phuvja.
+
+Ponodori o sikle cidkerena jekh vagoni, hem odothe cidkerena pes kokori ja palen lepinena pli slika ko odova vagoni. O sikavno/sikavni khedela sa o vagonja e siklendar hem kerela jekh pampuri, hem čhivela ole ki klaseskiri kamra.
+
+Jekh aver način te avgokerelpes akaja tema tano te dikhelpes jekh vrda. Sar dikhjola o vrda? Kobor džene šaj te bešen ko vrda? Džana li ko drumo vordancar ki tumari familija? Geljan li dajekfar aeroplaneja džigde? Mangeja li tu te dža ko drumo? Ja palem dosadno tuke kana džaja ko drumo?
+
+Hramon o neve lafija ki tabla. O sikle cidkerena o transportija hem tu deja olen arka te hramonen sar vikinena pe, odola transportija so cidkergje. Čhiv o lafija ko lafjorja, odoleja ka sikljon lokheder o neve lafija. (Mlo točako tano lolo, me dadeskoro vrda džala sigo, mo papo isile gras hem pajtoni!)
+
+## Gramatika
+
+Ko akava nivo o lafija tane ko fokus. Muk e siklen te hramonkeren o neve lafija tari tabla hm hramon o but-bangjaribe: jek vrda-pobut vordija, jek pampiri-pobut pampurija hem panda. Jekhar e siklengere čhibja so džanena (romane, svedsko, englesko, makedonsko) Sar vakeripe ko romane bašo helikopteri hem raketa-hem ko avera čhibja?
+
+## Matrijali
+
+Slike taro sa o transportija.
+
+---
+
+# Klaseskoro aktiviteti 2 – Sar hem soske o roma džana ko drumo avdive
+
+**Berša:** 9-12 berš  
+**Čhibjakoro nivo:** A2, B1
+
+## Cilji akale aktiviteske
+
+- O sikle džanena te vakeren o transportija so o roma istemalkerena avdive.
+- O sikle džanena te vakeren taro nesavo drumo džaibe so ola kergje.
+- O sikle džanena soske panda avdive nesave roma, zorleja mukle pli phuv, kaj so dživdinena sine.
+
+## Metodi thaj butikeribe
+
+O sikavno/sikavni šaj te avgokerel odoleja so ka vakerel sar o roma ko but berša zorleja džana ko drumo. Akate šaj te ovel aktuelno, hem te dikhelpes ki jek karta sar o roma ikile kotar i Indija hem gele ko avera phuvja. O sikavno/sikavni vakerela o soskip so o roma valjange te džan ko drumo. Palo odova o sikle šaj te keren buti ko pari, hem te roden fakta (čačipe) taro e romengoro džaibe ko drumo, sar ine angleder hem sar džana o roma ko drumo avdive. Šaj te pučen nesave phuredere manuše, sar gele o roma ko drumija, kana gele hem soske gele, ja palem te roden fakta ko lila ja palem ko Internet.
+
+Akava šaj te jekharelpes soske o roma džana ko drumo avdive. O sikle ka vakeren so džanena angli pli grupa ki arka e slikencar hem tekstncar.
+
+51
+
+--- Page 52 ---
+O sikle šaj te vakeren da kaj ola džana kana ovela olen nilajeskoro samukibe. Šaj te ovel ki Švedia ja palem ki pli familija kana džana misafijra ko javera phuvja.
+
+O sikle vakerena akava ki arka e slikencar hem korkore kerde tekstencar. O sikavno/sikavni šaj te del e siklen zoralipe hem te istemalkeren lafija baši o hoši. Ine lošalo, odoleske soske..., Ine bilošalo, kana udžargjem..., Me injum ine bilošalo kana me valjani ine te džav.....
+
+Hramonkeribe taro jek drumo džaibe šaj te ovel jek studiribaskoro misafirliko so i romani grupa kergja ja palen o siklo ine ple švedsko čhibjakere grupaja. Sar planirinelapes jek asavko prezentiribe šaj te del šukaripe, e siklenge ko but bukja.
+
+Ako o sikavno mangela isi ole šajdipe te bajrarel akaja tema hem te dikhelpes soske but roma mukle ple khera, but važno o sikavno te ovel ole jek slika taro ple sikle hem olengoro dživdipaskoro nakhibe, sar ola našle zorleja, ja palen sar olengiri familija našle.
+
+Ko akava čhibjakoro nivo but važno te hramonkeren o sikle plo dodživgjarkeribe ki arka slikencar e naktarutne lafencar.
+
+## Gramatika
+
+Akava aktiviteti dela than o sikle te džanen pobut lafija te bi šaj ko but načinja te sikaven plo hoši. Ko misal *dar* (anavjori) *te dara* (kerutni) hem te jekharen *mangela te dikhelpes-ovela mali*, premalo lafi *mangela-namangela*, hem o lafija *namangela*, *mrzinela*, *nakamela*.
+
+## Matrijali
+
+Sumnaleskiri karta thaj Evropakiri karta
+
+## Klaseskoro aktiviteti 3 – Odoleske o roma gele ko drumo angleder thaj panda avdive
+
+**Berša:** 13-16 berš  
+**Čhibjakoro nivo:** B1, B2
+
+### Cilji akale aktiviteske
+
+- O sikle džanena o lafija taro transportija, okola transportija so istemalkerena pes ine angleder hem moderma transportija.
+- O sikle džanena soske nesave roma zorleja mukle o phuvja thaj o thana kaj so dživdingje.
+- O sikle šaj te hramonkeren sar hem soske o roma gele ko drumija but berša.
+- O sikle šaj te hramonkeren hem te vakeren taro plo jek drumo džaibe.
+
+### Metodi thaj butikeribe
+
+Akala sikle džanena so valjani tari fakta, hem soske o roma mukle i Indija, sar hem kana o roma ale ko javera phuvja. O sikavno/sikavni šaj te dikhen kaj sarine o sikle isilen ko džanibe taro akava. Sikav e siklenge i karta, hem muk olen te vakeren so džanena!
+
+Aver buti keribe tano te dikhen o sikle hari pohor hem te roden informacija sar ine ko nakhlo vakti, odova šaj te keren odoleja so ka intervjuinen phureder romen, te drabaren lila hem te roden informacija ko Internet. Akava šaj o sikle te keren ko parija. O hramonkeribe ka keren angli grupa ki arka e slikencar hem tekstncar.
+
+52
+
+--- Page 53 ---
+O sikle šaj te dikhen pohor, soske o roma panda avdive valjani te mukhen odola phuvja, kote so dživdingje. Hem akate šaj o sikle te keren buti ko pari hem te roden fakta odoleja so ka interjuinen phuredere manušen, so ola mukhle zorleja pli phuv, ja palen te rodelpe fakta ko Internet hem ko lila. O hramonkeribe ovela ki forma sar ko hramoibaskoro raporti ja palem jek mujeskoro prezentiribe angli grupa.
+
+**Matrijali**
+
+Sumnaleskiri karta thaj Evropakiri karta
+
+53
+
+--- Page 54 ---
+# TEMA 8 – HAJBE THAJ ŠEJA
+
+Akaja tema astarela asavko diso soj phanlo e romane historijaja, običajencar thaj tradicijaja.
+
+O osnovno romano vrednost izrazini pes maškar odola tradicionalna šeja thaj odova romano gostluko. Ki akaja tema isi e siklen šajdipe te keren pobut buti e romanipaja.- Soj tano o hajbe thaj o gostluko e romenge?
+
+So isi odole romane kulturakere šejen sar značenje thaj savo status isi maškar ko romane grupe? Maškar akaja tema o sikle ka dobinen jek pohor instikti bašo o razna romane grupe thaj olengere tradicije.
+
+O roma tane phanle jek jekheja ama o roma naje homogeno grupa ko sa o thana.
+
+## Isi pašeder phanlipa ki tema 5 - Baredive thaj feste hem ki tema 9 - Vakti beršeskorovakti thaj vreme.
+
+### Cilj bašo sa o sikle
+
+- O sikle pendžarena odova tradicionalno čhani urajbaskoro ki pli grupa thaj ola valjani te džanen lafija soj tane ki kupa e šejencar.
+- E siklen isi olen disavo džandipe taro javera romane grupengere tradicije ko odova sar ola tane uravde svako dive thaj ko bijava.
+- O sikle valjani te danen o romano misafirluko thaj te džanen sar dodžarela pes jek misafiri.
+- O sikle valjani te pendžaren o tradicionalna habe thaj o phanlibe e bare divencar thaj o bijava ki pli thaj ko javera romane grupe.
+- O sikle valjani te džanen lafija bašo hajbe, emiši, zelenipa thaj te ovel olen džandipa soj odova sasto hajbe.
+- O sikle šaj te keren jekčhanutno romano hajbe/gudlo.
+- E siklengoro romano identiteti zorjargjola. Ola pendžarena baro barabaripe e romencar taro javera grupe.
+
+### Pendžarkeribe
+
+Akaja tema dela šajdipa te dža angle e romanipaja o sikle ko jek pozitivno čhani te zorjajra e siklengoro romano identiteti. O sikljojbe bašo o romane tradicionalna šeja šaj te avgokerel pes taro odova o sikle ka keren lafi bašo plo uravibe ko ple familije.
+
+O sikavno ka vakerel e siklenge te anen peja ple šuže romane šeja ili te len slike kote so ola ja olengere roditelija tane uravde ko romane tradicionalna šeja.
+
+O sikle ka vakeren ked ola uravena akala šeja. Kerena ola odova svako dive ja kerena odova keda isi olen bijava thaj bare divesa? Dali tane ista o šeja e čhavenge, e ternenge thaj e pophurenge? Isili disavi historija taro phirajbe akala tradicionalna šeja.
+
+Ko sikavibaskere grupe čhavencar taro razna generacije tano normalno te kerel pes lafi taro ista bukja thaj bukja so naje ista. Se o sikavno valjani te ovel azrkerdo te kerel lafi taro razli čno grupengoro uravibe telo akaja tema.
+
+O anglovakeribe tari akaja tema šaj isto agjehar te kerel pes odoleja so ka kerel pes lafi taro habeskere tradicije svakodivengere thaj ko phanlipe e baredivencar thaj festencar.
+
+O sikle šaj te vakeren kova hajbe majbut mangena. Kova habe soj phanlo odole različna bare divencar. – Akaja tema legarela ko jek but dživdo lafikeriba maškar o sikljojbaskere grupe!
+
+54
+
+--- Page 55 ---
+Ki akaja veza tano aktuelno te vazde anglal so o sikle džanena bašo o romano gostluko. Ja akava tano normalno e siklenge da ola ni na gndingje bašo sar tano o gostluko maškar o roma? Odoleske valjani tu sar sikavno te vakere da tano odova normalno maškar o roma te den hajbe maškar peste.
+
+Jek šukar purano vakeribe ki akaja prezentacija tani: *Grasta mangeja džov?* Akava mangela te vakerel amenge da niked ma puč jeke gosto dali ov mangela te hal maro, čhiv angli leste da bi ov te hal peske maro.
+
+### Khereskiributi
+
+Ked manuš kerela buti akale temaja tano aktuelno da o sikle te pučen khere bašo sar ola kerena ki pli familija, sar i tradicija sine angleder thaj sar tani akana tano absolutno baro thaj so valjani manuš te kerel da bi tena mukhen pli tradicija. Akaleja tane o daja/dada čhivde andre ke čhavengiri školakiributi thaj ka haljon kobor tane važna olengere phirnipa e čhavengere džajbaja angle ko olengoro džandipe.
+
+## Klaseskoro aktiviteti 1 – Tradicionalna šeja
+
+**Berša:** Sarine  
+**Čhibjakoro nivo:** A1, A2
+
+### Cilj akale aktiviteteske
+
+- O sikle valjani te džanen o lafija soj tane bašo o tradicionalna šeja.
+- O sikle džanena bašo odova so o tradicionalno čhani urajbaskoro taro javer javer maškar hem razna romane grupe.
+
+### Metodi thaj butikeribe
+
+Jek šukar čhani te dikhe so o sikle džanena bašo javerengere urajbaskere tradicije tano te sikave slike kote so isi roma taro javera grupe thaj puč e siklen kotar ola gndinena da akala grupe avena, hem kole grupatar ola avena.
+
+Sikav slike taro baredive thaj taro habe. Pendžarena ola palem akala bukja hem so ola džanena bašo akala baredive? Sar keraja amen o bijava ki amari grupa thaj sar kerena o roma taro javera grupe? Akava tano šukar hem vazdela o interes e siklengoro te arakhen pobut bašo o javera romengere adetija thaj tradicije. But sikle šaj te arakhen o najvažno lafi soj tano barabar disave tradicionalno čhaneja taro urajbe ama sa dži o sikle šaj te kheden lafija so pripadinena akate: šamija, kecelja, trgalsuknja, menie, eleko, nakit thaj panda javera. Hramon akala lafija ki tabla thaj mukh e siklen te hramonen peske ki pli notarin.
+
+Jek javer čhani te zorjarkere e siklengoro lafidžandipe tano o sikle te šaj te crtinen/boinen jeke romnja ili jeke rome ko tradicionalna šeja thaj te markirinen o lafi ki pli slika.
+
+E lafengere notarina thaj o slike khede ko bukjakere mape. (Pobut taro akava ko anglovakeribaskoro kotor). O sikle šaj isto agjehar te crtinen jek slika tari pli daj ili taro plo dat thaj sar tane olengere svakodiveseskere thaj baredivengere šeja. O cilj akale slikencar tano te legarel ko jek lafikeribe taro šeja thaj šejengere stilija thaj soske ola istemalkerena ple tardicionalna šeja ko bijava thaj feste.
+
+55
+
+--- Page 56 ---
+# Klaseskoro aktiviteti 2:1 – Sikavaja amare šeja javerenge
+
+**Berša:** 6-9 berša  
+**Čhibjakoro nivo:** B1, B2
+
+## Cilj akale aktiviteteske
+
+- O sikle pendžarena e šejengere stilija thaj šaj te sikaven javere manušenge avrijal taro ple sikjojbaskiri grupa.
+- O sikle šaj te keren modelija taro o romane tradisionalna šeja.
+- E siklengoro romano identiteti zorjargola.
+
+## Metodi thaj butikeribe
+
+Me džanava taro phirnipe da o sikle doživinena odova so tano pozitivno so ola sikavena so ola kergje ili te ikljon anglo javerende so ola siklile ke dajakoročhibjakoro sikljojbe.
+
+Šunavle šaj te ovel o personali thaj o javera sikle ki škola thaj o roditelija hem i familija.
+
+Šukar prilika bašo asavki sikavibe tano o romano internacionalnodive 8 april ja ked ki škola isi Phravdokher. O sikle šaj te ikljon ko sa o romane javer javer šeja kola so pendžarkerena olen agjehare o javera manuša ka dikhen save na isi romane šeja.
+
+Javer kotor šaj te ovel da o sikle te sikaven thaj te vakeren taro ple plakate so ola kergje ple sikljojbaja so astarena o javera tradicije ko phanlipe e baredivencar thaj e bijavencar. (I muzika thaj o gilja šaj te ovel šukar te le olen). I buti keriba treniribaja zorjarela e siklengoro jekhipe. O sikavno dela ko džandipe kobor tari programa so o sikle ka den dževapi thaj koj so ka del dževapi bašo o pendžarkeribe thaj redo ka kerel pes.
+
+O daja/dada mangena te dikhen kobor olengere čhave tane gogjavera thaj kobor but ola pendžarena i romani tradicija. O javera manuša tane pobut sar jek publika thaj rodena pobut ali tano stalno lelo ko jek šukar čhani odova soj olenge sikavdo tari i rig e siklengiri.
+
+## Matrijali
+
+Da bi te keren modelija (lileskere bebedžikija) romane šejencar valjani: matrijaleskerekotora čipka, mortikakerekotora, merikle, folijakerekotora, vuna, suvja, thav ki boja kalemija thaj lepilo. Akala lepinena pes ko baro kartoni. E siklengere hramome tekstija šaj te hramonen pes ki data thaj te lepinen pes dži ko bebedžikija (lutke).
+
+---
+
+# Klaseskoro aktiviteti 2:2 – Keraja karte romane šejendar
+
+**Berša:** 6-9 berša  
+**Čhibjakoro nivo:** A2, B1, B2
+
+## Cilj akale aktiviteteske
+
+- O sikle pendžarena e šejengere stilija thaj šaj te sikaven javere manušenge avrijal taro ple sikjojbaskiri grupa.
+- O sikle šaj te keren modelija taro o romane tradisionalna šeja.
+- E siklengoro romano identiteti zorjargola.
+
+56
+
+--- Page 57 ---
+# Metodi thaj butikeribe
+
+Muk e siklen te len than ki osnovikani informacija bašo o javera šeja ili odoleja so disavo manuš ka vakeri olenge bašo odova ili šaj ola te roden fakta mašakar o lila thaj slike so isi tumen.
+
+Akava džandipe ka sikavel pes odoleja so ka keren bari karta slikencar taro roma ko tradicionalna šeja. (Me gndinava da tumen sarine dikhlen odoja karta tari Španija kote soj jek romni uravdi ko flamenkošeja soj tane sivde upri slika).
+
+Ulav e siklen duj po duj. Svako grupa neka aluinel peske save manušikane phirajbaja ka kerel buti. Muk akana o keribaskoro lošalipe te thavdel!
+
+Šužaker i karta korkori kerde nakiteja. Vunaja ka ovel šukar te kere o bala. Šaj te kere pletenke sumnakajeskere lirencar? Ja te kere jek koceli šuže šnolaja? Keda ka bitirinen o slike ka hramonen o sikle teksti bašo pli karta. Ponodori šaj ola te vakeren jek javereske bašo e šejengiri historija. Koja grupa istemalkerela odola šeja? Dali tano odova jek akana kerdo šej ili tano purano šej? Ko kola phuvja istemalkerena odola šeja.
+
+---
+
+## Klaseskoro aktiviteti 3 – Romano gostluko
+
+**Berš:** Sarine  
+**Čhibjakoro nivo:** A2, B1, B2
+
+### Cilj akale aktiviteteske
+
+- O sikle haljona o romanipe thaj o gostluko.
+- O sikle pendžarena odova historisko poteklo bašo o romano gostluko.
+- O sikle džanena sar valjani te ponašinen pes ked vakeri pes de dodžaren gosten.
+
+### Metodi thaj butikeribe
+
+Ako isi šajdipe te vikine jeke pophure manuše (baba, papo) te vakerel e siklenge sar sine angleder ko puranovakti. Zamolin ole/ola te vakeri pobut taro gostluko ko roma, soske o roma stalno kaninena džikas ko ple khera. Muk isto agjehar e manuše te vakerel pobut taro o gogjakere thaj kanunija sar manuš valjani te ovel džikasaja, sar ko misal: da amen o roma na pučja dali te kerera kafe keda avela amenge gosto amen keraja i kafa. Ko roma isi stalno jek sahani hajbe pobut taro odova so valjani te kerel pes ako džiko alo sar gosto.
+
+Ker lafi e siklencar sar tano ki lende khere. O pobare sikle šaj te hramonen jek teksti e temaja *Agjehar keraja amen keda avena amenge gostija*.
+
+---
+
+## Klaseskoro aktiviteti 4 – Romano hajbe
+
+**Berša:** Sarine  
+**Čhibjakoro nivo:** A1, A2
+
+### Cilj akale aktiviteteske
+
+- O sikle valjani te džanen lafija bašo o sostojke so džana ko svako diveseskere thaj festengere habe.
+- O sikle valjani te džanen o lafija bašo o romane habe thaj ušimebukja.
+- O sikle valjani te džanen soske valjani te hal pes emiši thaj zelenipa.
+
+57
+
+--- Page 58 ---
+# Metodi thaj butikeribe
+
+Sikav jek slika taro emiši thaj ker lafi e siklencar sar akala emišija čhingarena pes. Hramon ki tabla e emišengere anava. Kote ola barjoana? Šaj sa o emišija te bajron akate ki Švedia?
+
+O potikne sikle šaj te crtinen o emiši thaj te hramonen o anav telo plo crtimo emiši. O pobare sikle šaj te hramonen e emišeskoro anav thaj te čhiven ole andre ki jek tikni lafjori. Ker akaja isto buti sar akate upre hem e zelenipaja.
+
+*De anav, crtin, hramon!*
+
+Ponodori keren lafi tumen safe emišija thaj zelenipa so o sikle mangena thaj soske o zelenipa hem o emiši tane saste te hal pes.
+
+O sikle valjani isto agjehar te sikljon kola zelenipa so džana ko specijalna romane habe. Akava šaj te kerel pes ko pobut čhanija.
+
+O sikle šaj te vakeren so ola mangena te han khere svako dive thaj keda tane baredive hem bijava. Kova habe tano tipično romano? Dali lena ola da than ko keribe habe hem ušnibe khere? O sikle šaj ki jek butikeriba te keren diso ednostavno habe ili te ušnen jek kolači. Akate šaj hem o daja/dada te heminen pes. O sikavibe astarela odova so o siklo opisini so ov/oj kergja, save sostarkeribe manuš istemalkergja thaj te de te probinen jek tikno kotor.
+
+O pobare sikle šaj te hramonen avri plo recepti. O daja/dada šaj te aven ko sikljovne grupe thaj te vakeren bašo odova habe. Ko misal da akaja gurabija keraja samo keda tano disavo barodive sar ko misal božiko.
+
+## Gramatika
+
+Akate tano aktuelno da sistematski te bajrare e siklengoro lafikhedibe ked vakeripes taro habe thaj phibe ko sol duj bajrarde čhanija - emiši, zelenipa, anav taro emiši, borovinke, thaj panda javera hem sar kerutni soj phanli e hajbaskere kinubaja, hajbaskere keribaja thaj hajbe.
+
+---
+
+# Klaseskoro aktiviteti 5 – Amen keraja jek romano habe
+
+**Berša:** 6-9 berša  
+**Čhibjakoro nivo:** B1, B2
+
+## Cilj akale aktiviteteske
+
+- O sikle šaj te keren jek romano habe ja te ušnen jek gurabija.
+- O sikle šaj te irankeren jek recepti thaj te merinen o sostarkeribe.
+
+## Metodi thaj butikeribe
+
+Akale aktiviteteske valjani te ovel tut isibe ko jek keravin. Puč e škola ako šaj te len e keravinakiri kamra. Čhingar jeke romane daja, dade, baba, papo ki akaja lekcija.
+
+O romano habe but var kerela pes oseteja - hari lond ko naja akate thaj jek pherdo vast pirindži odori! E siklengiri buti tani te keren jek romano habe ja gurabija ko vakeribe e sikavneja thaj e dajaja/dadeja. O sikle isto valjani te hramonen o recepti da bi ponodori te keren o habe korkori ple familijake.
+
+Ama šaj manuš te kerel odova hari popharo. Tu šaj te vakere e siklenge te merinen kobor tano odova pherdo vast pirindži ko decilitre. Kobor tano odova lond ko naja thaj panda ponodori. Hem agjehar o sikle ka džanen ponodori da jek pherdo vast pirndži tano othe džigde 1 dl hem ko naja hari lond tano odobor hari da manuš valjani te probini da te džanel dali londalo sar so valjani te ovel!
+
+58
+
+--- Page 59 ---
+# Romani spanakoskiričorba
+
+- sostarkeribe
+- 2 khanja cela
+- 1 kotor pušimo balano
+- Lond, biberi, španskobiberi šukardo ja kerdo sar šut
+- Lološut 1 bari roj
+- ½ tuba patidžanengoro pire
+- 2 navijapirindži
+- 1 kg taze spanako ili ½ kg smrznomo spanako
+- Šargarepa palo ukus
+- Kompiri palo ukus
+- Ko keriba e čorbakoro valjani varo thaj margarini
+
+Da bi te džane o čačutno isibe e kerbaskoro valjani manuš te ovel ole šukar jakhakoro merinibe thaj huj te kerel asavke čorbe. Pher pajneja da te učharel sa o sostarkeribe thaj dopher hari po hari ponodori! Agjehar šaj jek romano recepti te ovel. A tu muk te silken te hramonen po specijalno recepti.
+
+*Gudlo neka ovel tumaro hajbe!*
+
+59
+
+--- Page 60 ---
+# TEMA 9 – VAKTI, BERŠERSKERE VAKTIJA HEM VREME
+
+I centralno sodržina ki akaja tema tano te vazda anglal odova so o roma kergje hem kerena telo različna beršeskere vaktija. Keda o roma avri hem džana ko drumo/ kerena buti?
+
+Kova masek džana ola ko drumo hem kova masek avena peske khere? Ja pale valjani manuš te dživdinel ko jek than thaj ma te džal ko drumo pobut? Sar tano odova maškar o javera romane grupe ki Švedia hem ko javera phuvja?
+
+O sikle valjani te džanen akava e vakteja, te dikhen o vakti keda džala pe ki škola, te džanen keda tano o vakti bašo o različna aktivitetija. Ola valjani thaj te džanen o romane lafija bašo e diveskere kotora (sabalje, ko dive, rakjate), e kurkeskere dive hem e masekongere anava.
+
+Jek kotor taro vakteskoro haljojbe isi ko javera teme (dikh tele). Akate isto šaj te ovel aktuelno te kerel pe lafi bašo save šeja valjani manušeske telo različna beršeskere vaktija hem ked i različno vreme.
+
+## Dikh thaj: Tema 4 – Romane zanatija thaj bukja – Akate kerela pes o avutno hem o anglutno vakti, Tema 5 – Bare divesa thaj feste – Kalendari hem o datum, Tema 6 – I Škola – O sahati hem o vakti.
+
+### Cilj bašo sa o sikle
+
+- O sikle džanena odola romane lafij soj kurkeskere dive, masekija hem diveskere kotora.
+- O sikle džanena lafija soj phanle e vakteja, sahatеja hem o vreme.
+- O sikle pendžarena so o roma kerena akana hem so kergje angleder telo različna beršeskere vaktija.
+
+### Penžarkeribe
+
+Da bi o sikle te haljoven akava e beršeskere vaktencar šaj tu te avgokere odoleja so ka puče keda o sikle pherena berš. Odole dževapestar tu ka dža ponodori odoleja so ka puče bašo odova soj tano šudro ja pale tato tegani avri? Tano odova nilaj ja jevend? Palo odova hramonena ola odola različna masekongere anava ki tabla hem hulavena ko kotora palo o beršeskere vaktija. Palo odova šaj sarine te vakeren ko savo masek ola pherena berš.
+
+Jek javer jekčhanutnipe tano te dikhe tao džamni e klaseskoro avri hem te puče e siklen sar i o vakti avdive. Dela peske iv? Oja! Hem tegani isi tut o lafi šudro hem jevend. Ja o iv počmini te mukhljol hem o kham takjarela? Oja, hem tegani tano o anglonilaj ko avibe!
+
+Akava tano jekhajek e sikljojbaja neve lafija ko odova so o siklo dikhela hem šajda te osetinel da odova, hem kerela da e siklengoro godi dejbe o lafija ovela pošukar.
+
+Palo odova tano normalno te džalpes pondori hem te kerel pes lafi bašo save šeja manuš istemalkerela keda isi iv avri ja pale so manuš ka uravel pes keda tano o vakti badalo hem dela bršim tha. Hem ko maškar taro jevend šaj o sikle te gndinen save sane šeja ola istemalkerena ko nilaj! Vaker isto agjehar e siklenge sar e romengoro džajbe ko drumo tano phanlo e beršengere vaktencar. Le hem vazde o različna baredive so o sikle ka phanden ko različna beršeskere vaktia. (Isto agjehar isi asavke baredive sar ko misal o ramazani so phirela taro berš dži ko berš. A o veligdani so isto agjehar phirela ama svako var perela ko anglonilaj).
+
+60
+
+--- Page 61 ---
+# Klaseskoro aktiviteti 1 – Beršeskere vaktija hem masekija thaj save šeja istemalkeraja telo različna beršeskere vaktija.
+
+**Berša:** Sarine  
+**Čhibjakoronivo:** A1, A2
+
+## Cilj akale aktiviteteske
+
+- O siklo džanela o lafija bašo o beršeskere vaktija, masekija hem e kurkeskere dive ko romane.
+- O sikle džanena save šeja manuš istemalkerela hem džanena o lafija bašo o različna kotora šeja.
+
+## Metodi thaj butikeribe
+
+Ulav i tabla ko štar kvadratija. Ker jek niče e masekongere anavencar. Ker lafi e siklencar bašo odova sar tano o vakti ko misal telo anglojevend. Hramon ko odola različna kvadratija o naslovija jevend, anglonilaj, nilaj hem anglojevend. Dža ponodori hem ker lafi e siklencar sar tano o vakti keda ko misal tano anglojevend ja pale nilaj. Palo odova drabaren e masekongere anava barabar. Puč e siklen ko savo beršeskoro kvadrati ola gndinena da o masekija pasuinena. Hem hramon o čačutno masek ko čačutno kvadrati!
+
+Dža ponodori akana e lafikeribaja e siklencar bašo save šeja tane šukar te istemalkeren k.mi. keda tano o nilaj. - de predlog! Balalimortik ? Na? Nangjojbaskere šeja? Ja? Čikarije (čizme)?.... Akale treniribaja šaj tu te dža thaj palo odova ka dikhe e siklengoro lafidžandipa ked kerela pes lafi taro šeja.
+
+O potikne čhave šaj te crtinen jek thaneskiri slika sar odori keda nilaj. Tu ka de arka e siklen te pheren o anav taro e beršeskorovakti. E sikle šaj te de olen khereskiributi te crtinen jekhale slike bašo okola javera beršeskere vaktija. Ked o siklo ka ovel ole ple slike tegani šaj oj/ov te sikavi vasteja ko kova beršeskorovakti ola pherena berš.
+
+I ponodorikani uštavin tani te crtinel pes jek baro cirklo ko jek ljil hem ulav ole ko 12 kotora. Vaker e siklenge da ko jek berš isi dešuduj masek hem sako maseko isi ole plo anav. O sikavno pherela o anava e masekongere ko cirklo. O sikle šaj isto te keren asavke cirklija ko ple ljila thaj te pheren e masekongere anava ko čačutno redo (niče). A soske avgokerela o berš e masekoja januari? Odova na pasuini beršeskerevaktencar? Hem keda avgokerela hem agorkerela e školakoroberš? E beršeskere vaktia na perena isto ko različna phuvja.  
+A o masekija avena stalno ko isto niče!
+
+---
+
+# Klaseskoro aktiviteti 2 – Treniribe e vakteskere haljojbaja
+
+**Berša:** Sarine  
+**Čhibjakoronivo:** A1, A2
+
+## Cilj akale aktiviteteske
+
+- O sikle džanena o lafija bašo o sahati hem e vakteskere haljojba ko romane.
+
+## Metodi thaj butikeribe
+
+Da bi te dikhe so o sikle džanena bašo o sahati hem e vakteskere haljojba šaj tu te avgokere jekčhanutne treniribaja soj tane šukar sa e siklenge ko sa o berša.  
+Matriali: šelo, štipalke hem ljileskere kotora lafencar so o sikle ka keren olencar buti.
+
+61
+
+--- Page 62 ---
+Akala tane o lafija:
+
+avdie, tajsa, erati, prederati  
+akana, palo jek momenti,  
+sigate, akana pana hari, palo odova,  
+tegani, itočka, but angleder, stalno, sakana, disavo var, ...
+
+Cide jek šelo ko jek duvari ko tlo klasi.
+
+De e siklen o ljila odole različna vakteskere haljojba. Vaker e siklenge te drabaren odova soj hramomo ko ljil. E potikne siklenge drabari o sikavno so othe tergjola. Muk e siklen te čhiven e ljilesker kotora ko šelo kote so ola gndinena da tano olengoro than. Akana šaj manuš te dikhel sar o sikle haljona o vakti hem manuš šaj te dikhel kola lafija o sikle pendžarena ja pale džanena. Akava treniribe šaj te kerel pes ko različna pharipa.
+
+Akava tano jek kheliba so manuš šaj te istemalkerele da bi te sikavel e siklen te ceninen so šaj manuš te resel te kerel telo jek disavo vakti. De e siklen te keren različna bukja (kmi. ikav avri ko tlo astali jek modro lil, te crtin jek loli luludi, len jek levo menija, phraven o džami, te pheren jek tahtaj pajneja...) telo jek vakti ko misal trin minutija. Akate šaj o sikle te nakhaven pes jek jekheja hem te merinen o vakti jeke sahateja. Koj lelja hem reslja pobut butikeribaja?
+
+## Klaseskoro aktiviteti 3:1 - Sahati
+
+**Berša:** 6-9 berš  
+**Čhibjakoronivo:** A1, A2
+
+### Cilj akale aktiviteteske
+
+- O sikle džanena o sahati hem odola lafija ko romane soj tane ko phanlipe e vakteja.
+
+### Metodi thaj butikeribe
+
+Ker lafi e siklencar bašo o sahati. Dali tano odova važno e vakteja? Soske? Puč e siklen keda ola uštena taro sojbe. Keda ola džana te pašljon peske? Keda avgokerela e školakoro dive? Haljovena ola pli šema?
+
+Dža ponodori e lafikeribaja odoleja so ka kere lafi bašo o različna sahatija. Puč e siklen pendžarenali sar o avgo sahati sine. Vaker e siklenge te geinen o različna sahatija: khameskoro sahati, uštibaskoro sahati, sumnakajeskoro sahati tha. Dikh dali o sikle džanena o sahati. Istemalker jek jekhčhanutno treniribaskoro sahati.
+
+Vaker bašo o skazalke, e sahateskiri tabla, dža ko odova soj celo sahati hem ekvaš sahati, jek kvartali ko hem jek kvartali dži ko, minutija hem sekunde. O sikle so džanena o sahati džala akava sikavibe avri odoleja so ka dikhen da ola džanena o haljojbe ko romane.
+
+## Klaseskoro aktiviteti 3:2 – Sahati
+
+**Berša:** 10-14 berš  
+**Čhibjakoronivo:** A1, A2
+
+### Cilj akale aktiviteteske
+
+- O sikle džanena o sahati hem odola lafija ko romane soj tane ko phanlipe e vakteja.
+
+62
+
+--- Page 63 ---
+# Metodi thaj butikeribe
+
+Avgoker sar so kergjan ko odova čhani e potine siklencar. Ker lafi e siklencar taro sahati. Dali tano odova važno e vakteja? Soske? Ker lafi bašo odova keda ola uštena, keda ola džana te pašljon peske?
+
+Dža ko odova e vakteskere haljojbaja soj jekhajek e školakere divea hem e siklengere šemaja. Keda avgokerena ola ko pandžtodi? Keda isi olen romane? Keda tano o maškardiveskoro hajbe ko dujtodi?
+
+Muk e siklen te vakeren – crtinen različna sahatija. Sar funkcirinela jek khameskoro sati, sar funkcirinela jeke ariskoro sahati? Tano e školakoro erzi so erzini jek sahati?
+
+Akala sikle akate džanena o sahati. Ama ola valjani te trenirinen o romane lafija. Tu te dža tari jek programakiri tabla ko jek partin te dikhen i tv-programa. Puč e siklen kmi. Keda avgokerelela o Bondfilmi erat? Keda agorkerena o haberija e diveskere? So isi ki programa ko 19.15? Sar šaj manuš te vakeri akava ko javer čhani? Dešupandž minutija ko efta erat!
+
+---
+
+# Klaseskoro aktiviteti 4 – Sar amen haljovaja o vakti ko romano niče
+
+**Berša:** Sarine  
+**Čhibjakoronivo:** A2, B1, B2
+
+## Cilj akale aktiviteteske
+
+- O sikle pendžarena so o roma kerena akana hem so kergje angleder telo različna beršeskere vaktija.
+
+## Metodi thaj butikeribe
+
+Ker lafi e siklencar so ola valjani te keren telo e diveskere javera vaktija. Keda ola uštena taro sojbe hem keda avgokerela e školakoro dive? Kova vakti isi olen dajakere čhibjakoro sikavibe. Kova vakti ola džana te pašljon peske. Akate šaj manuš te vakeri bašo o romane hadetija keda kerela pes lafi sar istemalkeraja o vakti. - Džana o sikle te pašljon peske ked avena olenge khere gostija? Keda tane ko disavo bijav ja festa ačhona ola odori hem ako tano o sahati but (kasno)? Thaj te ovel da školakoro dive o tajsutno dive? Akate varirinena o phirnipa ko različna romane familije. Keren lafi hem jekhakeren maškar olende?
+
+O pomodori džajbe tano te jekhakere sar tano odova maškar o roma akana hem sar sine odova angleder ko angluno vakti. Tu šaj te avgokere akava kotor odojeja so ka vikine te avel disavo pophuro manuš hem te šaj te vakerel sar sine angleder. Tumen šaj te drabaren jek teksti soj tano bašo odova sar o roma dživdinena sine ko logorija. Ja pale de e siklen jek butikeribe kote so ka pučen disave pophure jeri ki pli familija so šaj te vakerel sar sine angleder. Muk e siklen te den raporti bašo odova so ola siklile hem te jekhakeren odojea sar i avdive.
+
+Keda manuš dživdingja ko logorija uštela pes sine but rano da bi resena sine pe bukjencar dži kote sine diveskoro avri (svetlo). Na sine struja ko logori.
+
+Šajda bešela sine manuš disavo vakti ki rat hem vakerena sine paramisa paše dži e logoreskiri jag ali ko principi džana sine sarine but rano ko sojbe - da bi te ušten anglo o bašno!
+
+- A sar sine odova thaj maškar javera manuša angleder?
+
+Savo diveskoro ritmo sine manuše ko jek gaveskorokher anglo te avel o elekticiteti, radio hem o teve?
+
+63
+
+--- Page 64 ---
+Avdive hasa sarine o maškardiveskoro hajbe but po kasno hem isi amen različna rakjakere aktivitetija hem o feste so isi amen tane stalno rakjate. Da amen dživdinaja palo o sahati anela isto agjehare stersi. Ker lafi bašo akava e siklencar! Ama svakako isi panda asavko specijalno huj maškar o roma? Pendžarena o sikle odova romano "kvartali" - so šaj te ovel sa taro pandž minutija dži ko jek sahati ja pale panda pobut?
+
+64
+
+--- Page 65 ---
+# TEMA 10 – I NATURA HEM O DŽANVARIJA
+
+Ki akaja tema vazdaja amen anglal o phandibe maškar e romengoro dživdipe hem i natura hem o džanvaria anglder hem akana. Amen laja thaj upre sar o džanvarija dživdinena ko tromalipe (ki sloboda) respektivno sar khereskere džanvarija. Amen valjani isto agjehar te sikava sar amen ka respektirina e naturakere kanunija taro jek romnai perspektiva (dikhiba).
+
+Ki akaja tema isi šajdipa ko keribe lafi, palorodikeriba ko lila hem ko Internet te rodel pes fakta bašo o historikano thav maškar disave romane grupe thaj disave džanvaria sar ko misal: treniribe grasten, cirkus isto agjehar vasteskere bukja thaj keriba soj tane phanle akale temaja.
+
+Pobut siklen naje olen nisave lengere phiripa taro o tradicije soj tane phanle treniribaja ričinen (mečken) hem sar o roma phirena ple cirkuseja. Akale siklenge šaj akaja tema te del olen saste neve džandipa. But sikle isi olen džandipa bašo e romengiri phanlipe e grastencar.
+
+Akale siklenge šaj o lafikeribe bašo o grasta te ovel jek šukar khujbe ki tema.
+
+**Dikh thaj:** Tema 4 - Romane zanatija thaj bukja hem Tema 7 - Transpotija hem džajbe ko drumo.
+
+## Cilj sarinenge
+
+- O sikle džanena o anava taro disave diva džanvarengere respektivno pitomo džanvari hem džanena o čhani olengere dživdipaskoro.
+- O sikle isi olen džandipa taro historikano phanlipa maškar disave romane bukja keriba hem o džanvarija.
+- E siklen isi olen džandipa bašo romane sikavkhelibe ked odova vakerela pes taro disave džanvarija thaj phakša hem čarjakiri medicina.
+
+## Penžarkeribe
+
+Tu šaj te avgokere odolea so ka vakere taro pitoma thaj odola diva džanvarija. Akava šaj te kere tu odoleja so ka sikave disave slike taro džanvarija thaj ka mukhe e siklen te vakeren bašo odova so ola džanena taro džanvari so dikhena. Tumen šaj te vakeren bašo sar o džanvari dživdinela, so hala thaj save tane oleskere savotanipe. O neve lafija ka hramone ki tabla thaj o sikle ka hramonen ko ple notarina so ka ovel ovenge lafikedibaskere.
+
+Jek javer čhani tano te avgokere odoleja so ka šunen barbar jek snimimi romani paramis. Asavke isi ko pobut dialektia tari romani čhib ko Utbildningsradion (UR) hem ko Švedikano Radio. Pobut paramisa ko arlisko isi ko webthan Romano - Arli Čhibjakoro Centro hem odori isi thaj predlog bašo save bukja kerena pes e paramisencar.
+
+O sikle istemalkerena hem mangen odova tano sar stimuliriba te šune jek paramis hem ko odova čhani trenirinela pe plo šunibaskoro haljojbe.
+
+Ka ovek but interesnantno ako tu leja kontakti disave romencar so kerge buti e džanvarengere krotkulukoja ja pelen ako kergje buti ko cirkus. Ja šaj palem džikasa so kerela buti grastencar? Ki akaja tema tano specialno interseno te šaj te meninen informacija maškar roma so isi olen phirnipe taro javera phuvja hem tradicije.
+
+## Klaseskoro aktiviteti 1 - Pitoma hem diva džanvarija
+
+**Berša:** 6-9 berš  
+**Čhibjakoronivo:** A1, A2
+
+65
+
+--- Page 66 ---
+# Cilj akale aktiviteteske
+
+- O sikle džanena o obična anava taro pitoma hem diva džanvrija.
+- O sikle šaj te den dževapi hem te čhiven jekčhanikane pučiba bašo akala džanvarija hem bašo e naturakoro značaj maškar o roma.
+- O sikle džanena o anava odole džanvarengoro so brukar te phanden pes e romane grupencar taro različna phuvja.
+- E siklen isi olen pendžaribe bašo sar jek disavi romani grupa dživdinela thaj kerela buti e džanvarencar angleder hem sar kerela akana.
+
+## Metodi thaj butikeribe
+
+Za te sikave odola lafija taro aktuelno džanvari šaj te sikave slike hem te puče e siklen dali ola džanena sar o džanvari čhingarela pes ko romane ja palem ko švedikane (ja pale javer čhib so o sikle džanena). Hramon o lafija ki tabla. Ko akava akate čhibjakoro nivo tano šukar te hramonen pes o lafija ko solduj čhibja. Drabaren o lafija barabar hem repetirinen!
+
+Slike taro džanvarija isi ko sikljojbaskere ljila hem ko Internet. Ja pale šaj tu korkori te crtine? Tu šaj thja te sikave jek slika pobut džanvarencar sar ko misal jek gavutnokher ja pale i veš. Muk e siklen te vakeren so ola dikhena thaj te hramonen o anava taro o razna džanvarija.
+
+Tu šaj iso hem te sistematizirine tlo pučiba odoleja so ka puče:
+
+- Akava tano jek gras. Sar akharena pe e grasteskere čhave?
+- Sar akharela pe e bakhreskiri daj? Ja pale - Sar akharena pe e khanjakere čhave? Sar akharena pe e džukeleskere tikne čhave?
+
+Palo odova o sikle ka aluinen peske jek džanvari bašo so ola ka roden jekhčhanutni fakta. Tu šaj te de arka e siklen odoleja so ka delen disave pučiba kolende ola ka den dževapi:
+
+- Sar akharaja amen e džanvare ke grasteskeri familija?
+- Kote ola dživdinena? So ola hana? Sar ola dena vika?
+- Sar akharaja amen odova keda o grasta prastana?
+- Pendžareja džikas so isi ole jek gras?
+
+Tu šaj te objasnine soske o gras tano but važno simboli e romenge so ikile tari Indija. O gras tano ko amare paramisa hem ko asavko jekhalo šaj o sikle te keren buti javere džanvarencar.
+
+Isi li amen džanvaria soj phanle različna savotanipe? Lisce? Ričina? Ruva?
+
+---
+
+# Klaseskoro aktiviteti 2 – Vaker jek tli džanvarengiri paramis
+
+**Berša:** 6-9 berš  
+**Čhibjakoronivo:** A2, B1
+
+## Metodi thaj butikeribe
+
+Šun ja pale drabar jek paramis kote so disavo džanvari isi ole bari rolja hem ker lafi tle siklencar bašo odova, ko misal: I Esma thaj olakiri lutka ja pale I lolešamiakiri čhaj hem o ruv. Puč ponodori jekčhanutne pučiba tari sodržina:
+
+- So kerela pes ki akaja paramis?
+- Kole džanvarencar ki veš kerela lafi i lutka?
+- Ki kaste ka džal i lolešamijakiri čhaj?
+
+Jek šukar čhani te aktivirine e siklen tano keda ka šunen i paramis te crtinen slike ko odova so ola šunena. Ponodori ka len o sikle e avgodžajbaja taro ple slike ko plo čhani ka vakeren i paramis hem odova so ola haljile olatar.
+
+66
+
+--- Page 67 ---
+O sikle so šaj hem džanena te hramonen ka kompletirinen ple slike jeke nasloveja ja pale jeke tikne teksteja. O sikle šaj isto agjehare te hramanone ki data ple tekstija hem te printinen olen. Akava tano but kučakerdo taro čhave soske dikhjola but “šukar” keda prinitinea ole! I javer uštavin tani o sikle te arakhen korkori ola disavi džanvarengiri paramis – soj slikencar hem tekstencar so ola ka vakeren ja pale ka drabaren anglo plo klasi. O paramisa e siklengere ka kerenpes thaj ka kheden pes ki Bukjakiri mapa.
+
+## Klaseskoro aktiviteti 3 – O džanvari ki natura hem ko romane paramisa
+
+**Berša:** 9-12 berš  
+**Čhibjakoronivo:** A2, B1
+
+### Cilj akale aktiviteteske
+
+- O sikle haljovena o šerutnopoeni keda o sikavno prezentirinela jek tema kote soj hemimi hem i natura hem haljola tikne tekstija bašo o džanvarija hem i natura so isi olen sakodiveskere thaj but šukar pendžarde lafija.
+- O sikle šaj te čhiven pušiba e phopure manušenge ki pli romani grupa bašo savi rolja khelela sine o džanvari ke romengoro dživdipe angleder hem sar tani avdije.
+- O siklo šaj te palevakerel jek vakeribe so ola šunge džikastar ki pli familija ja pale džikastar javerestar tari pli romani grupa.
+
+### Metodi thaj butikeribe
+
+Avgoker akava aktiviteti odoleja so ka mukhe e siklen te vakeren ple predlogia lafendar soj tane phanle e sodržinaja ko odoja faktateksti ja pale paramis kolaja tu mangeja o sikle te keren buti. Pher panda lafencar so tu gndineja o sikle valjani te džanen olen da bi te keren pli buti ponodori ko akava aktiviteti.
+
+Drabar barabar olencar faktateksti bašo o džanvari ki natura thaj muk e siklen te vakeren ple lafencar ko plo čhani. Tu šaj te de olen arka odoleja so ka delen pučiba sar soj: - Soj tano odova soj tano but šukar akale džanvarenge? Kote ola dživdinena? So hana ola? Kola tane olengere dušmanija ki natura?
+
+I javer uštavin tani te keren jek romani paramis. Avgoker odova so ka puče e siklen dali ola džanena disavi romani paramis kote so disavo džanvari isi ole bari rolja. Drabar jek džanvarengiri paramis hem keren lafi tari i sodržina. – Savi rolja isi e džanvare ko romane paramisa hem ko romano dživdipe?
+
+### Khereskiributi
+
+O sikle ka pučen ple dajen/daden ja pale e pophure jeri bašo save džanvarengere paramisa ola pendžarena hem kola džanvaria tane so avena ko akala paramisa.
+
+O sikle dena raporti bašo akava ko klasi thaj jekhakerena kola džanvarija avena majbut ko paramisa.
+
+## Klaseskoro aktiviteti 4 – Khede fakta bašo jek džanvari
+
+**Berša:** 9-12 berš  
+**Čhibjakoronivo:** A1, A2
+
+### Cilj akale aktiviteteske
+
+- O sikle ka roden fakta ko ljila hem ko Internet bašo o džanvarija thaj oleskere dživdipaskere uslovija.
+
+67
+
+--- Page 68 ---
+- O siklo šaj te del raporti bašo akaja fakta odolea so ka kerel jek prezentacija taro slike hem teksti.
+
+## Metodi thaj butikeribe
+
+Ko but paramisa o džanvarija kerena lafi thaj ikljona but različna savotanipe. O sikavibe akalea tano te sikavi pe so odova so vakeri i paramis tano važno - thaj odova naje ko čačutno sar jek džanvari tano ko čačipe. Naje but fakta tekstija ko romane bašo o džanvarija, ama diso šaj te arakhen ko Internet ja pale šaj o sikle te len taro švedikane sikljojbaskere lila hem te iranen ki pli romani čhib ple agorphandipa.
+
+Jek javer čhani te sikljove bašo džanvari tano o sikle te keren buti duj po duj hem te kheden fakta hem te den raporti bašo odova ko slike hem tekstija, ja šajda ki forma jek tikni notarin te keren.
+
+Odova tano but obično da o sikle kerena buti e gaveskerekhereja ko ple obična klasija. But i tano pozitivno ako o sikle kerena odova ki ple dajakiri čhib da. Dža odolestar so ka sikave jek slika taro e gaveskorokher hem mukh e siklen te roden fakta hem te vakeren jeke teksteja hem slikencar bašo akala džanvarija. Akate tano normalno te naznačine odoja rolja so e graste sine e romencar hem so panda isi ole ko pobut phuvja.
+
+O sikle šaj isto te roden (istražinen) bašo javerada džanvarija hem te den raporti bašo akava ko slike hem teksti. Tu šaj te de arka e siklen da ola te aven ko avgokeriba odoleja so ka de olen disave pučiba:
+
+- Sar izgledini o džanvari?
+- Kobor baro šaj ov te ovel?
+- Kote dživdinena hem so ola hana?
+- Kobor but čhave šaj te ovel ole hem kobor var?
+- Kobor phuro šaj te ovel? So tu gndinea da tano interesno akale džanvareja?
+
+## Klaseskoro aktiviteti 5 – Džanvari hem i natura ko romano agorphandipa
+
+**Berša:** 13-16 berš  
+**Čhibjakoronivo:** B1, B2
+
+### Cilj akale aktiviteteske
+
+- O sikle haljovena tekstija so ko jek pravo čhani kerela pes bašo o phandipe maškar o javera phakša hem džanvarija ko romane haljojba hem uveribe.
+- O sikle pendžarena odola romane zanatija hem bukja so astarena e džanvaren.
+- O sikle šaj te den raporti sar jek džanvari tano važno kotor ke romane dživdipaskoro angleder hem te objasnini o bukja keribe sar ko misal džanvarengoro treniribe, grastengoro krotkibe, kazandžije, čajrengrimedicina.
+
+### Metodi thaj butikeribe
+
+O cilji tano o sikle te sikljon bašo o javer javer džanvarija ki jek romani perspektiva (romanipe). Ko akava nivo o sikle džanena o anava odole sakodiveskere džanvarengoro soj tane aktuelna ko romano niče. Ali tu šaj te avgokere akava aktiviteti odoleja so ka mukhe e siklen te den raporti taro odova so ola džanena bašo odola džanvarija so tumen ka keren olencar buti ki akaja tema. Ako tu dikhea da o sikle tane nesigurna upri peste, šaj ola te roden fakta ko ljila hem ko Internet. Ola šaj thaj te pučen ple kherutnen bašo kola
+
+68
+
+--- Page 69 ---
+džanvarija so ola gndinena tane ko niče e romane dživdipaskere čhaneja hem tradicijencar.
+
+I buti akava var ka ovel o romano buti keriba soj phanlo e džanvarencar. Palo jek pendžakeribe kote tu ka de raporti tari odoja romani tradicionalno butikeriba sar ko misal džanvarengoro treniribe hem grastengoro bikibe hem o övertygelser so astarena phakša hem džanvari baši i bah, nesreča, sar lafi ingaldžija. O sikle ka alunen jek džanvari so ola mangena te džanen pobut. Ola šaj te keren buti korkori ja pale duj po duj hem ka roden informacije ko javer javer hramome izvorija. Ola šaj isto agjehare te intervirinen ple kherutnen hem javere phuren bašo olengoro phirnipe e džanvarencar.
+
+O dejbe raporti ka ovel hramomo. Ko akava nivo o sikle valjani te keren agorphandipa taro o fakta tekstija ple lafencar korkori. Avgo so valjani te keren o sikle tano te hramonen ple raportija tano šukar da te dikhel pe panda jek var ki grupa sar jek asavko ka ljel pes.
+
+E siklenge ka vakere ma te len asavke lafia hem haljojba so ola na haljovena šukar. Ko odova than valjani ola te arakhen so odova tano ko leksikoni ja te pučen e sikavne ov te vakeri olenge soj odova. Odoleske tano šukar te kerel pe jek sodržina hem isto agjehar jek vakere taro kova izvor tu leljan odova hem kastar. Isi jek lista kote soj tane sa o lila, patra hem Internet riga kotar so ola šaj te len pli fakta. Te šaj te kere jek asavki dispozicija (planiribe) isi e siklen hairi odothar ko but niče. Avgo te ovel vakti te del pes o sasto raporti, šaj tu te vakere e siklenge te oceninen ole. Gndineja kaj akaja buti keriba sine tuke interesno ja na sine. Sine li lokho te arakhe tlo matrijali? Reslja tut li o vakti so isne tut? Mangeja li te kere buti ponodori ko asavko čhani?
+
+## Javera butikeriba
+
+E naturakiri tema tani jek šukrikerutno than. Javera bukjakere keriba šaj te oven:
+
+- O sikle te roden kola tane odola najbare respektivno najtikne džanvarija. Ola ka kheden.
+- So pobut šaj fakta so šaj te arakhel pe bašo kobot bare tane, kote ola dživdinena, so ola hana thaj tha.
+- Isi but uttryck soj ko niče e džanvareja, ko misal “džando sar jek ruv”, “krotko sar jek čermuso”. Kova vakeriba pendžarena o sikle?
+- E siklen ka delen godi bašo o paramisa so ola šunge ja pale drabarge sar tikne. Sine džanvarija ko odola paramisa?
+- O sikle šaj te rodkeren so ulo keda sine naturakere katastrofe sar ko misal zerzeli (zemjotres) ja pale poplave.
+
+O dejbe raporti šaj te na ovel jek šaj te ovel ko but čhanija. Sikle so džanena te keren buti kompjutereja brukar gndinena da tano interesno te kerelpes PowerPoint prezentacije. Ko than odoleske te kerel pe jek hramomo dejbe raporti, šaj o sikle te kheden ple raportija hem te keren akala ko niče jek fakatoro ljil bašo o džanvarija.
+
+Thaj akava tano šukar te sikavel pes sar raporti anglo o daja/dada!
+
+69
+
+--- Page 70 ---
+# TEMA 11 – MUKLE VAKTESKOROINTERES HEM I KULTURA
+
+Akaja tema astarela e siklengoro interes bašo o muklovakti hem aktivitetija hem asavko diso soj e romane kulturaja ki jek forma sar muzika, khelibe, vakeribe, literatura hem javera forme soj vakeribaja filmi hem bukjakeribe. O sikle valjani te ovel olen šajdipe te len džandipe bašo pendžarde roma ko različna kategorije sar soj muzikantija, filmeskerečerena, crtačija hem sportistija.
+
+## Dikh thaj i: Tema 4 - Romane zanatia thaj bukja
+
+### Cilj bašo sa o sikle
+
+- O sikle isi olen bajrardo o interes bašo o slobodnovakti so dela jek prilika ko barbaripe hem šajdipe ko plo korkoripe te kere odova.
+- O sikle zoralkerge plo identiteti dikhibaja ple romane primerija.
+- E siklen isi olen pendžaribe tari i romani kultura hem sar oj tani, thaj o kontakti e majoritetno sakhedipaja.
+- O sikle tane stimulirime te bajraren plo mukhlevakteskoro interes sar soj sporti, kheliba, muzika, jem javera bukja so dena jek prilika ko barabaripe hem šajdipe ko plo korkori keriba.
+- E sikklen isi olen džandipe bašo o phanlipe maškar o sastipe hem fizičko aktivnost.
+
+### Penžarkeribe
+
+Tu sar sikavno šaj te avgokere odojeja so ka ikave anglan disave pendžarde romen soj tane pendžarde ko različna thana sar soj muzika, filmi, sporti hem panda javera. Tu šaj te avgokere pučibaja e siklen pendžarena li ola disave pendžarde kulturakere manušen. Tu šaj korkori te vakere e pendžarde manušen sar kmi. Katarina hem Rosa Taikon, Esma Redžepova, Charlie Chaplin, Pablo Picasso hem Majka Teresa.
+
+O cilj akale lafikeribaja tano te vazde e siklengoro interes te roden ponodori hem te kheden podatke ple korkori bukjake bašo jek romano kulturakoro manuš.
+
+Ked kerela pes lafi taro mukhleaktivitetija šaj tu te avgokere odoleja so ka prezenitrine tle korkorutne interesija da bi avgokere jek lafikeriba e siklencar bašo olengoro.
+
+Avgoker odojea so ka de olen pučiba sar ko kmi. Savo sporti mangeja tu majbut?
+
+Isi tut disavo sporti tut korkori? Bašaveja disavo instrumenti? Sijan ki disavi khelibaskiri grupa?
+
+## Klaseskoro aktiviteti 1 – O phandibe maškar o sporti hem javer fizičko aktiviteti hem sastipe.
+
+**Berša:** Sarine  
+**Čhibjakoronivo:** A2, B1
+
+### Cilj akale aktiviteteske
+
+- E siklen isi olen džandipe bašo disave pendžarde sportistija.
+- E siklen isi olen džandipe bašo o phandipe maškar o sastipe hem fizičko aktiviteti.
+- O sikle zorarkerge plo identiteti sar roma.
+
+70
+
+--- Page 71 ---
+# Metodi thaj butikeribe
+
+Tumen šaj te avgokeren keribaja lafi soske tano vačno te džana amare romane sportisten hem te puča e siklen džanena li disaven. Tu šaj te avgokere odoleja so ka vakere bašo odova romano bokseri so sine sumnaleskoro šampioni ko lokho pharipaskoro pharipe ko 1930 berš.
+
+O Johan Trollman bijandilo 1907 hem mulo ko 9 februar 1943 ko germanikano koncentraciono logori.
+
+Ov sine rom taro germanikano nacionaliteti. Ov niked na garagja plo identiteti, ama ov džanela sine da o germancija na mangena sine jek rom te ovel aktivno ko disavo sporti.
+
+Ov lelja than ko but profesialikane bokseribaskere mariba hem ov sine 27 berš keda ov ko 12 runde pobedingja jek sumnaleskoro šampoinikano mači ko lokho pharipaskoroboksiribe. Odola so kerena sine odova mači protestiringe bašo oleste da ov te ovel pobedniko, a odola so dikhena sine o mači sine protiv o sudije hem zakaninena sine pes olenge. O germancija osetinge pes zorjakerde te priznainen da o Trollman pobedingja.
+
+Hem ako ov lelja than ko maribe tari e germanengiri rig hem sine khuvdo, bičhalge ole ko koncentaciono lageri kote so hem mudargjele ko 1943 - berš.
+
+O sikle šaj te arakhen pobut fakta ko Internet!
+
+## Različna sportia
+
+Jek javer čhani te avgokere akaja tema tano da tu te avgokere te de pučiba tle siklenge bašo o različna sportikane granke. Kola sportija džaneja tu? Kova sporti majbut mangeja? Isi li tut maj manglo fudbalerikano sportisti? -Tu šaj te vakere bašo tlo interes ko disavo storti. Ponodori šaj te aven ko phandibe jekhovibe bašo savo sporti so tumen mangena te sikljon pobut. Tumen ka kheden o lafia ki tabla kmi. - topka, khuvela i topka, gol, khelutno, kanunija, sudija tha. O potikne sikle šaj te crtinen jek crteži soj tano povrzimo barbar sar "mlo sporti". Okola javera sikle hramonena tikne lafjorja odole lafendar so tumen hramongen ki tabla.
+
+O futbali tano jek taro popopularna sportija. Ama sar tano odova maškar o čhaja? But romane čhaja khelena kheliba. Odova tano isto agjehare jek aktiviteti so dela šukar kondicija!
+
+Tu valjani isto ko akava niče te vakere soj o šukaripa odoleja so manuš dolela hem te sikavipe o phandiba maškar o sastipe hem o fizikano aktiviteti. Akate šaj manuš te vakeri bašo soj tano jek sasto hajbe. (Jekhaker e Temaja 8 - Hajbe hem šeja!)
+
+## Klaseskoro aktiviteti 2 – Muzika
+
+I muzika šungjola ko roma barabar sar ko sakodive agjehar hem ko feste bijava. I gili tani šundi hem prisutno ko roma sar ko lošalipe agjehar ko kalipe. Hem o kheliba tano jek predenost da jek bijav (festa) ka ovel jek bijav! O roma tane phirne te legaren ponodori ple muzikakere tradicije ko okola avutne generacije hem odoleske tani i muzika jek centralno sodržina ki akaja tema. (Jekhaker e Temaja 4 - Romane zanatija thaj bukja - Muzikantija!)
+
+Odova tano važno da tu te sikave ko savo čhani tani i muzika jek važno kotor taro e romengoro dživdipe. I muzika džala ko romanipe. Tu šaj isto agjehar te vakere da i muzika tani panda e romengiri zorali pendžaribaskiririg hem vaker da ki Centralikani - hem Istočnoevropa šaj maunš te šunel romani muzika skoro ko sa o restorantija hem koncertengerethana. Tu šaj te vazde anglal da isi jek
+
+71
+
+--- Page 72 ---
+specalikani romani grupa soj pendžardi sar "muzikakere roma" ki Istočnoevropa. Akale muzikakere romen isi olen učo hem respektirimo statusi ko sarinipaskoro than.
+
+**Berša:** Sarine  
+**Čhibjakoronivo:** Sarine
+
+### Cilj akale aktiviteteske
+
+- O sikle tane svesna baši e muzikakoro značaj ki romani kultura.
+- E siklen isi olen džandipe baši odova romano značenje ko kontakti e majortiteskere sarinipaskere thaneja.
+
+### Metodi thaj butikeribe
+
+O sikle šaj te šunen romani muzika so ola angje peja kheral. Tumen ka džan barabar ko giljengeretekstija hem tu ka vakere odola lafija so sarine na haljovena. Kerena lafi taro tekstija. So o sikle lele taro akala tekstija?
+
+### Palebutikeriba ko nivo A1 – A2:
+
+O sikle hramonena sa o neve lafija ko ple lafengiri notarin.  
+O sikle crtinena jek slika so ilustririni odova so i gili značini olenge.  
+O dejbe raporti ovela taro akala slike angli pli grupa.  
+O sikle lena arka taro sikavni/sikavno te vakeren o anava e različna instrumentengoro.
+
+### Palebutikeriba ko nivo B1:
+
+O sikle ka alunen te ilustririnen i gili ja pale te hramonen jek teksti bašo so i gili značini lake/leske.  
+O sikle šaj isto agjehare te alunen jek gili korkori hem te prezentirinen ola ki pli grupa hem te motivirinen soske ov/oj mangena baš odoja muzika.
+
+### Palebutikeriba ko nivo B2:
+
+O sikle khedna fakta hem kerena jek prezetnacija taro jek muzičari, muzikakiri grupa hem ilustririnena pli prezentacija odoleja so ka mukhen alunime kotora tari odoja muzika.
+
+O sikle valjani isto agjehar te motivirinen so ola gndinena bašo odoja muzika.
+
+---
+
+## Klaseskoro aktiviteti 3 – Mujeskoro vakeribe hem romani literatura
+
+**Berša:** Sarine  
+**Čhibjkoronivo:** Sarine
+
+### Cilj akale aktiviteteske
+
+- O sikle haljovena kobor tani važno odoja romani vakeribaskiri tradicija tani.
+- O sikle tane svesna baši soske tano odova akana važno te hramonel pe odola mujeskere vakeriba.
+- O sikle šaj te palevakeren disave romane paramisa.
+- O sikle sine ki jek biblioteka hem džanena da isi lila kote so kerela pes lafi baši o roma hem lila hramome ko romane kola ola šaj te len khere hem te drabaren.
+
+72
+
+--- Page 73 ---
+# Metodi thaj butikeribe
+
+## Mujeskoro vakeribe
+
+But romane čhave dživdinena ki jek stredina (maškaripe) - kote so e mujeskoro vakeribe tano jek kotor taro olengoro sakodive. Odova tano šajda aghehare so ola ni na gndinena odoleske.
+
+Jek čhani te pendžakere akava aktiviteti tano te kere lafi e siklencar taro paramisa hem vakeriba so šungjona khere, so o daja/dada ja pale o pophure vakergje olenge.
+
+Vaker e siklenge te gndinen soj odova so mangela te vakerel amenge i paramis?
+
+Isi li diso kmi. jek džanvari, jek ranik, ja pale diso javer so isi ko but paramisa? Keren lafi isto agjehare soske o roma sine samo jek vakeribaskoro narodo? Sar i tano avdive odova?
+
+Isi li amen potreba te čhiva ki godi sa o vakeriba ja pale ka avgokera sa odova so amen šungjem? Sar o javera majoritena manuša kergje.
+
+Olengere paramisa tane hramome ko ljila hem dende avrijal rode save šajdipa isi te lel pes isibe ko romane ljila hem purane slike so isi.
+
+Šajda isi disave daja/dade isibe ko disavo asavko matrijali? Ko Štokholm isi jek kotor arhivakoro matrijali ke Thagareskiri biblioteka. Isi li šajdipe te kerel pes jek studijakoro gosluko odori? Ko Romano Kulturako Centro ko Štokholm isi isto agjehare ljila hem javer uzbudljivo matrijali. Ko Malme isi Romano Kulturakocentro kote so isi jek historikani izložba hem jek biblioteka kola so isila jek paramisengiri kaba (soba).
+
+## Ljila hem biblioteka
+
+Ko romane khera nane skoro nisavi ljilengiri phal hem te isi tegani othe nane ljila numa isi ukrasija. Isi but vakeriba soske tano odova agjehar. Jek taro odola tano da but berša i romani čhib sine vakeribaskiri čhib. Vaker sar o roma phirena sine taro than ko javer than hem odoleja sine pharo te len ljila peja.
+
+Avdive isi amen jek nevo vakti angli amende. Odova tano jek normalno da o romane čhave šaj te džan ki biblioteka hem te len ljila thaj ko romane. Keren jek studijakoro gostluko tle siklencar hem šun save ljila isi odori ko romane. Avgoker e školakere bibliotekaja! Ako naje olen ljila ko romane ker olencar lafi te kinen pes asavke ljila!
+
+## O sikle vakerena hem hramonenav
+
+Jek javer čhani te khuve andre ki akaja tema tano palo o pendžakeriba e temaja te mukhe e siklen te vakeren ple paramisa ja pale ple dživdibaskere vakeriba. O pobut sikle istemalkerena te vakeren baši peste korkori. Ama tano važno odova isto agjehar da e bukjakoro pharipaskoro stepeni te kerel pes ko odova nivo e siklengere reslibaja hem čhibjakere phirnipaja.
+
+Odola tikne čhave so našti hramonena ola šaj te crtinen jek paramis.
+
+Palo odova ola ka vakeren ple sikavnjake/sikavneske koj isto dela arka e siklen te formulirinen tikne tekstija ko ple slike.
+
+O sikavne šaj isto agjehar te crtinen jekčhanutne simbolija kola ka šaj te keren jek arka e siklenge keda ola ka palevakeren pli paramis angli grupa.
+
+Jek javer čhani te ane te sikaven o sikle plo vakeribe tano te de olen jek slikengiri serija hem te mukhe olen te arakhen jek nevo dialog.
+
+## Različna vakeribaskerestilia
+
+Javer uštavin tani te sikave e siklen različna vakeribaskerestilija.
+
+Sar avgokerela manuš jek vakeriba so ka vazdel o interes e šunavalengoro ja pale e drabarengoro? Sar ikerela manuš o interes ko dživdipa? Sar kerela manuš jek šukar agorkeriba? - Akava akate sikljona o sikle najšukar odoleja so ka probinen te vakeren, but var! Jek šukar paramisvakerdžija na ovela manuš taro jek var!
+
+73
+
+--- Page 74 ---
+# Klaseskoro aktiviteti 4 – Khedaja informacija hem prezentirinaja jeke romane kulturake manuše
+
+**Berša:** 12-16 berš  
+**Čhibjakoronivo:** B1, B2
+
+## Cilj akale aktiviteteske
+
+- O sikle šaj te kheden fakta da bi te keren jek prezentacija taro jek kulturakoromanuš.
+- O sikle šaj te keren asavki jek prezentacija teksteja hem slikencar hem te sikaven jek romano primer.
+- E siklen isi olen džandipe baši i romani tradicionalno džanibe hem zanatija ki odoja phuv kote so dživdinena ja pale kotar so avena.
+
+## Metodi thaj butikeribe
+
+E siklen ko akava nivo isi olen phirnipe taro rodibe fakta hem prezentacija taro akava ko pobut čhanija. Telo akava aktiviteti šaj ola te kombirinen jek kotor te roden fakta bašo jek manuš hem oleskoro keribe buti hem te čhivel akava ko baro anglophandipa, sar akava keriba džala e romane tradicionalikane zanatencar hem bukjencar.
+
+Jek asavko manuš tani i rupunokovačka Rosa Taikon. Oj tani pendžardi but avrial tari pli romani grupa hem lakere nakitija isi ko Nationalikanomuzej ko Štokholm hem Röhrska muzej ko Geteborg. Bašo late šaj o sile te drabaren ko Katiciljila soske oj tani phen e Katarina Taikon hem oj sine inspiririmi taro keribaskorozanati ple dadestar so sine isto agjehar kovači.
+
+---
+
+# Klaseskoro aktiviteti 5 – Khedaja inspiracije hem hramonaja korkori diktija
+
+**Berša:** Sarine  
+**Čhibjakoronivo:** A2, B1, B2
+
+## Metodi thaj butikeribe
+
+Akava klaseskoro aktiviteti džala ponodoti odoleja so manuše isi ole šajdipe te džan gostija ko jek izložba nakiteskiri tari Rosa Taikon kote pakjaja sarinen naje. Numa amen ka iranamen ko odova pale, šajda tumen valjani te inspirinen pes odoleja te roden bašo te kerel pes jek asavki izložba ko tumaro foro. Ki javer situacija šaj tumen te ikaven tumenge akatar ideje ko diso so pasuini hem ako baši tumari džajbaskirinukta tani jek javer.
+
+Amen alem dži ko džandipe da ka ovel jek izložba nakiteja tari Rosa Taikon hem amen avgokergjem odoleja so ka la kobor šaj pobut fakta so šaj te arakha baši olate hem olakoro kheribe. Oj tani ko sa o Katiciljila hem ko akala ljila lela manuš jek šajdipe te le džandipe ko odova romano dživdipe kote so olakoro dat sine zanaetčija. I Rosa siklili but bukja taro plo dat. Lakere nakitija tane romane inspiracijaja tari Indija hem Persija.
+
+Ponodori i uštavin ka ovel te misafirkeren izložbe hem akate sine e siklen buti te studirinen olakere nakitija hem te crtinen olen. I Rosa dengja anava ple nakiten hem odova valjani isto agjehar o sikle te hramonen.
+
+Ked ale palal ki škola o sikle valjange te sikaven ple slike hem te iranen e Rosakere švedikane anava e nakiteskere ko romane. O sikle valjanga te motivirinen soske ola aluingje odova nakit.
+
+74
+
+--- Page 75 ---
+O sikle lepingje ple crtežija ko jek pobaro ljil - hem akate valjani hem te ovel than kote so ka čhiven odova dikti so ola ka hramonen tari odoja inspiracija so ola lele taro odova gostluko ki izložba.
+
+O diktija kergje pes ko šukar teksti hem lepingje pes pašeder dži ko crteži.
+
+E potikne siklenge valjangja te delpes arka da bi hramonena ple diktija.  
+Akate istemalkergjem amen jek metodi pobut var.  
+O sikavno sikavi jek slika kmi. jek veligdenseskiri slika.  
+O sikle valjani ko niče te asocirinen ko diso ola dena pes godi dikhibaja i slika.
+
+Jek veligdeneskiri slika šaj te del akava akate: festa - khani - albeno - jaro - galbenojaro - veligdani! Hem ake ulo jek dikti:
+
+Festa  
+Khani  
+Galbeno  
+Jaro  
+Galbenojaro  
+Veligdani!
+
+Amare tikne sikle šaj sine hem te asocirinen tari jek šuži slika taro jek nakit!  
+Hem o sikle kergje barabar jek izložba taro ple crtežija hem diktija hem sikagje odova ple dajenge/dadengen hem klaseskere amalenge ki amari škola.
+
+75

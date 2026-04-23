@@ -1,0 +1,3624 @@
+--- Page 1 ---
+# Amen sikljovaja gramatika
+
+BAKI HASAN
+
+Skolverket
+
+- **tumen**
+- **kerela**
+- **jekto**
+- **substandivi**
+- **adjektivi**
+- **me**
+- **verbi**
+- **upre**
+
+--- Page 2 ---
+There is no textual content or structured data present in the provided image. The image consists solely of a repeating pattern of green leaf-like shapes arranged in a grid-like fashion. No text, tables, equations, or other extractable content exists.
+
+Therefore, no Markdown content can be generated from this image.
+
+--- Page 3 ---
+# Amen sikljovaja gramatika
+
+**BAKI HASAN**
+
+ILLUSTRATIONER: AMANDA ERIKSSON
+
+*Skolverket*
+
+--- Page 4 ---
+Akava gramatikano ljil tano kerdo te šaj te istemalkerel (koristinel) pe ko sikljojbe ki dajakiri čhib ki romani čhib. O ljil tano kerdo ko Språkrådet (Čhibjakoro godidejbe). odova tano jek kotor kotar e Skolverketeskiri (Školakoro baroingaribaskiri) buti bašo dumodejbe bašo angledžajbe hem produciribe ljila hem javera sikljojbaskere ljila bašo nacionalikane minoritetia.
+
+Denna grammatikbok är tänkt att användas vid modersmålsundervisning i romani chib. Boken har utarbetats vid Språkrådet, inom Skolverkets uppdrag om stöd för utveckling och produktion av böcker och andra läromedel för de nationella minoriteterna.
+
+## Amen sikljovaja gramatika
+
+Beställningsuppgifter:  
+Fritzes kundservice  
+106 47 Stockholm  
+Telefon: 08-690 95 76  
+Telefax: 08-690 95 50  
+E-postadress: skolverket@fritzes.se
+
+Beställningsnummer: 11:1226  
+ISBN: 978-91-86529-43-7
+
+© Text: Baki Hasan  
+© Bild: Amanda Eriksson  
+Form: Ordförrådet/Maria Westberg  
+Tryck: DanagårdLiTHO AB 2011  
+Upplaga: 1 000 ex
+
+<div style="background-color: #ff1493; padding: 20px; border-radius: 15px; display: flex; align-items: center; justify-content: space-between;">
+
+<div style="color: white; font-size: 16px; line-height: 1.5;">
+Šukar dive! Mlo anav tano Kalem. Tumen ka oven mancar sa džikote kerena buti akale lilea.  
+Keda ka dikhen man odova značini/značinela kaj isi tumen kherutni školakiri buti.  
+Sien/inen hazeri (spremna) te sikljova gramatika?! Tegani aven!!!
+</div>
+
+<div style="color: white;">
+![image](image_1.png)
+</div>
+
+</div>
+
+--- Page 5 ---
+# Soisiba
+
+Bašo akava ljil .................................................. 4  
+Om den här boken ............................................. 6  
+Baši romani čhib .............................................. 7  
+Om romska språket ........................................... 8  
+
+**Lafengere klase** ............................................. 9  
+
+**Substantivi (Anavjori)** ................................... 10  
+ O džukel Džuko .............................................. 14  
+ Substantiveskoro (Anavjorakoro) ulavibe ............ 16  
+
+**Adjektivi** ..................................................... 18  
+ Mli familia .................................................... 19  
+ O Laci hem o Bektaši ..................................... 20  
+ Bičhalibe sastipe e svetoske ........................... 22  
+ Soj so? .......................................................... 22  
+
+**Verbi (Keruni)** .............................................. 24  
+ Nilaj ............................................................. 24  
+ Verbeskere (Keruniakere) forme ..................... 28  
+
+**Pronomia (Kothanale)** ................................... 30  
+ Personalikane pronomia .................................. 30  
+ Posesivikane (Plesutne) pronomia .................. 32  
+ Pučimale pronomia ......................................... 33  
+ Javera pronomia ............................................. 33  
+
+Prepozicie ....................................................... 34  
+O sovavno Safeti .............................................. 36  
+**Genjija (Cifre)** ............................................. 38  
+ Fundavne genjija .......................................... 38  
+ Bijamo dive ................................................... 40  
+ Ničale genjija ............................................... 42  
+
+**Hramojbaskere nišania (interpunkcie)** ........... 44  
+ Pučibaskoro nišani ........................................ 44  
+ Nukta ........................................................... 45  
+ Nuktaporik ................................................... 46  
+ Čhingaribaskoro nišani .................................. 47  
+ Dujnukte ...................................................... 48  
+ Trin nukte (čhinavibaskoro nišani) .................. 49  
+ Citiribaskoro nišani ....................................... 50  
+ Pačaribaskoro nišani ..................................... 51  
+
+SOISIBA 3
+
+--- Page 6 ---
+# Bašo akva ljil
+
+Akava ljil tano kerdo e romane sikljovnenge (učenikonge) so džana ki fundavni škola ko maškarune klasia. Mangel te phenel pe kotar o štarto dži ko šovto klasi.
+
+Akava tano jekto sikljojbaskoro ljil kori so o matriali tano namerno planirimo hem kerdo jekhe odredeno grupa sikljovnenge. Me pakjava kaj asavko metodi keribaske ljila ka ovel normalno maškar o manuša so kerena sikljojbaskere ljila ki romani čhib.
+
+O ljil kerdža pe kaj te šaj te del pe e sikljovnenge haljovkeribe bašo disave fundavne (osnovno) gramatikane definicie. Sar soj ko misal o adjektivi, verbi, substantivi hem javera lafengere klase.
+
+O romane čhave so džana ki škola, olenge dela pe akava gramatikano džanibe ki odoja čhib so vakerela pe ki odoja škola.
+
+Me mislinava kaj dendor akaja informacia hem džaniba e romane čhavenge ki romani čhib ka vazdel e sikljovnengoro (učenikongoro) morali hem ka oven stimulirinen te sikljon pošukar hem polokhe.
+
+Akale lileskoro matriali tano iramo kotar arlikano dialekti ko javera romane variante: Lovarsko, kalderaško hem ko kalo dialekti. Šukar i te vakerel pe odovada kaj o lil tano kerdo ki jek jekčhanutni (ednostavno) čhib. Celo ljil tano kerdo ko jek principi. Sar jekto čhivela pe pučibe, palo odova dela pe definicia, pali definiciadela pe konkretno primeria. Palo primer kontrolirinela pe dali o sikljovne (učenikia) haljilo i materia odolea so dela pe sikljovnenge školakiri buti.
+
+---
+
+4  
+BAŠO AKVA LJIL
+
+--- Page 7 ---
+O sikavnja (učitelke) hem o sikavne (učitelia) ka dikhen kaj ko sa o ljil isi lafia ko pačariba (zagarde) sar akana. Odova tano sar so haljona te šaj o čhave te haljon lokheder o neve lafia. Sar o sikavne/sikavnja adžahar hem o sikljovne nemora te istemalkeren (koristinen) odola neve lafia ama trebela te džanen kaj ola akana postojnena ki romani čhib.
+
+Sar o paramisia hem adžahar sa o javera tekstia ko akava ljil tane kerde sar so phendžam angleder ko arlikano dialekti. Keda irandže pe ko javera dialektia, tegani irandža pe hem ki švedikani čhib. Ama odova sine amenge jek bučakiri verzia. O cili odole verziakoro sine samo te kontrolirinen pe o definicie.
+
+Isto adžahar kontrolirindže pe hem sa o tekstia dali tane ko jekhipa e definiciencar. Ko odole bučakoro procesi but dindža man dumo mli koleška kotar o Čhibjakoro godidejbe (Språkrådet) Erika Lyly hem i Birgitta Lindgren. Isto phenava te oven saste hem sa mle javera kolegia kotar o Språkrådet so dindže man dumo ko akale lileskiri buti.
+
+BAŠO AKVA LJIL 5
+
+--- Page 8 ---
+# Om den här boken
+
+Den här boken är gjort för romska elever som går i grundskolan på mellanstadiet. Det vill säga från fjärde till sjätte klass. Den är det första läromedel där materialet är planerat och anpassat till en bestämd grupp elever. Jag hoppas att den här arbetsmetoden ska vara ett normalt sätt att skapa läromedel i romska i framtiden.
+
+Syftet med detta läromedel är bland annat att ge romska elever förklarningar av en del fundamentala grammatiska begrepp. Som till exempel: adjektiv, verb, substantiv och andra ordklasser.
+
+De romska eleverna får också den här kunskapen via andra språk. Men genom att de får den här kunskapen på det egna språket kommer deras känsla för sitt språk att stärkas, och de blir mera stimulerade att lära sig lite grammatik.
+
+Boken är ursprungligen skriven på arli och sedan översatt till lovari, kelderaš och kalo.
+
+Det är bör också sägas att boken är skriven på ett enkelt språk. Hela boken bygger på en princip. Först ställer man frågan, därefter ger man en definitionoch så konkretiseras det hela med exempel. Efteråt kontrollerar man huruvida eleven har förstått innehållet genom att ge den uppgifter.
+
+Lärarna kommer att upptäcka det att i hela boken finns ord inom parantes. De finns för att barnen lättare ska kunna förstå de nya orden. Men varken lärarna eller eleverna är tvungna att använda dem. Det räcker att man vet att de finns i romska språket.
+
+Boken är också översatt till en arbetsversion på svenska. Syftet med den översättningen är att man ska kunna lättare kontrollera definitionerna och genomföra ändringar under arbetets gång.
+
+Under hela arbetsprocessen har jag får mycket hjälp av mina arbetskollegor på Språkrådet. Jag vill tacka dem alla, framför allt Erika Lyly och Birgitta Lindgren.
+
+---
+
+6  
+OM DEN HÄR BOKEN
+
+--- Page 9 ---
+# Baši romani čhib
+
+I romani čhib tani jek čhib sar sa o javera ama pale hari javer. Amari čhib nane standardizirimi hem nane amen jek gramatika so važinela sa e romane dialektenge. Nane amen ni jek alfabeta so važinela sa e romenge. Ama pale i romani čhib komaj (skoro) ko sa o phuvja uspendža te ikerel pe dživdi hem te džal angle.
+
+But roma sar terne adžahar phure but vare vakerena kaj i romani čhib tani slabo lafencar, kaj falinena amenge lafia. Ama keda vakerela pe baši i romani čhib na trebela te bistrel pe kaj i romani čhib tani jek bari čhib. Oj tani vakerdi kotar pherdo miliojna manuša (vakerela pe kaj vakerena sa dži ko 18 miliojna manuša ki Evropa, Amerika hem Australia).
+
+Amen isi pherdo dialektia ama jek čhib. Odoleske keda jek lafi nane ko disavo dialekti tegani šaj te lel pe kotar javer romano dialekti.
+
+Amen o roma na siam ki jek phuv, amen siam buvljarde ko sa o sveto.
+
+Sa o javera civilizirime phuvja lile te keren buti pumare čhibjencar angleder but šelberša. Sarine o javera panda kerena sistemikane buti pumare čhibjencar.
+
+E romane čhibaja ljilja te kerel pe buti ko disave phuvja palo dujto svetoskoro maribe. Ko disave phuvja i romani čhib tani priznajmi hem kerela pe buti sar soj ko misal (primer) i Švedija. Ko but phuvja i romani čhib nane priznajmi hem oj tani najtele.
+
+Odoleske amen trebela korkori te sikava buteder haljoviba baši romani čhib hem baši olakiri situacia hem te arakhel pe.
+
+---
+
+BAŠI ROMANI ČHIB 7
+
+--- Page 10 ---
+# Om romska språket
+
+Romska språket är ett språk som alla andra språk men ändå lite anorlunda.  
+Vårt språk är inte standardiserat och vi har inte en grammatik som är gemensam för alla romska dialekter.
+
+Vi har inte heller något alfabet som gäller alla romer. Men ändå har romska språket lyckats överleva nästan i alla länder och utvecklas.
+
+Många romer, både yngre och äldre, klagar ofta över att romska språket är fattigt på ord. Men när vi pratar om romskan får vi inte glömma att det är ett stort språk, det talas av flera miljoner människor i världen (man uppskattar att det talas av upp till 18 miljoner personer i Europa, Amerika och Australien).
+
+Vi har många dialekter men ett språk. När det saknas ett ord i en dialekt då kan man ta ord från en annan romsk dialekt.
+
+Vi bor inte i ett land, vi är utsprida i världen. Alla andra civiliserade länder började arbeta med sitt språk för flera hundra år sedan. Alla andra arbetar med sitt språk systematiskt även idag.
+
+Med romska språket började man arbeta efter andra världskriget. I vissa länder är romska språket erkänt och man arbetar med det, till exempel i Sverige. I många länder är romskan inte erkänt och har inte någon hög status.
+
+Därför borde var och en av oss visa mera förståelse för romska språket, dess situation och vårda det.
+
+---
+
+8  
+OM ROMSKA SPRÅKET
+
+--- Page 11 ---
+# Lafengere klase
+
+Sar ko sa o javera čhibja adžahar hem ki amari čhib isi pobuter hiljada lafia. Kaj te šaj manuš te pendžarel pes pošukar akale lafencar hem te upotrebinel olen pošukar, o manuš ulavela (delinela) akale lafen ko grupe. Olenge vakerela pe *lafengere klase*.
+
+Amen ka pendžara amen popaše disavencar kotar akala šerale lafia sar soj ko primer: *substantivi, verbi, adjektivi, prepozicia, pronomi* hem javera lafengere klase.
+
+Ponodori ka dikha hem bašo odova sar *bandžarena* pe sa akala lafia.
+
+Ko akava ljil isi amen šaipa te pendžara amen hem javere bučaja – e *hramojbaskere nišanencar*. Jek javer lafi bašo odova tano interpunkcie.
+
+<div style="text-align: center;">
+  ![image](image_1.png)
+</div>
+
+LAFENGERE KLASE 9
+
+--- Page 12 ---
+# Substantivi (Anavjori)
+
+O lafi substantivi tano lafi so koristinela pe keda vakerela pe ko primer bašo manuša, luludža, džanvaria (životinje) hem bašo javera buča. Isi pherdo substantivia ola tane odoborom but so manuš našti te genjel olen. Amen šaj te vakera kaj sa o buča so dikhaja trujal amende šaj te oven substantivi.
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="background-color: #ff0080; color: white; padding: 20px; border-radius: 10px; width: 300px;">
+
+Akate tele isi tut slike hem lafia. Maškar olende isi tut lafia kaske so vakeraja substantivi, kori so isi pišime lafia tu šaj kere jek slika a kori so isi slike tu šaj te pišine o anava taro odova so dikhea ko slike.
+
+![image](image_1.png)
+
+</div>
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+![image](image_2.png)
+
+![image](image_3.png)
+
+![image](image_4.png)
+
+![image](image_5.png)
+
+</div>
+
+</div>
+
+---
+
+10 SUBSTANTIVI
+
+--- Page 13 ---
+<table>
+  <tr>
+    <td>Kirmuso</td>
+    <td>Jag</td>
+  </tr>
+  <tr>
+    <td>Bar</td>
+    <td>Maro</td>
+  </tr>
+</table>
+
+SUBSTANTIVI 11
+
+--- Page 14 ---
+<table>
+  <tr>
+    <td>Kher/čher</td>
+    <td>![image](image_1.png)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>![image](image_2.png)</td>
+  </tr>
+  <tr>
+    <td>Verda/vrda</td>
+    <td>![image](image_3.png)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>![image](image_4.png)</td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <div style="background-color: #e91e63; color: white; border-radius: 50%; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; font-weight: bold;">12</div>
+  <span style="margin-left: 10px; font-size: 12px;">SUBSTANTIVI</span>
+</div>
+
+--- Page 15 ---
+<table>
+  <tr>
+    <td>Kham</td>
+    <td>Luludi</td>
+  </tr>
+  <tr>
+    <td>Gras</td>
+    <td>Televizia</td>
+  </tr>
+</table>
+
+SUBSTANTIVI 13
+
+--- Page 16 ---
+# O džukel Džuko
+
+Jek dive o džukel Džuko gelo te phirel peske ko veš. O veš sine but dur kotar o than kori so bešela sine ov. Keda iklilo avri kotar i diz dikhlja kaj javerada džana sine koro veš.
+
+Angli oleste sine manuša hem but maškar lende lile pli mačka ja plo džukele te phiraven olen. O Džuko terdilo angli jek luludi hem ljilja te khandel ola. Jekhe farestar iklili jek birli kotar i luludi. Tegani o Džuko darandilo hem ljilja te prastal. Ko prastajbe ljilja plo pro teli peste hem pelo. Keda pelo kip phuv tegani uklindže upro olesko nak šov – efta kira hem kicinena sine oleskoro nakh.
+
+– Soj tumencar soske kicinena man?
+
+– Sar soske na dikhea li kaj pašliljan upro amaro kher? Našti ni te khuva andre ni te ikljova avri.
+
+– O izvininen (jertinen) man, na mangljum te ruminav tumaro kher. I birli manglja …
+
+– Ajde ušti akatar te na mangljan panda te kicina tut!
+
+– Ake, ake džava …
+
+Ov uštilo gelo othar hem pale ljilja te dikhel so ovela sine trujal oleste.
+
+Jek manuš sine čak ple papagalea, o papagali bešela sine oleske ko piko. Keda dikhlja odova o Džuko ov vazdindža ple phovja (Mangel te phenel pe kaj ov čudindža pes).
+
+– Me šaj te haljovav so o manuša džana pumare džuklencar hem mačkencar te phiren ama našti te haljovav so rodela jek papagali ko akava phiribe? Vakerdža o Džuko.
+
+Keda ov vakerdža odova tegani iklilo angli oleste jek phuro ruv hem phendža:
+
+– Šukar vakerea Džuko ov na trebela te bešel e manušeske ko piko, me šaj te ingarav ole ko mle danda. Mmmm, odova čače ko ovel but šukar!
+
+– Save danda be phurea ruva, tut na ačhile danda i čar te čhine a sar šaj oleste te kicine/dandare?
+
+– Ma dara tu odoleske, mlo muj tano odoborom baro so me na trebela ni te kicinav/dandarav ni te čamkerav.
+
+---
+
+14 SUBSTANTIVI
+
+--- Page 17 ---
+Čitin šukar akaja tikni paramisi palo odova ikal o substantivia othar hem pišin olen tele.
+
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 45%;">
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+</div>
+
+<div style="width: 45%;">
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+</div>
+
+</div>
+
+<div style="text-align: right; margin-top: 20px;">
+<span style="background-color: #ff0000; color: white; padding: 2px 6px; border-radius: 3px;">15</span>
+</div>
+
+--- Page 18 ---
+# Substantiveskoro (Anavjorakoro) ulavibe
+
+Tumen džanena kaj o substantivia šaj te oven muršane ja pale džuvljane hem ola šaj te oven jek ja pale buteder. Ake disave primeria bašo o životinje (džanvaria) ki romani čhib kola tane muršane a kola tane džuvljane:
+
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 45%;">
+
+![image](image_1.png)
+
+![image](image_2.png)
+
+![image](image_3.png)
+
+![image](image_4.png)
+
+![image](image_5.png)
+
+![image](image_6.png)
+
+</div>
+
+<div style="width: 45%;">
+
+## Jekhipe
+
+<table>
+  <tr>
+    <th>Muršane</th>
+    <th>Džuvljane</th>
+  </tr>
+  <tr>
+    <td>Gras</td>
+    <td>Grasni</td>
+  </tr>
+  <tr>
+    <td>Džukel</td>
+    <td>Džukli</td>
+  </tr>
+  <tr>
+    <td>Balo</td>
+    <td>Bali</td>
+  </tr>
+</table>
+
+Sar so phendžam itočka ola šaj te oven jek ama šaj te oven buteder:
+
+## Butipe
+
+<table>
+  <tr>
+    <td>Grasta</td>
+    <td>Grasnja</td>
+  </tr>
+  <tr>
+    <td>Džukela</td>
+    <td>Džuklja</td>
+  </tr>
+  <tr>
+    <td>Bale</td>
+    <td>Balja</td>
+  </tr>
+</table>
+
+</div>
+
+</div>
+
+---
+
+**16** SUBSTANTIVI
+
+--- Page 19 ---
+Akana ka dikha sar i keda i ko pučibe o manuša.
+
+## Jekhipe
+
+<table>
+  <tr>
+    <th>Muršane</th>
+    <th>Džuvljane</th>
+  </tr>
+  <tr>
+    <td>Dad</td>
+    <td>Daj</td>
+  </tr>
+  <tr>
+    <td>Phral</td>
+    <td>Phen</td>
+  </tr>
+  <tr>
+    <td>Kako</td>
+    <td>Bibi</td>
+  </tr>
+</table>
+
+## Butipe
+
+<table>
+  <tr>
+    <th>Muršane</th>
+    <th>Džuvljane</th>
+  </tr>
+  <tr>
+    <td>Dada</td>
+    <td>Daja</td>
+  </tr>
+  <tr>
+    <td>Phralja</td>
+    <td>Phenja</td>
+  </tr>
+  <tr>
+    <td>Kakia</td>
+    <td>Bibia</td>
+  </tr>
+</table>
+
+<div style="background-color: #ff3366; color: white; padding: 10px; border-radius: 10px; display: flex; align-items: center;">
+  <div style="flex: 1;">
+    Akana tu šaj korkori te pišine (hramone) tuke disave substantivia. Le ko primer tlo klasi, hem pišin najhari deš primeria.
+  </div>
+  <div style="margin-left: 10px;">
+    ![image](image_1.png)
+  </div>
+</div>
+
+SUBSTANTIVI 17
+
+--- Page 20 ---
+# Adjektivi
+
+Amen phendžam angleder kaj o substantivi tano anav bašo sa odova so dikhaja. Ama sa odova so dikhaja nane sa jek, ni o manuša, ni o luludža ja pale o džanvaria (životinje) nijek soj nane jek.
+
+Odoleske amen šaj te phena kaj o adjektivi pomožinela amenge te haljova ko primer sar dičhola jek manuš, sar dičhola jek luludi, sar dičhola jek mačho ja pale sar dičhola jek mobilno telefoni.
+
+Te la ko primer duj murša kas so isi isto berša jek olendar tano **harno** a o dujto tano **učo**.  
+Ja pale te la duj džuvlja, jek olendar tani **thuli** a i dujto tani **sani**.
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="width: 45%; text-align: center;">
+  ![image](image_1.png)
+</div>
+
+<div style="width: 45%; text-align: center;">
+  ![image](image_2.png)
+</div>
+
+</div>
+
+Javere lafencar o adjektivi vakerela amange hari popaše **savo** ja **pale** sar tano **diso** ja **pale džiko**:
+
+- Me sium **baro**.
+- Oj tani **bokhali**.
+- Ola tane **holjame**.
+
+---
+
+**18** ADJEKTIVI
+
+--- Page 21 ---
+# Mli familia
+
+O kham tano tato
+
+Mlo phral tano baro
+
+Mlo dad tano lačho
+
+Mli daj tani gudli
+
+Mli phen tani šuži
+
+Sa mli familia tani bahtali
+
+<div style="text-align: center;">
+  ![image](image_1.png)
+</div>
+
+---
+
+<div style="background-color: #e91e63; color: white; padding: 15px; border-radius: 10px; display: inline-block; margin-left: 20px;">
+  Čitin akaja tikni gili hem pišin tele dali dikhea disave adjektivia. Palo odova ker akala adjektivia te oven ki džuvljani forma: kalo, parno tikno, sano, učo, melalo, kovlo.
+  <div style="float: right; margin-left: 10px;">
+    ![image](image_2.png)
+  </div>
+</div>
+
+---
+
+<div style="text-align: right; margin-top: 20px;">
+  ADJEKTIVI
+  <span style="background-color: #e91e63; color: white; border-radius: 50%; padding: 5px 10px; font-weight: bold;">19</span>
+</div>
+
+--- Page 22 ---
+<div style="display: flex; align-items: center; background-color: #e91e63; color: white; padding: 10px; border-radius: 10px;">
+  ![image](image_1.png)
+  <span>Čitin šukar o teksti hem probin te arakhe hem te okružine o adjektivia.</span>
+</div>
+
+## O Laci hem o Bektaši
+
+Keda alo o Laci kotar i škola ov sine but holjamo. Ov khudža andre bizo te phenel ple dajake «Šukar dive mli daj».
+
+I daj ačhili hem dikhela ole.
+
+– Soj tuja Laci, soske sian holjamo?
+
+– Sar te na ovav holjamo? Avdive sabale keda dikhljum man mle amalea e Bektašea, phendžam kaj avdive pali škola ka avel ki mande khere hem ka kera amari školakiri buti barabar.
+
+O vreme tano tato hem trebela sine te avel mancar khere phirindor. Ama keda ikliljam avri te ava amenge tegani terdžola sine oleskiri bari phen avri hem phendža oleske kaj ola mora te džan khere.
+
+Odoleske so ali olenge gosti olengiri bibi kotar i Austria. Ov phendža mange okova puti keda ali oleskiri bibi angleder tegani andža oleske pherdo padakia (poklonia) ov odova but manglja.
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <div style="background-color: #e91e63; color: white; border-radius: 50%; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; font-weight: bold;">20</div>
+  <span style="margin-left: 10px;">ADJEKTIVI</span>
+</div>
+
+--- Page 23 ---
+Ama phendža mange kaj isi disave buča so ov na mangela ki olate. Oj keda dikhela pe olea oj grabonela ole hem čuminela ole ko čhamja hem tegani ovela lolo kotar ladž. Baš ka dikhav so ka vakerel mange tajsa.
+
+Tajsutno dive keda gele ki škola, samo so dikhlja o Bektaši e Laci ov prastandilo ki oleste hem vakerela:
+
+– Ooo, Laci te dikhe so andža mange mli bibi tu na ka pača tle jačhenge! Tegani phendža e Laciske te lel oleskoro lilengoro gono.
+
+– Abe soske tano odoborom pharo tlo gono, so isi tut andre?
+
+– Adžiker ka sikavav tuke odovada, dikh hemanglal (prvo) akava.
+
+Ov čhivela plo vas ki posoki (džepa), i posoki sine bari hem trebindža oleske hari vreme džikaj ikaldža plo vas othar hem keda ikaldža plo vas tegani dikhlja pe jek tikno kalo mobilikano telefoni.
+
+– Dikh, dikh! Dikhljan li dži akana asavko telefoni? Sa isi ole a lokho tano sar por! vakerdža o Bektaši.
+
+Ov čiča pale o telefoni ki džepa hem phradža plo lilengoro gono.
+
+– Dikh akana akava pale! Ov dikhela ple strane hem ikalela duj bare čokolade.
+
+– Birin savi mangea. Jek čokolada sine pherdi akhorencar a i dujto sine šuke drakhencar. Ov ljilja e akhorencar hem phendža:
+
+– Ov sasto Bektaš ama me na ka hav i čokolada akana, ka garavav ola hem ka hav mange ko šovtodi (savato). Darava te na dukhan mle danda kotar gudlo. Isi man jek kirno dand, mora te arakhav man. Plus odova ikile mange disave neve danda hem trebela te arakhav olen.
+
+– Šukar amala, ker sar mangea, phendža o Bektaši phradža i čokolada ljilja jek kotor, halja peske hem palo odova khudže andre ko klasi.
+
+ADJEKTIVI 21
+
+--- Page 24 ---
+<div style="display: flex; align-items: center; background-color: #e91e63; color: white; padding: 10px; border-radius: 10px;">
+  ![image](image_1.png)
+  <span>Ko akala tikne gilja isi adjektivi lafia arakh olen.</span>
+</div>
+
+## Bičhalibe sastipe e svetoske
+
+Avdive tikne, bare hem terne čhave, čhaja
+
+Bičhalena but sastipa e svetoske:
+
+- Mariba hem mudariba na mangaja
+- Jekhipe hem jekhalipe (ravnopravnost) rodaja
+- Amen mangaja sarinenge te ovel šukar
+- O čhave hem čhaja bokhale te na oven
+- O čhave hem čhaja daravde te na oven
+- Sarinen sojbe bizo dar te ovel hem gudle sune te dikhen
+- Sarinenge šukar te ovel.
+
+<div style="text-align: center;">
+  ![image](image_2.png)
+</div>
+
+## Soj so?
+
+- O čaji tano tato
+- O šekeri tano gudlo
+- O sladoleti tano šudro
+- I pošom tani kovli
+- O pani tano sapano
+- A me sium zoralo
+
+---
+
+22 ADJEKTIVI
+
+--- Page 25 ---
+Maškar akala lafia  
+isi tut hem adjektivia,  
+arakh o adjektivia hem  
+ker olendar rečenice:  
+gudlo,  
+sastipe,  
+avela,  
+sovela,  
+zoralo,  
+baro,  
+hala,  
+tikno,  
+phuro,  
+pašljola,  
+kovlo,  
+učo,  
+dikhela,  
+parno,  
+avibe,  
+lolo,  
+kalo,  
+žuto (galbeno).
+
+![image](image_1.png)
+
+ADJEKTIVI 23
+
+--- Page 26 ---
+# Verbi (Keruni)
+
+Sar o adjektivi hem o substantivi adžahar hem o verbi tano jek kotar e lafengere klase.  
+O verbi vakerela amenge so kerela džiko ja so kerela diso ko primer: džala, uštela, hala, sovela, čhingarela, prastala, avela, ovela.
+
+<div style="display: flex; align-items: center; background-color: #e91e63; color: white; padding: 10px; border-radius: 10px;">
+  ![image](image_1.png)
+  <div>
+    Čitin šukar akaja paramisi hem ikal sa o verbija.
+  </div>
+</div>
+
+## Nilaj
+
+Avri tano but tato, o kham pečarela. Kotar but tato ni o čiriklja na šundžona, šaj olada gele džigde uzo pani te šudraren pes. Avdive tano e čhavenge paluno dive ki škola.
+
+O Romčo bešela andre ko klasi hem dikhela avri kotar o džami. Dikhela pe kaj ov godžaja nane othe. I sikavni vakerela lenge diso baši matematika ama ov na šunela.
+
+- Romčo! Romčo Romčo!
+- A, ko? So?
+- Abe tu so kerea? Na šunea so akharava celo vreme?
+
+- O jertin (izvini) sikavnie, na šundžum tut, mislinava (gindinava) sine diso.
+- Keda isi amen lekcia baši matematika tegani tu ka misline baši matematika na aver diso. E akana mangava te vakere amenge akate sarinenge so sine odova so mislinea sine?
+
+O Romčo dikhela e sikavnja hem sar te phene lelilo (bunimo) hem mangela sine te vakerel ama sine oleske pharo te arakhel lafia. Lafia sine ole ama našti te phanel olen sine.
+
+- Pa sine pani ..., o kham tačarela sine ..., o čhave khelena sine ko pani ..., hari podur kotar o manuša nakhena sine pherdo tikne panidžalia (brodia) ...
+
+---
+
+24 VERBI
+
+--- Page 27 ---
+VERBI 25
+
+--- Page 28 ---
+Hari po hari ov khedindža zoralipa hem tegani ljilja te vakerel sar te phene ov sine čače othe.
+
+– Ko jek momenti nakhela o manuš so bikinela gudlopaho (sladoledi). Tegani sa o čhave prastana sar žilitke kori oleste. Ola gurinena jek javere ko ka kinel posigate gudlopaho te šaj te šudraren pes hari andral ...
+
+– Šukar, šukar Romčo, na trebela te vakere amenge buteder (poviše). Ake amaro vakti nakhela. Akava sine tumaro paluno dive ki škola akale termineske. Oven saste bašo akava termini. Pačava kaj siklilen diso akale vakteske hem ka dikha amen pale anglojevendeske keda ka len te džan ko pandžto klasi.
+
+O čhave khedena ple buča hem ikljona avri. Avrial o Neazi prastala koro Romčo hem vakerela:
+
+– Abe adžiker but sidžarea!
+
+Ola bešena paše jek javerea odoleske džana peske khere barabar (zaedno).
+
+– Epa tu ma sov sidžar hari.
+
+– Abe adžiker phen mange sar sine ponodori.
+
+– Šun akari, akana čače name man vreme te vakerav tuke. Ama keda ka la te dža ko nevo termini tegani šaj te puče man isto pučibe.
+
+Ov phendža odova hem ljilja te prastal khere hem mukhlja e Neaze pali peste.
+
+Keda reslja o Romčo khere ov dikhela kaj o dad hem i daj phandena o kuferia. Oleskiri bari phen i Lejlja hem oleskoro tikno phral o Hamdia pakujnena pumare šea. Ov ikalela plo kuferi kotar o podrumi hem pakujnela ple šea. Palo šov sahatia ola ujrana ko samukhiba (odmor) ki Italia.
+
+<div style="text-align: center;">
+  ![image](image_1.png)
+</div>
+
+26 VERBI
+
+--- Page 29 ---
+Te arakhljan disave verbia ko teksti tegani ker najhari deš rečenice.
+
+---
+
+VERBI 27
+
+--- Page 30 ---
+# Verbeskere (Keruniakere) forme
+
+Isi jek javer buti so trebela te džanel pe bašo verbi. Odova tano kaj e verbe isi razno forme ama amen ka kera buti hembut e akanutne vremea (presens) hem e nakhle vremea (imperfekti).
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
+
+**E ir prastala**  
+**va pašlilo**  
+**om cidava**  
+**pelo makhlja**  
+**dikhela**
+
+</div>
+
+<div style="flex: 1;">
+
+## Presens (Akanutno) vakti
+
+Ki romani čhib sar so haljovena o akanutno (presenti) vakti vakerela amenge diso so ovela akana hem ov dičhola adžahar: džala, avela, dela, perela, našela, piela, hala, prastala.
+
+Me **džava** ko kurko te kinav mange jek mobilno telefoni.
+
+Tu **džaja** tle phralea te kine a mancar na avea.
+
+I Nelsifa da **džala** te kinel peske diso.
+
+Amen **džaja** amare phralea te kina.
+
+Tumen **džana** tumare phralea te kinen a amencar na avena.
+
+Ola **džana** te kinen diso.
+
+</div>
+
+</div>
+
+---
+
+28 VERBI
+
+--- Page 31 ---
+# Imperfekti (Nakhlo) vakti
+
+A o nakhlo vakti (imperfekti ja pale akana sar so vakerela pe preteritum) tani jek forma kori so phenela amenge so ulo erati ja pale angleder jek minuti: *gelo, alo, dendža, pelo, našlja ja pale našlo, pilja, prastandilo*.
+
+Erati **kindžum** (kingjum) mange jek mobilno telefoni.
+
+Tu **kindžan** (kingjan) tle phralea a na mancar.
+
+I Nelsifa da **kindža** (kingja) peske diso.
+
+Amen **kindžam** (kingjam) phabaja.
+
+Tumen **kindžen** (kingjen) aver diso.
+
+Ola **kindže** (kingje) mobilno telefoni.
+
+---
+
+<div style="background-color: #e91e63; color: white; padding: 15px; border-radius: 10px; display: flex; align-items: center; justify-content: space-between;">
+
+**Pišin deš rečenice kori so o verbia tane ko nakhlo vakti (imperfekti)**
+
+![image](image_1.png)
+
+</div>
+
+---
+
+VERBI 29
+
+--- Page 32 ---
+# Pronomia (Kothanale)
+
+Soj odova pronomi? O pronomi tano isto jek lafeskiri klasa. O lafi pronomi avela kotar i latinikani čhib hem značinela *kothan e* (namesto e, umesto e). Oleske vakerela pe adžahar odoleske so ov čače terdžola ko than e anaveske. Javere lafencar o pronomi koristinela (istemalkerela) pe kothan e substantiveske.
+
+Akate šaj dikhea jek kotor kotar o pronomia, hari potele ko akava kotor ka kera podetalno buti e pronomencar, ola šaj dičhona ko primer adžahar: *mlo (moklo), plo, pes, tlo (toklo), tu, amen, tut ...*
+
+## Personalikane pronomia
+
+Personalikane pronomia ko jekhipe tane ko primer:  
+*me, tu, ov/oj a bašo butipe amen, tumen, ola.*
+
+Tele isi jek tikni paramisi kolaja šaj polokhe te haljova o personalikane pronomia.
+
+---
+
+30 PRONOMIA
+
+--- Page 33 ---
+# Mlo amal o Ademi
+
+Mlo anav tano Asip. **Me** džava ki škola ko štarto klasi. **Me** phenava e Ademeske: **tu** sian mlo hemšukar amal. O Ademi hem oleskiri phen džana ki škola, **oj** tani olestar pophuri.
+
+E Ademeskiri daj kerela buti ki apoteka sar farmaceutka, **oj** nane odoborom but phuri.
+
+E Ademeskoro dad paldela aftobuzi, **ov** tano šoferi.
+
+Me hem o Ademi džaja ki isto škola, **amen** na ačhovaja tari škola jek dive soj. Jek dive amari sikavni vakerdža amenge: «**Tumen** sien hemšukar sikljovne.» E Adame isi daj, dad, hem jek phen, **ola** tane sa ko sa štar džene.
+
+Ko akava primer dikhaja kaj ko akava tikno teksti amen prvo koristinaja o substantivia phen, daj, dad o dujto puti koristinaja o pronomi **oj**, **ov** ja pale **ola**.
+
+---
+
+<div style="background-color: #e91e63; color: white; padding: 15px; border-radius: 10px; display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1;">
+**Ker deš lafjora (rečenice) kori so ka meninel pe o substantivi e pronomea sar akava primer.**
+</div>
+
+<div style="flex: 0 0 auto;">
+![image](image_1.png)
+</div>
+
+</div>
+
+---
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+................................................................................................
+
+--- Page 34 ---
+# Posesivikane (Plesutne) pronomia
+
+O posesivikane pronomia vakerena kaskoro tano diso ja pale džiko hem ola bandžarena pe adžahar:
+
+## Bašo jekhipe:
+
+1. jekto dženo: **Mlo** dad tano šoferi, **mli** daj tani kasierka a **mle** phralja sikljona bašo inžineria.
+
+2. dujto dženo: **Tlo** dad tano šoferi, **tli** daj tani kasierka a **tle** phralja sikljona bašo inžineria.
+
+3. trinto dženo: **Oleskoro** dad tano šoferi, **oleskiri** daj tani kasierka, a **oleskere/olakere** phralja sikljona bašo inžineria.
+
+3. trinto manuš: **Olakoro** dad tano šoferi, **olakiri** daj tani kasierka a **olakere/olakere** phralja sikljona bašo inžineria.
+
+## Bašo butipe:
+
+1. jekto dženo: **Amaro** dad tano šoferi, **amari** daj tani kasierka a **amare** phralja sikljona bašo inžineria.
+
+2. dujto dženo: **Tumaro** dad tano šoferi, **tumari** daj tani kasierka a **tumare** phralja sikljona bašo inžineria.
+
+3. trinto manuš: **Olengoro** dad tano šoferi, **olengiri** daj tani kasierka a **olengere** phralja sikljona bašo inžineria.
+
+---
+
+<div style="background-color: #e91e63; color: white; padding: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1;">
+<p>Ker deš rečenice (lafjora) kori so ka dikhen pe o posesivikane pronomia.</p>
+</div>
+
+<div style="flex: 0 0 auto;">
+![image](image_1.png)
+</div>
+
+</div>
+
+---
+
+32 PRONOMIA
+
+--- Page 35 ---
+# Pučimale pronomia
+
+Hem o pučimale lafia tane pronomia, manuš koristinela olen keda pučela pe diso ko?, so?, kori?
+
+Misal (primer):
+
+- Ko odova so alo ki tumende?
+- Aaa, odova tano mlo kako, ov alo kotar i Amerika.
+- Aha, epa so andža tuke odothar?
+- Ov andža mange jek komjuterikano khelibe.
+- Šaj te avav hem te khelav ko tlo komjuteri odova khelibe?
+- Oja šaj akana pali škola.
+
+# Javera pronomia
+
+Isi hem asavke pronomia kolencar vakerela kaj na džanel pe točno koj odova, kori tano odova ja pale soj odova (džiko, diso, džigde,)
+
+- Me pačava kaj alo džiko kotar e Muaremeskiri familia.
+- Soske phenea odova.
+- Pa ov na alo duj dive ki škola
+- A šaj pale ov gelo džigde ja pale tano nasvalo.
+
+- Te ali oleskiri familia tegani ola andža oleske diso.
+
+O lafia khonik, khančik, nikote (nikoj hem ništo) tane isto pronomia.
+
+- Soske na alo khonik tutar kheral ko dajengorodadengoro (roditelsko) khedibe?
+- Na džanava khančik bašo odova ama me mislinava kaj odoleske so na sine olen vreme ola sine ki buti.
+- Me adžikerdžum ama khonik nikote na sine.
+
+Hem o lafia sako ja pale sa, sarine tane pronomia.
+
+- Akana trebela sako sikljovno te mukhel pli školakiri kherutni buti ki mande.
+- Me našti kerdžum mli školakiri kherutni buti odoleske so sa mle phraleskere čhave sine ki amende.
+- Tu šaj sine te dža ki tli soba hem te kere tli buti.
+- Ama sar šaj te kerav mli školakiri kherutni buti keda sarine o čhave čhingarena?
+
+PRONOMIA 33
+
+--- Page 36 ---
+# Prepozicie
+
+O prepozicie tane isto jek lafengiri klasa. Ola šaj te oven džuvljane ja pale muršane odova zavisinela kotar o substantivi. O prepozicie šaj te dičhon ko primer adžahar: *palo–pali, telo–teli, upro–upri, uzo–uzi, ko–ki, anglo–angli, hem javera*.
+
+Tele isi tut disave primeria dikh šukar hem probin te haljove.
+
+- O ljil terdžola **upri** mesali (astali).
+- I čirikli bešela **upro** kaš.
+- O avioni hulela **tele**.
+- Mlo amal prastala **pali** mande.
+- O džukel terdžola **maškar** amende.
+- Me phirava **ano** veš.
+- Mlo tikno phral prastandilo **angli** mande.
+
+---
+
+34 PREPOZICIE
+
+--- Page 37 ---
+PREPOZICIE 35
+
+--- Page 38 ---
+# O sovavno Safeti
+
+O Sahati tano efta hem dešupandž. O Safeti panda sovela. O sahati so terdžola **upri** natkasna uzo oleskoro šero zvoninela ama ov na šunela. Tari hajbaskiri soba šundžola oleskiri daj:
+
+– Safet džangavdžov! Ušti upre! O sahati zvonindža duj vare a tu panda sovea!
+
+Ko odova momenti o zvoninela o sahati pale. O Safeti phravela jek jakh, čhivela plo vas **upro** sahati hem čhinavela ole te zvoninel. Ov uštilo pharipaja hem gelo te thovel ple vasta plo muj hem ple danda. Ko iranibe ikliili **anglo** oleste i mačka hem haričkaske ka perel sine.
+
+Alo pale ki pli soba hem rodela sine ple šea. Erati ko akšami sine ki oleste oleskoro amal o Dano. Sar kheldže adžahar mukhle. Sa sine telopre.
+
+Erati keda uradža ple pižame ov na čiča ple šea ki strana. Jek čorapa sine ferdimi **telo** pašno (kreveti), i teligadni (majca) sine **upri** mesali (astali). Oleskere pantolke sine ferdime **palo** šifonjeri a o pače dikhena pe sine sar umlana **upro** šifonjereskere udara.
+
+Uradža pe hem gelo ki hajbaskiri soba. Bešlja **uzi** pli phureder phen i Benijana hem iranela sine ple jačha te asavkerel ola. Ama dikhela pe kaj oj sine oleske holjami. Ov čiča pe popaše uzi olate hem čumindža ola **ki** čham.
+
+– Jertin man mi phen. Me na ka pharakerav tut buteder.
+
+Uštilo gelo koro o džami. **Upro** džameskiri phal sine jek vazna luludžencar. Ikaldža jek luludi hem mukhlja ola **angli** olate **upri** mesali.
+
+– O mlo gudlo tikno phral! Normalno kaj jertinava tuke. Ama javer puti tu na tromaja te ove barešreskoro keda avena tle amala. Tu na trebela te kere tut fraeri **angli** olende.
+
+I daj olengir na vakerela sine khančik. Oj kerela sine olenge sabaluko hem dikhela sine teli jakh. Oj čiča olengere čare hajbaja **angli** olende hem phendža olenge:
+
+36 PREPOZICIE
+
+--- Page 39 ---
+- Len te han akana te na harinen ki škola.
+
+- Me našti te hav akana. Šaj te lav **ko** vas? Ka hav **ko** drumo.
+
+- Na Safet. Tu džanea kaj me odova na mangava. Ha hari samo te šaj tlo vogi te kerel buti.
+
+So mislinea? So ulo ponodori? Pišin dali šundža o Safeti ple daja ja pale na. Keda ka pišine dikh te ovel tut prepozicie.
+
+<div style="background-color: #e91e63; color: white; padding: 15px; border-radius: 10px; display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1;">
+Dikh tele o lafia ikal o prepozicie hem ker olendar rečenice: baro, upro, tikno, telo, ki, uzo, anglo, anav, palo, maškar, ko, ano, thulo, upri, uzi.
+</div>
+
+<div style="flex: 0 0 auto;">
+![image](image_1.png)
+</div>
+
+</div>
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+PREPOZICIE 37
+
+--- Page 40 ---
+# Genjija (Cifre)
+
+Hem o genjia tane lafengiri klasa. O genjia vakerena amenge kobor isi džiko ja pale diso hem ko savo than tano odova.
+
+O genjia ulavaja ko fundavne (osnovna broja) hem ko ničale (redno broja).
+
+## Fundavne genjija
+
+O fundavne genjia vakerena amenge točno so kobor isi džiko ja pale diso.
+
+O fundavne genjia tane ko primer:
+
+<table>
+  <tr>
+    <td>Jek</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Duj</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Trin</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Štar</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Pandž</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Šov</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Efta</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Ofto</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Enja</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Deš</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Dešujek</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Dešuduj</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Dešutrin</td>
+    <td>13</td>
+  </tr>
+</table>
+
+<div style="text-align: center;">
+  ![image](image_1.png)
+  ![image](image_2.png)
+  ![image](image_3.png)
+  ![image](image_4.png)
+  ![image](image_5.png)
+</div>
+
+38 GENJIA
+
+--- Page 41 ---
+<table>
+  <tr>
+    <td>Dešuštar ……………………14</td>
+    <td>Pindupandž ……………………55</td>
+  </tr>
+  <tr>
+    <td>Biš ……………………20</td>
+    <td>Enjavardešuenja ……………………99</td>
+  </tr>
+  <tr>
+    <td>Bišujek ……………………21</td>
+    <td>Šel ……………………100</td>
+  </tr>
+  <tr>
+    <td>Bišuofto ……………………28</td>
+    <td>Šelujek ……………………101</td>
+  </tr>
+  <tr>
+    <td>Bišuenja ……………………29</td>
+    <td>Šeludeš ……………………110</td>
+  </tr>
+  <tr>
+    <td>Trianda ……………………30</td>
+    <td>Šeludešenja ……………………119</td>
+  </tr>
+  <tr>
+    <td>Triandujek ……………………31</td>
+    <td>Šeluenjavardešuenja ……………………199</td>
+  </tr>
+  <tr>
+    <td>Triandušov ……………………36</td>
+    <td>Oftošel ……………………800</td>
+  </tr>
+  <tr>
+    <td>Trianduenja ……………………39</td>
+    <td>Enjašeluenjavardešuenja ……………………999</td>
+  </tr>
+  <tr>
+    <td>Saranda ……………………40</td>
+    <td>Hiljada (dešel) ……………………1000</td>
+  </tr>
+  <tr>
+    <td>Sarandujek ……………………41</td>
+    <td>Hiljadujek (dešeljek) ……………………1001</td>
+  </tr>
+  <tr>
+    <td>Saranduenja ……………………49</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pinda ……………………50</td>
+    <td></td>
+  </tr>
+</table>
+
+<div style="text-align: right;">
+  GENJIA <span style="background-color: #e6007e; color: white; padding: 5px 10px; border-radius: 50%;">39</span>
+</div>
+
+--- Page 42 ---
+# Bijamo dive
+
+Me avdive pherava **dešujek** berš. Avdive ka del pe mange pherdo padakia (poklonia), isi te lav najhari **deš** poklonia.
+
+Okova berš dindža pe mange **dešuenja** poklonia. Te genjdžum o poklonia so andže mange mle amala tegani ovela **bišušov**. Ka ovel interesno te dikhav i torta. Na džanava sar ka resen **dešujek** momelja. Šaj mli daj hem mlo dad ka kinen akava da berš bari torta.
+
+Ko nakhlo berš keda kerdžam mlo bijamo dive tegani sine odoborom but manuša ko amaro kher so našti sine te beše komotno. Na sine amen but stolice sa odole manušenge. Odoleske mlo dad kindža **ofto** ekstra stolice ki IKEA. Čače ka ovel interesno hem šukar te šunav o lafia: "Bahtalo tlo bijamo dive!"
+
+---
+
+40 GENJIA
+
+--- Page 43 ---
+Pisin deš lafjora kori so ka dikhen pe o fundavne genjia.
+
+GENJIA 41
+
+--- Page 44 ---
+# Ničale genjija
+
+O ničale genjia sar so phendžam angleder vakerena amenge ko savo than terdžola džiko ja pale diso. Akala lafia šaj te dičhon ko primer adžahar: jekto, dujto, trinto, štarto, pandžto ... Tele isi jek bareder tabla sar dičhona o ničale genjia.
+
+Erati pherdžum dešujek berš hem kerdža pe mlo **dešujekto** bijamo dive.
+
+Ov astardža **jekto** than ko prastajbe.
+
+Me bešava ko **štarto** kher kotar i desno rig.
+
+Me sium o **pandžto** čhavo ki amari familia, o anglune štar tane phureder mandar.
+
+O roja tane ki upruni **dujto** fioka.
+
+I fudbalikani ekipa kotar amari diz, astardže **dujto** than ko sveto.
+
+Bahtalo **duj hiljade dešto** berš!
+
+![image](image_1.png)
+
+## Tabla ničale genjencar:
+
+<table>
+  <tr><td>Jekto</td><td>1-to</td></tr>
+  <tr><td>Dujto</td><td>2-to</td></tr>
+  <tr><td>Trinto</td><td>3-to</td></tr>
+  <tr><td>Štarto</td><td>4-to</td></tr>
+  <tr><td>Pandžto</td><td>5-to</td></tr>
+  <tr><td>Šovto</td><td>6-to</td></tr>
+  <tr><td>Eftato</td><td>7-to</td></tr>
+  <tr><td>Oftoto</td><td>8-to</td></tr>
+  <tr><td>Enjato</td><td>9-to</td></tr>
+  <tr><td>Dešto</td><td>10-to</td></tr>
+  <tr><td>Dešujekto</td><td>11-to</td></tr>
+  <tr><td>Dešudujto</td><td>12-to</td></tr>
+  <tr><td>Dešutrinto</td><td>13-to</td></tr>
+  <tr><td>Dešuštarto</td><td>14-to</td></tr>
+  <tr><td>Bišto</td><td>20-to</td></tr>
+  <tr><td>Bišujekto</td><td>21-to</td></tr>
+  <tr><td>Bišuoftoto</td><td>28-to</td></tr>
+  <tr><td>Bišuenjato</td><td>29-to</td></tr>
+  <tr><td>Triandato</td><td>30-to</td></tr>
+</table>
+
+42 GENJIA
+
+--- Page 45 ---
+Triandujekto ........................... 31-to  
+Triandušovto .......................... 36-to  
+Trianduenjato ........................ 39-to  
+Sarandato ............................ 40-to  
+Sarandujekto ........................ 41-to  
+Saranduenjato ....................... 49-to  
+Pindato .............................. 50-to  
+Pindupandžto ........................ 55-to  
+Enjavardešuenjato ................... 99-to  
+Šelto ............................... 100-to  
+Šelujekto ........................... 101-to  
+Šeludešto ........................... 110-to  
+Šeludešenjato ....................... 119-to  
+Šeluenjavardešuenjato ............... 199-to  
+Oftošelto ........................... 800-to  
+Enjašeluenjavardešuenjato ........... 999-to  
+Hiljadato (dešelto) ................ 1000-to  
+Hiljadujekto (dešelujekto) ......... 1001-to  
+
+<div style="background-color: #e91e63; color: white; padding: 10px; border-radius: 10px; display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    Ker deš lafjora kori so ka dikhen pe o ničale genjia.
+  </div>
+  <div>
+    ![image](image_1.png)
+  </div>
+</div>
+
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+........................................................................................................  
+
+GENJIA 43
+
+--- Page 46 ---
+# Hramojbaskere nišania (interpunkcie)
+
+Kaj te šaj e manušeske te ovel lokheder (polokho) te haljovel odova soj pisimo tegani manuš koristinela pe kotar o hramojbaskere nišania. Tele isi disave primeria sar ola koristinena pe.
+
+## Pučibaskoro nišani
+
+Akava nišani koristinela pe keda manuš mangela te pučel diso. Komaj ko sa o čhibja ov terdžola ko krajo e lafjorakoro. Ama ki španikani čhib ov terdžola ko početko hem tano iramo tele¿.
+
+Tu ko kobor o sahati džaja ki škola?
+
+Soske na geljan avdive ki škola?
+
+So sikljiljan avdive ki škola?
+
+?
+
+<div style="background-color: #ff3366; color: white; padding: 10px; border-radius: 10px; display: inline-block; margin-left: 20px;">
+Ker bašo sakova nišani po najhari pandž lafjora.
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+![image](image_1.png)
+</div>
+
+---
+
+44 HRAMOJBASKERE NIŠANIA
+
+--- Page 47 ---
+# Nukta
+
+Keda zaveršinela (agorkerela) pe jek rečenica (lafjori) ki jek lafjori tegani čhivela pe ko krajo jek nukta, primer:
+
+- Avdive amari sikavni na ali ki škola.
+- Oja meda šundžum odova.
+- Odoleske avdive ka ovel amencar i Mariana.
+- Ojda tani but šukar sikavni.
+
+<div style="text-align: center;">
+  <div style="width: 20px; height: 20px; background-color: #e91e63; border-radius: 50%; display: inline-block;"></div>
+</div>
+
+<div style="background-color: #e91e63; color: white; padding: 10px; border-radius: 10px; display: inline-block; margin-left: 20px;">
+  Ker bašo sakova nišani po najhari pandž lafjora.
+</div>
+
+<div style="text-align: right; margin-top: 20px;">
+  HRAMOJBASKERE NIŠANIA
+  <span style="background-color: #e91e63; color: white; border-radius: 50%; padding: 5px 10px; font-weight: bold;">45</span>
+</div>
+
+--- Page 48 ---
+# Nuktaporik
+
+I nuktaporik koristinela pe ko than e lafeske "hem" keda genjela pe diso. Keda isi jek nuktaporik ko jek teksti tegani amen šaj laja hari vogi (odmor) ko primer:
+
+Ov sine lošalo, zoralo, sasto hem mangela sine te džal ki škola.
+
+Amen siam sine sarine ko bioskop. Me, mlo phral, mli phen.
+
+<div style="text-align: center;">
+  <span style="color: #e91e63; font-size: 3em;">“</span>
+</div>
+
+---
+
+<div style="background-color: #e91e63; color: white; padding: 10px; border-radius: 10px; display: inline-block; margin-left: 20px;">
+  Ker bašo sakova nišani po najhari pandž lafjora.
+</div>
+
+<div style="text-align: right; margin-top: -100px;">
+  ![image](image_1.png)
+</div>
+
+---
+
+<div style="text-align: center; margin-top: 50px;">
+  <div style="display: inline-block; text-align: left;">
+    <div style="background-color: #e91e63; color: white; border-radius: 50%; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; font-weight: bold;">46</div>
+    <div style="margin-top: 5px;">HRAMOJBASKERE NIŠANIA</div>
+  </div>
+</div>
+
+--- Page 49 ---
+# Čhingaribaskoro nišani
+
+Akava nišani koristinela pe keda manuš sikavela razna osečaja primer keda manuš tano batalo, holjamo ja pale javer osečaj:
+
+I sikavni phendža mange kaj čitinava but šukar!
+
+Me phendžum ma prasta adžahar sigate!
+
+E čhingaribaskoro nišani Šaj te koristina hem ko asavke lafia: Terdžov! Dža! Na! Oja!
+
+<div style="text-align: center;">
+  <span style="color: red; font-size: 48px;">!</span>
+</div>
+
+<div style="background-color: #e91e63; color: white; padding: 10px; border-radius: 10px; display: inline-block; margin-left: 20px;">
+  Ker bašo sakova nišani po najhari pandž lafjora.
+</div>
+
+<div style="text-align: right; margin-top: 20px;">
+  HRAMOJBASKERE NIŠANIA
+  <span style="background-color: #e91e63; color: white; padding: 5px 10px; border-radius: 50%; font-weight: bold; margin-left: 10px;">47</span>
+</div>
+
+--- Page 50 ---
+# Dujnukte
+
+Akava nišani koristinela pe keda manuš mangela te genjel diso, primer:
+
+Ki mli soba isi pherdo buča: mesali, bešni (stolica), kompjuteri, ljila, telefoni, kalemia/olovke, tetratke/sveske, luludžengiri vazna, rafti lilenge (biblioteka) hem but javera buča.
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div style="width: 20px; height: 20px; background-color: #e91e63; border-radius: 50%;"></div>
+  <div style="width: 20px; height: 20px; background-color: #e91e63; border-radius: 50%;"></div>
+</div>
+
+<div style="background-color: #e91e63; color: white; padding: 15px; border-radius: 10px; display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
+  <div>Ker bašo sakova nišani po najhari pandž lafjora.</div>
+  <div style="width: 80px; height: 80px; background-color: #e91e63; border-radius: 10px; display: flex; align-items: center; justify-content: center;">
+    ![image](image_1.png)
+  </div>
+</div>
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+................................................................................................
+
+--- Page 51 ---
+# Trin nukte (čhinavibaskoro nišani)
+
+Akava nišani koristinela pe keda manuš na vakerela celo pli misla. Odova šaj te ovel keda manuš ovela čhinavdo, keda manuš nane sigurno, ja pale keda manuš darala.
+
+Soske na aljan erati ki škola?
+
+Me na aljum odoleske so ... me ...
+
+Epa vaker amenge soske?
+
+Me ...
+
+<div style="display: flex; gap: 10px;">
+  <div style="width: 20px; height: 20px; background-color: #e91e63; border-radius: 50%;"></div>
+  <div style="width: 20px; height: 20px; background-color: #e91e63; border-radius: 50%;"></div>
+  <div style="width: 20px; height: 20px; background-color: #e91e63; border-radius: 50%;"></div>
+</div>
+
+<div style="background-color: #e91e63; color: white; padding: 15px; border-radius: 10px; display: flex; align-items: center; gap: 15px;">
+  <div>Ker bašo sakova nišani po najhari pandž lafjora.</div>
+  <div style="width: 80px; height: 80px;">
+    ![image](image_1.png)
+  </div>
+</div>
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+...............................................................................................................
+
+................................................................
+
+--- Page 52 ---
+# Citiribaskoro nišani
+
+O citiribaskoro nišani koristinela pe keda manuš koristinela javereskere lafia, ko primer:
+
+> "Me mangava sa e sikljovnenge jek šukar hem lokho nilaj." Phendža o direktori hem huljilo kotar i scena.
+
+<div style="text-align: center; font-size: 48px; color: #FF3366;">“ ”</div>
+
+<div style="background-color: #FF3366; color: white; padding: 10px; border-radius: 10px; display: inline-block; margin-top: 20px;">
+Ker bašo sakova nišani po najhari pandž lafjora.
+</div>
+
+<div style="text-align: right; margin-top: 10px;">
+![image](image_1.png)
+</div>
+
+---
+
+50 HRAMOJBASKERE NIŠANIA
+
+--- Page 53 ---
+# Pačaribaskoro nišani
+
+O pačaribaskere nišania koristinena pe keda manuš mangela te haljovkerel diso (objasninel), primer:
+
+Me našti te gindinav (zamislinav) mange kaj ov šaj te kerel odova.
+
+<div style="text-align: center; font-size: 100px; color: #e6004c;">()</div>
+
+<div style="background-color: #e6004c; color: white; padding: 10px; border-radius: 10px; display: inline-block; margin-top: 20px;">
+Ker bašo sakova nišani po najhari pandž lafjora.
+</div>
+
+<div style="text-align: right; margin-top: 20px;">
+HRAMOJBASKERE NIŠANIA
+<span style="background-color: #e6004c; color: white; border-radius: 50%; padding: 5px 10px; font-weight: bold;">51</span>
+</div>
+
+--- Page 54 ---
+<div style="background-color: #e91e63; color: white; padding: 15px; border-radius: 15px; display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    Tumen dikhlen sar istemalkerena (upotrebinena) pe akala nišania. Akana ka ovel šukar tumen te keren jek paramisi. Ki paramisi te istemalkeren sa o nišania so siklilen.
+  </div>
+  <div>
+    ![image](image_1.png)
+  </div>
+</div>
+
+---
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+---
+
+**52** HRAMOJBASKERE NIŠANIA
+
+--- Page 55 ---
+Oven saste so kerdžen mancar buti.  
+Pačava/pakjava kaj siklilen šukar akale  
+gramatikakoro kotor. Ka dikha amen pale  
+ko pouče klasia kori so ka sikljova  
+neve buča!!!
+
+--- Page 56 ---
+O ljil Amen sikljovaja gramatika tano kerdo e romane sikljovnenge (učenikonge) so džana ki fundavni škola ko maškarune klasia. Akale lileskoro cili tano te del pe e romane sikljovnenge haljovkeribe bašo disave gramatikane lafia. Keda isi ljila ki romani čhib tegani zoraljovela e sikljovneskoro hoši (oset) baši pli čhib hem kultura. Amen pačaja kaj o ljil kerela te bajrol hem e sikljovnenskoro zoralipe te šaj te barakerel pli čhib hem te kerel usporedbe ešvedikane čhibaja.
+
+Amen sikljovaja gramatika, är gjort för romska elever som går i grundskolan på mellanstadiet. Syftet med detta läromedel är att ge romska elever förklarningar av en del grammatiska begrepp. En bok på det egna språket kan öka elevens känsla för den romska kulturen. Boken bidrar förhoppningsvis även till att öka elevernas förmåga att utveckla det romska språket och till att göra jämförelser med svenskan.
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 50px;">
+
+<div style="text-align: left;">
+  <h1 style="font-family: 'Georgia', serif; font-size: 28px; color: #5d3a7a; margin: 0;">Skolverket</h1>
+  <p style="font-size: 12px; color: #5d3a7a; margin: 5px 0 0 0;">www.skolverket.se</p>
+</div>
+
+<div style="text-align: right;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="width: 20px; height: 20px; background-color: #d32f2f; border-radius: 50%;"></div>
+    <div style="width: 20px; height: 20px; background-color: #d32f2f; border-radius: 50%;"></div>
+    <div style="font-size: 24px; font-weight: bold; color: #5d3a7a;">i</div>
+  </div>
+  <div style="font-size: 16px; color: #5d3a7a; margin-top: 5px;">
+    Institutet för språk och folkminnen
+  </div>
+  <div style="font-size: 12px; color: #5d3a7a; margin-top: 5px;">
+    SPRÅKRÅDET
+  </div>
+</div>
+
+</div>
