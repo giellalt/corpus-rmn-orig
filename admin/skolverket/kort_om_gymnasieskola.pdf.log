@@ -1,0 +1,4 @@
+stdout
+b''
+stderr
+b'Syntax Error: Document stream is empty\n'
